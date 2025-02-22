@@ -1,0 +1,135 @@
+Only I follows
+Only II and III follow
+Only either II or III follows
+Only either I or IV follows
+None follows
+
+Only either I or IV follows
+Only either I or II follows
+Only either I or III follows
+None follows
+All follow
+
+Only I and III follows
+Only II and III follow
+None follows
+All follow
+Only either I ro IV follows
+
+None follows
+Only I and II follow
+Only I, II and IV follow
+Only II, III and IV follow
+All follow
+
+None follows
+Only I and II follow
+Only I, II and III follow
+Only II, III and IV follow
+Only III and IV follow
+
+Only I follows
+Only I and II follow
+Only II follows
+None follows
+All follow
+
+None follows
+Only I and IV follow
+Only II and IV follow
+Only IV follows
+
+Only I follows
+Only II and III follow
+Only I and III follow
+Only I and II follow
+Only either II or IV follows
+
+All follow
+Only I and II follow
+Only III and IV follow
+Only IV follows
+None of these
+
+Only II follows
+Only I follows
+Only II and IV follow
+Only IV follows
+None follows
+
+Only II follows
+None follow
+Either I or III follows
+Only III and IV follow
+All follow
+
+Only I, II and IV follow
+Only I, III and IV follow
+Only II, III and IV follow
+All follow
+None of these
+
+Only I follows
+Only II follows
+Only either I or II follows
+Only III and IV follow
+None of these
+
+Only either I or II follows
+Only either II or III follows
+Only either I oro IV follows
+Only either II or IV follows
+
+None follows
+Only I and IV follow
+Only either II or III follows
+Only either III or IV follows
+Only either II or IV follows
+
+Only I and II follow
+Only III and IV follow
+Only IV follows
+All follow
+None of these
+
+Only I follows
+None follows
+Only II and III follow
+Only II and IV follow
+None of these
+
+Only I follows
+Only II and III follow
+Only either II or III follow
+Only either I or IV follows
+None of these
+
+All novels are songs.
+Some novels are songs.
+Some songs are novels.
+All stories are not songs.
+None of these
+
+Only I and II follow
+Only I and III follow
+Either I or II, and III follow
+Either II or IV follows
+None of these
+
+None follows
+Either I or III follows
+All follow
+Only IV follows
+None of these
+
+Only I follows
+Only I and II follow
+Only I and IV follow
+Either II or III, and I follow
+None of these
+
+Only I and II follow
+Either I or II, and III follow
+Only III follows
+Either I or II, and either III or ive follow
+None of these

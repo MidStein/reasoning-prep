@@ -1,0 +1,215 @@
+L
+M
+N
+O
+No such letter
+
+N
+L
+O
+K
+None of these
+
+S
+T
+U
+V
+Y
+
+E
+F
+G
+U
+V
+
+S
+T
+U
+V
+None of these
+
+K
+V
+J
+U
+None of these
+
+K
+O
+P
+R
+None of these
+
+K
+O
+P
+R
+None of these
+
+K
+O
+P
+R
+None of these
+
+Q
+V
+X
+W
+None of these
+
+L
+M
+O
+P
+None of these
+
+F
+G
+V
+W
+None of these
+
+P
+N
+D
+W
+M
+
+N
+O
+P
+Q
+None of these
+
+D
+V
+W
+X
+None of these
+
+L
+M
+O
+P
+None of these
+
+D
+E
+F
+I
+None of these
+
+M
+N
+O
+L
+None of these
+
+M
+N
+O
+M or O
+None of these
+
+H
+L
+M
+N
+None of these
+
+R
+S
+U
+V
+None of these
+
+J
+K
+L
+M
+None of these
+
+F
+H
+I
+J
+None of these
+
+B
+C
+H
+I
+None of these
+
+SEpteMbeR
+SEptembER
+sePTemBeR
+sEptEMbEr
+None of these
+
+OCTOBER
+OCtObEr
+oCtObEr
+ocToBeR
+None of these
+
+M
+S
+11
+23
+None of these
+
+F
+G
+Q
+R
+None of these
+
+Nil
+One
+Two
+Three
+More than three
+
+0
+1
+2
+3
+
+None
+One
+Two
+Three
+None of these
+
+2
+4
+5
+7
+9
+
+4
+5
+6
+7
+
+B
+E
+M
+S
+
+B and Q
+D and Y
+U and F
+V and E
+
+M
+N
+O
+P
+
+HMP
+NQZ
+QOE
+YLF

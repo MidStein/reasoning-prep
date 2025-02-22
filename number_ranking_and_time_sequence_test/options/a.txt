@@ -1,0 +1,178 @@
+3
+4
+5
+6
+7
+
+one
+two
+three
+four
+None of these
+
+2
+3
+4
+5
+
+one
+two
+three
+four
+
+10
+3
+2
+0
+None of these
+
+2
+4
+5
+7
+9
+
+Nil
+one
+two
+three
+None of these
+
+two
+three
+four
+five
+
+2
+3
+4
+5
+None of these
+
+253
+245
+375
+865
+None of these
+
+one
+two
+three
+four
+More than four
+
+3
+4
+5
+More than 5
+None of these
+
+one
+two
+three
+four
+
+one
+three
+five
+six
+None of these
+
+1
+2
+3
+4
+More than 4
+
+1
+2
+3
+4
+More than 4
+
+Nil
+one
+two
+three
+None of these
+
+one
+two
+three
+four
+None of these
+
+19
+21
+22
+they will not call out the same number
+None of these
+
+1
+4
+7
+8
+None of these
+
+2
+6
+7
+8
+9
+
+4
+5
+6
+7
+
+10
+12
+15
+17
+
+wait
+sit
+go
+stop
+run
+
+2
+3
+4
+5
+None of these
+
+18
+21
+24
+27
+30
+
+3
+45
+50
+60
+None of these
+
+7
+10
+20
+21
+More than 21
+
+8
+6
+5
+Nil
+
+two
+four
+five
+six
+seven
+
+5
+6
+7
+8
+9

@@ -1,0 +1,224 @@
+Sharma
+Roy
+Arora
+Cannot be determined
+None of these
+
+Grandson
+Son
+Cousin
+Son-in-law
+None of these
+
+Roy
+Sharma
+Arora
+Cannot be determined
+None of these
+
+Aunt
+Mother-in-law
+Mother
+Sister-in-law
+None of these
+
+RS
+SU
+PT
+QU
+
+PQ
+RT
+ST
+SU
+
+Brother
+Sister
+Uncle
+Cannot be determined
+
+PQ
+QR
+QS
+PT
+
+PQ
+PR
+QS
+Cannot be determined
+
+Grandfather
+Mother
+Sister
+Grandmother
+None of these
+
+P
+Q
+S
+T
+None of these
+
+Brother
+Sister
+Brother or sister
+Data inadequate
+None of these
+
+PSR
+PSU
+QTR
+Data inadequate
+None of these
+
+She is a lawyer.
+She is a student.
+She is an engineer.
+Data inadequate
+None of these
+
+
+P
+Q
+R
+S
+T
+
+P
+Q
+R
+S
+T
+
+P
+Q
+R
+S
+T
+
+P
+Q
+R
+S
+None
+
+P, Q, R
+Q, R, S
+P, Q, S
+P, R, S
+None of these
+
+Red
+Yellow
+Either red or yellow
+Cannot be determined
+None of these
+
+Two
+Three
+Four
+Cannot be determined
+None of these
+
+Brother of B
+Sister of B
+Daughter of C
+Either sister or brother of B
+None of these
+
+Red-Yellow
+Yellow-Red
+Green-Black
+Yellow-Green
+None of these
+
+AC
+CD
+DA
+Cannot be determined
+None of these
+
+Grandmother
+Brother
+Father
+Data inadequate
+None of these
+
+AB
+BC
+AD
+BE
+None of these
+
+Two
+Three
+Four
+Data inadequate
+None of these
+
+A
+C
+D
+Data inadequate
+None of these
+
+Grandmother
+Cousin
+Sister
+Mother
+None of these
+
+Q
+R
+S
+T
+None of these
+
+QSR
+QST
+QSU
+QTU
+UST
+
+PR
+TS
+QT
+Data inadequate
+None of these
+
+Black
+Green
+Black or green
+Data inadequate
+None of these
+
+
+Nanu
+Mohini
+Sunita
+Cannot be determined
+None of these
+
+Engineer
+Doctor
+Teacher
+Cannot be determined
+None of these
+
+Mohini-Vinod and Rohan-Sunita
+Vinod-Mohini and Rohan-Nanu
+Rohan-Sunita and Tanmay-Nanu
+Cannot be determined
+None of these
+
+Two
+Three
+Four
+Cannot be determined
+None of these
+
+Green
+White
+Either White or Green
+Cannot be determined
+None of these

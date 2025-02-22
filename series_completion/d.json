@@ -1,0 +1,608 @@
+[
+  {
+    "parent_question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.",
+    "questions": [
+      {
+        "question": "_ _ aba _ _ ba _ ab",
+        "options": [
+          "abbba",
+          "abbab",
+          "baabb",
+          "bbaba"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "ab _ _ _ b _ bbaa _",
+        "options": [
+          "abaab",
+          "abbab",
+          "baaab",
+          "babba"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "_ baa _ aab _ a _ a",
+        "options": [
+          "aabb",
+          "aaba",
+          "abab",
+          "baab"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "_ _ babbba _ a _ _",
+        "options": [
+          "ababb",
+          "baaab",
+          "bbaba",
+          "babbb"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "aa _ ab _ _ aaa _ a",
+        "options": [
+          "aaab",
+          "aabb",
+          "abab",
+          "baaa"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "a _ bbc _ aab _ cca _ bbcc",
+        "options": [
+          "bacb",
+          "acba",
+          "abba",
+          "caba"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "ab _ aa _ bbb _ aaa _ bbba",
+        "options": [
+          "abba",
+          "baab",
+          "aaab",
+          "abab"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "bc _ b _ c _ b _ ccb",
+        "options": [
+          "cbcb",
+          "bbcb",
+          "cbbc",
+          "bcbc"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "abb _ baa _ a _ bab _ aba",
+        "options": [
+          "abba",
+          "abab",
+          "ccac",
+          "aabb"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "abca _ bcaab _ ca _ bbc _ a",
+        "options": [
+          "ccaa",
+          "bbaa",
+          "abab",
+          "abba"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "_ bbca _ bcca _ ac _ a _ cb",
+        "options": [
+          "abcba",
+          "acbab",
+          "bacab",
+          "bcaab"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "_ bcc _ ac _ aabb _ ab _ cc",
+        "options": [
+          "aabca",
+          "abaca",
+          "bacab",
+          "bcaca"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "a _ bccb _ ca _ cca _ baab _ c",
+        "options": [
+          "ababc",
+          "abcaa",
+          "accab",
+          "bacaa"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "ab _ aa _ caab_ c _ abb _ c",
+        "options": [
+          "bbcaa",
+          "bcbca",
+          "cabac",
+          "cbbac"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "c _ baa _ aca _ cacab _ acac _ bca",
+        "options": [
+          "acbaa",
+          "bbcaa",
+          "bccab",
+          "cbaac"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "_ aba _ cabc _ dcba _ bab _ a",
+        "options": [
+          "abdca",
+          "bcadc",
+          "abcdd",
+          "cbdaa"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "a _ cdaab _ cc _ daa _ bbb _ ccddd",
+        "options": [
+          "bdbda",
+          "bddca",
+          "dbbca",
+          "bbdac"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "a _ abbb _ ccccd _ ddccc _ bb _ ba",
+        "options": [
+          "abcda",
+          "abdbc",
+          "abdcb",
+          "abcad"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "_ bcdbc _ dcabd _ bcdbc _ dc _ bd",
+        "options": [
+          "aaaaa",
+          "ccccc",
+          "bbbbb",
+          "ddddd"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "adb _ ac _ da _ cddcb _ dbc _ cbda",
+        "options": [
+          "bccba",
+          "cbbaa",
+          "ccbba",
+          "bbcad"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "c _ bbb _ _ abbbb _ abbb _",
+        "options": [
+          "aabcb",
+          "abccb",
+          "abacb",
+          "bacbb"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "b _ abbc _ bbca _ bcabb _ ab",
+        "options": [
+          "acaa",
+          "acba",
+          "cabc",
+          "cacc"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "ac _ cab _ baca _ aba _ acac",
+        "options": [
+          "aacb",
+          "acbc",
+          "babb",
+          "bcbb"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "_ acca _ ccca _ acccc _ aaa",
+        "options": [
+          "acca",
+          "caaa",
+          "ccaa",
+          "caac"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "_ bc _ _ bb _ aabc",
+        "options": [
+          "acac",
+          "babc",
+          "abab",
+          "aacc"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "aa _ aaa _ aaaa _ aaaa _ b",
+        "options": [
+          "baaa",
+          "bbaa",
+          "bbbb",
+          "bbba"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "aba _ baca _ ba _ baccaabac _ aca",
+        "options": [
+          "cacb",
+          "ccab",
+          "cabc",
+          "abcc"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "ab _ bc _ c _ ba _ c",
+        "options": [
+          "baac",
+          "aabb",
+          "caab",
+          "aaab"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "a _ ca _ bc _ bcc _ bca",
+        "options": [
+          "bbaa",
+          "bbab",
+          "aabb",
+          "baba"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "ab _ bcbca _ _ c _ bab",
+        "options": [
+          "acbc",
+          "baaa",
+          "abcc",
+          "ccaa"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "a _ cacbc _ baca _ _ b",
+        "options": [
+          "baba",
+          "babc",
+          "abac",
+          "cacb"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "_ aaba _ bba _ bba _ abaa _ b",
+        "options": [
+          "aabab",
+          "ababa",
+          "baaba",
+          "bbaba"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "ab _ bbc _ c _ ab _ ab _ b",
+        "options": [
+          "ccaac",
+          "cbabc",
+          "cacac",
+          "bccab"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "_ bca _ cca _ ca _ b _ c",
+        "options": [
+          "aaaaa",
+          "bbbab",
+          "aabaa",
+          "bbabb"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "b _ ac _ cc _ cb _ ab _ ac",
+        "options": [
+          "cbaba",
+          "bbaac",
+          "abbbc",
+          "aabba"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "c _ ac _ aa _ aa _ bc _ bcc",
+        "options": [
+          "cabba",
+          "ccbbb",
+          "bbbbb",
+          "cbacb"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "abc _ d _ bc _ d _ b _ cda",
+        "options": [
+          "bacde",
+          "cdabe",
+          "dacab",
+          "decdb"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "ba _ b _ aab _ a _ b",
+        "options": [
+          "abaa",
+          "abba",
+          "baab",
+          "babb"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "gfe _ ig _ eii _ fei _ gf _ ii",
+        "options": [
+          "eifgi",
+          "figie",
+          "ifgie",
+          "ifige"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "mnonopqopqrs _ _ _ _ _",
+        "options": [
+          "mnopq",
+          "oqrst",
+          "pqrst",
+          "qrstu"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "aab _ ab _ cabcca _ bcab _ c",
+        "options": [
+          "bbbc",
+          "bbab",
+          "cabc",
+          "cbab"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "ccbab _ caa _ bccc _ a _",
+        "options": [
+          "babb",
+          "bbba",
+          "baab",
+          "babc"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "ba _ b _ aabb _ a _ _ a _ bb",
+        "options": [
+          "bbaabb",
+          "ababba",
+          "ababab",
+          "bababa"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "a _ c _ abb _ a _ bc _ bc _ ab",
+        "options": [
+          "cbcaaa",
+          "bcccab",
+          "bccaac",
+          "acbabc"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "cab _ a _ c _ bc _ bc _ b _ ab",
+        "options": [
+          "bcbbab",
+          "bcbbbc",
+          "acacab",
+          "cbaaac"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "cccbb _ aa _ cc _ bbbaa _ c",
+        "options": [
+          "acb",
+          "baca",
+          "baba",
+          "acba"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "_ abb _ _ bb _ a _ bbab _ ba",
+        "options": [
+          "bababa",
+          "bbabbb",
+          "ababaa",
+          "aaaabb"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "ccb _ c _ bbc _ b _ cc _ _ ccbb",
+        "options": [
+          "bccbbb",
+          "bcccbb",
+          "aaaaba",
+          "bbbbbb"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "abca _ bcaab _ aa _ caa _ c",
+        "options": [
+          "bbac",
+          "bbaa",
+          "acbb",
+          "acac"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "b _ b _ bb _ _ bbb _ bb _ b",
+        "options": [
+          "bbbbba",
+          "bbaaab",
+          "ababab",
+          "aabaab"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "c _ bba _ cab _ ac _ ab _ ac",
+        "options": [
+          "abcbc",
+          "acbcb",
+          "babcc",
+          "bcacb"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "a _ bc _ c _ abb _ bca _",
+        "options": [
+          "cccbc",
+          "cbbac",
+          "accba",
+          "abbba"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "_ c _ bd _ cbcda _ a _ db _ a",
+        "options": [
+          "adabcd",
+          "cdbbca",
+          "daabbc",
+          "bdbcba"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "a _ bc _ a _ bcda _ ccd _ bcd _",
+        "options": [
+          "abdcad",
+          "adbbad",
+          "acbdbb",
+          "abddbd"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "_ cb _ ca _ bacb _ ca _ bac _ d",
+        "options": [
+          "bddddb"
+        ],
+        "correct_option": "c"
+      }
+    ]
+  },
+  {
+    "parent_question": "Directions : In each of the followsing number questions, three sequences of letters/numerals are given which correspond to each other other in some way. In each question, you have to find out the letters/numerals that come in the vacant places marked by (?). These are given as one of the four alternatives under the question. Mark your answer as instructed.",
+    "questions": [
+      {
+        "question": "<code>C B _ _ D _ B A B C C B<br>_ _ 1 2 4 3 _ _ ? ? ? ?<br>a _ a b _ c _ b _ _ _ _</code>",
+        "options": [
+          "bbbddd",
+          "addddb",
+          "addbbb"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "<code>_ A C _ B D _ C D C D<br>2 _ 4 1 _ 1 4 _ _ _ _<br>c d _ b c _ a ? ? ? ?</code>",
+        "options": [
+          "3, 4, 4, 3",
+          "3, 2, 2, 3",
+          "3, 1, 1, 3",
+          "1, 4, 4, 1"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "<code>C _ B _ D _ A _ B B D D<br>2 _ _ 4 _ 3 4 _ ? ? ? ?<br>_ a _ c b a _ d _ _ _ _</code>",
+        "options": [
+          "a, b, a, b",
+          "a, c, a, c",
+          "c, b, c, b",
+          "c, d, c, d"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "<code>A _ B A C _ D _ B C D C<br>_ 3 _ 2 _ 1 _ 4 ? ? ? ?<br>d c _ _ b a c b _ _ _ _</code>",
+        "options": [
+          "2, 2, 1, 1",
+          "2, 2, 3, 3",
+          "3, 3, 4, 4",
+          "3, 3, 1, 1"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "<code>_ A D A C B _ _ B D C C<br>1 3 _ _ 1 2 4 2 _ _ _ _<br>a _ _ b _ _ c d ? ? ? ?</code>",
+        "options": [
+          "1, 3, 4, 3",
+          "1, 4, 3, 4",
+          "2, 3, 4, 3",
+          "3, 4, 1, 4"
+        ],
+        "correct_option": "d"
+      }
+    ]
+  }
+]

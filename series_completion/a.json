@@ -1,0 +1,778 @@
+[
+  {
+    "parent_question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.",
+    "questions": [
+      {
+        "question": "1, 4, 9, 16, 25, (.....)",
+        "options": [
+          "35",
+          "36",
+          "48",
+          "49"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "20, 19, 17, (.....), 10, 5",
+        "options": [
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "2, 3, 5, 7, 11, (.....), 17",
+        "options": [
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "6, 11, 21, 36, 56, (.....)",
+        "options": [
+          "42",
+          "51",
+          "81",
+          "91"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "1, 6, 13, 22, 33, (.....)",
+        "options": [
+          "44",
+          "45",
+          "46",
+          "47"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "3, 9, 27, 81, (.....)",
+        "options": [
+          "324",
+          "243",
+          "210",
+          "162"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "1, 9, 17, 33, 49, 73, (.....)",
+        "options": [
+          "97",
+          "98",
+          "99",
+          "100"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "2, 5, 9, (.....), 20, 27",
+        "options": [
+          "14",
+          "16",
+          "18",
+          "24"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "5, 9, 17, 29, 45, (.....)",
+        "options": [
+          "60",
+          "65",
+          "68",
+          "70"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "3, 7, 15, 31, 63, (.....)",
+        "options": [
+          "92",
+          "115",
+          "127",
+          "131"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "1, 6, 15, (.....), 45, 66, 91",
+        "options": [
+          "25",
+          "26",
+          "27",
+          "28"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "1, 2, 3, 5, 8, (.....)",
+        "options": [
+          "9",
+          "11",
+          "13",
+          "15"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "0.5, 1.5, 4.5, 13.5, (.....)",
+        "options": [
+          "45.5",
+          "39.5",
+          "30.5",
+          "40.5"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "121, 225, 361, (.....)",
+        "options": [
+          "441",
+          "484",
+          "529",
+          "729"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "0, 2, 8, 14, (.....), 34",
+        "options": [
+          "24",
+          "22",
+          "20",
+          "18"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "19, 2, 38, 3, 114, 4, (.....)",
+        "options": [
+          "228",
+          "256",
+          "352",
+          "456"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "1, 2, 3, 6, 9, 18, (.....), 54",
+        "options": [
+          "18",
+          "27",
+          "36",
+          "81"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "4, 5, 9, 18, 34, (.....)",
+        "options": [
+          "43",
+          "49",
+          "50",
+          "59"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "3, 6, 18, 72, (.....)",
+        "options": [
+          "144",
+          "216",
+          "288",
+          "360"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "66, 36, 18, (.....)",
+        "options": [
+          "3",
+          "6",
+          "8",
+          "9"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "21, 25, 33, 49, 81, (.....)",
+        "options": [
+          "145",
+          "129",
+          "113",
+          "97"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "12, 32, 72, 152, (.....)",
+        "options": [
+          "312",
+          "325",
+          "515",
+          "613"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "3, 6, 5, 20, 7, 42, 9, (.....)",
+        "options": [
+          "54",
+          "60",
+          "66",
+          "72"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "1, 3, 4, 8, 15, 27, (.....)",
+        "options": [
+          "37",
+          "44",
+          "50",
+          "55"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "2, 15, 41, 80, (.....)",
+        "options": [
+          "111",
+          "120",
+          "121",
+          "132"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "8, 10, 14, 18, (.....), 34, 50, 66",
+        "options": [
+          "24",
+          "25",
+          "26",
+          "27"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "1, 2, 6, 24, (.....)",
+        "options": [
+          "60",
+          "95",
+          "120",
+          "150"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "2, 3, 8, 63, (.....)",
+        "options": [
+          "1038",
+          "1998",
+          "3008",
+          "3968"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "95, 115.5, 138, (.....), 189",
+        "options": [
+          "154.5",
+          "162.5",
+          "164.5",
+          "166.5"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "4, 10, (.....), 82, 244, 730",
+        "options": [
+          "24",
+          "28",
+          "77",
+          "218"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "4, 32, 128, (.....)",
+        "options": [
+          "128",
+          "144",
+          "192",
+          "256"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "2, 5, 9, 19, 37, (.....)",
+        "options": [
+          "76",
+          "75",
+          "74",
+          "72"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "24, 60, 120, 210, (.....)",
+        "options": [
+          "300",
+          "336",
+          "420",
+          "525"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "165, 195, 255, 285, 345, (.....)",
+        "options": [
+          "375",
+          "420",
+          "435",
+          "390"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "5, 17, 37, 65, (.....), 145",
+        "options": [
+          "95",
+          "97",
+          "99",
+          "101"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "9, 11, 20, 31, (.....), 82",
+        "options": [
+          "41",
+          "51",
+          "60",
+          "71"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "5, 16, 49, 104, (.....)",
+        "options": [
+          "115",
+          "148",
+          "170",
+          "181"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "34, 18, 10, 6, 4, (.....)",
+        "options": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "462, 420, 380, (.....), 306",
+        "options": [
+          "322",
+          "332",
+          "342",
+          "352"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "3, 8, 22, 63, 185, (.....)",
+        "options": [
+          "550",
+          "310",
+          "295",
+          "285"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "1, 2, 5, 12, 27, 58, 121, (.....)",
+        "options": [
+          "246",
+          "247",
+          "248",
+          "249"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "0.5, 0.55, .65, 0.8, (.....)",
+        "options": [
+          "0.9",
+          "0.82",
+          "1",
+          "0.95"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "3, 8, 13, 24, 41, (.....)",
+        "options": [
+          "70",
+          "75",
+          "80",
+          "85"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "97, 86, 73, 58, 45, (.....)",
+        "options": [
+          "34",
+          "54",
+          "55",
+          "56"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "17, 19, 23, 29, (.....), 37",
+        "options": [
+          "31",
+          "33",
+          "35",
+          "36"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "5, 6, 9, 15, (.....), 40",
+        "options": [
+          "21",
+          "25",
+          "27",
+          "33"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "3, 12, 27, 48, 75, 108, (.....)",
+        "options": [
+          "147",
+          "162",
+          "183",
+          "192"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "134, 245, 356, 467, (.....)",
+        "options": [
+          "579",
+          "578",
+          "568",
+          "478"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "6, 13, 28, (.....)",
+        "options": [
+          "56",
+          "57",
+          "58",
+          "59"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "563, 647, 479, 815, (.....)",
+        "options": [
+          "672",
+          "386",
+          "279",
+          "143"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "11, 12, 17, 18, 23, 24, (.....)",
+        "options": [
+          "12",
+          "29",
+          "30",
+          "35"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "225, 336, 447, (.....), 669, 7710",
+        "options": [
+          "114",
+          "338",
+          "558",
+          "991"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "840, 168, 42, 14, 7, (.....)",
+        "options": [
+          "1",
+          "7",
+          "9",
+          "12"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "5, 6, 7, 8, 10, 11, 14, (.....)",
+        "options": [
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "0, 2, 3, 5, 8, 10, 15, 17, 24, 26, (.....)",
+        "options": [
+          "35",
+          "32",
+          "30",
+          "28"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "0, 4, 6, 3, 7, 9, 6, (.....), 12",
+        "options": [
+          "8",
+          "10",
+          "11",
+          "14"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "1, 1, 3, 9, 6, 36, 10, 100, (.....), 225",
+        "options": [
+          "15",
+          "16",
+          "20",
+          "22"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "2, 1, 2, 4, 4, 5, 6, 7, 8, 8, 10, 11, (.....)",
+        "options": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "4, 23, 60, 121, (.....)",
+        "options": [
+          "212",
+          "221",
+          "241",
+          "242"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "1, 4, 2, 8, 6, 24, 22, 88, (.....)",
+        "options": [
+          "86",
+          "90",
+          "154",
+          "352"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "13, 32, 24, 43, 35, (.....), 46, 65, 57, 76",
+        "options": [
+          "45",
+          "52",
+          "54",
+          "55"
+        ],
+        "correct_option": "c"
+      },
+      {
+        "question": "3, 4, 7, 7, 13, 13, 21, 22, 31, 44, (.....)",
+        "options": [
+          "42",
+          "43",
+          "51",
+          "52"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "2, 6, 12, 20, 30, 42, 56, (.....)",
+        "options": [
+          "60",
+          "64",
+          "70",
+          "72"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "8, 9, 8, 7, 10, 9, 6, 11, 10, (.....), 12",
+        "options": [
+          "5",
+          "7",
+          "8",
+          "11"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "90, 180, 12, 50, 100, 200, (.....), 3, 50, 4, 25, 2, 6, 30, 3",
+        "options": [
+          "150",
+          "175",
+          "225",
+          "250"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "11, 10, (.....), 100, 1001, 1000, 10001",
+        "options": [
+          "101",
+          "110",
+          "111",
+          "None of these"
+        ],
+        "correct_option": "a"
+      },
+      {
+        "question": "123456147, 12345614, 2345614, 234561, (.....)",
+        "options": [
+          "3456",
+          "2345",
+          "23456",
+          "34561"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "\\(\\frac{4}{9}\\), \\(\\frac{9}{20}\\), \\(\\frac{39}{86}\\)",
+        "options": [
+          "\\(\\frac{17}{40})",
+          "\\(\\frac{19}{42})",
+          "\\(\\frac{20}{45})",
+          "\\(\\frac{29}{53})"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "\\(\\frac{2}{\\sqrt{5}}\\), \\(\\frac{3}{5}\\), \\(\\frac{4}{5\\sqrt{5}}\\), \\(\\frac{5}{25}\\)",
+        "options": [
+          "\\(\\frac{6}{5\\sqrt{5}}\\)",
+          "\\(\\frac{6}{25\\sqrt{5}}\\)",
+          "\\(\\frac{6}{125}\\)",
+          "\\(\\frac{7}{25}\\)"
+        ],
+        "correct_option": "b"
+      },
+      {
+        "question": "11\\(\\frac{1}{9}\\), 12\\(\\frac{1}{2}\\), 14\\(\\frac{2}{7}\\), 16\\(\\frac{2}{3}\\)",
+        "options": [
+          "8\\(\\frac{1}{3})",
+          "9\\(\\frac{1}{11})",
+          "10",
+          "20"
+        ],
+        "correct_option": "d"
+      },
+      {
+        "question": "(2, 3), (3, 5), (5, 7), (7, 11), (11, 13), (.....)",
+        "options": [
+          "(13, 15)",
+          "(15, 16)",
+          "(13, 17)",
+          "(13, 19)"
+        ],
+        "correct_option": "c"
+      }
+    ]
+  },
+  {
+    "question": "In the series 10, 17, 24, 31, 38, ..., which of the following will be a number in the series ?",
+    "options": [
+      "48",
+      "346",
+      "574",
+      "1003"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Which of the following will not be a number of the series 1, 8, 27, 64, 125, ..., ?",
+    "options": [
+      "256",
+      "512",
+      "729",
+      "1000"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "In the series 3, 9, 15, ..., what will be the 21st term ?",
+    "options": [
+      "117",
+      "121",
+      "123",
+      "129"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "In the series 2, 6, 18, 54, ..., what will be the 8th term ?",
+    "options": [
+      "4370",
+      "4374",
+      "7443",
+      "7434"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Which term of the series 5, 8, 11, 14, ... is 320 ?",
+    "options": [
+      "104th",
+      "105th",
+      "106th",
+      "64th"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Which term of the series 5, 10, 20, 40, ... is 1280 ?",
+    "options": [
+      "10th",
+      "9th",
+      "8th",
+      "None of these",
+      ""
+    ],
+    "correct_option": "b"
+  }
+]

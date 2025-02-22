@@ -1,0 +1,140 @@
+A
+B
+C
+D
+E
+
+E
+C
+B
+D
+A
+
+ACE
+DE
+BCE
+BD
+None of these
+
+A
+E
+D
+C
+B
+
+(iii)
+(iv)
+(ii)
+(v)
+Nil
+
+A
+B
+C
+E
+
+Business
+Engineer
+Lawyer
+Doctor
+
+Lawyer
+Doctor
+Cloth merchant
+Engineer
+
+Business
+Engineer
+Lawyer
+Doctor
+
+Doctor
+Lawyer
+Engineer
+Business
+
+D and A
+B and C
+A and B
+A and C
+None of these
+
+A
+C
+D
+E
+B
+
+A
+B
+C
+E
+D
+
+A and D
+B and E
+C and E
+C and D
+A and C
+
+B
+C
+E
+D
+A
+
+C
+Either H or C
+H
+Either C or G
+None of these
+
+G
+G and H
+C and D
+Cannot be determined
+None of these
+
+
+Two lady members are Ph.D.
+Three male members are Ph.D.
+The person who teaches zoology is not Ph.D.
+The person who teaches economics is Ph.D.
+None of these
+
+Commerce-Male-Ph.D.
+Economics-Lady-non-Ph.D.
+Physic-Lady-Ph.D.
+Zoology-Male-Ph.D.
+Chemistry-Male-non-Ph.D.
+
+Zoology
+Either Physics or Zoology
+Either Physics or Economics
+Cannot be determined
+None of these
+
+A
+B
+C
+D
+
+A
+B
+C
+D
+
+A
+B
+C
+D
+
+A, D
+A, E
+B, C
+D, E
+
+A
+B
+C
+D

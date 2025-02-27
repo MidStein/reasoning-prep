@@ -460,7 +460,7 @@
     ]
   },
   {
-    "parent_question": "Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as<br>(a) if both the bracketed terms are right;<br>(b) if the first bracketed term is right and second is wrong;<br>(c) if the first bracketed term is wrong and second is right;<br>(d) if both the bracketed terms are wrong.",
+    "parent_question": "Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as\n(a) if both the bracketed terms are right;\n(b) if the first bracketed term is right and second is wrong;\n(c) if the first bracketed term is wrong and second is right;\n(d) if both the bracketed terms are wrong.",
     "questions": [
       {
         "question": "4, 6, 10, (12), 16, (14), 22",

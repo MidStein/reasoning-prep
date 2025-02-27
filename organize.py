@@ -31,6 +31,9 @@ def parse_options_file(chapter_dir_name: str, exercise_name: str) -> list[list[s
     ]
     assert not options[-1][-1]
     del options[-1][-1]
+    if exercise_name == "c":
+        print(len(options))
+        print("here")
     return options
 
 
@@ -39,13 +42,20 @@ def load_group(
 ) -> Output.Group:
     questions: list[Output.Question] = []
     for question_idx in range(len(group.questions)):
-        question: Output.Question = Output.Question(
-            question=group.questions[question_idx],
-            options=options[group.from_question - 1 + question_idx]
-            if not group.no_options
-            else None,
-            correct_option=correct_options[group.from_question - 1 + question_idx],
-        )
+        try:
+            question: Output.Question = Output.Question(
+                question=group.questions[question_idx],
+                options=None
+                if group.no_options
+                else options[group.from_question - 1 + question_idx],
+                correct_option=correct_options[group.from_question - 1 + question_idx],
+            )
+        except IndexError as e:
+            print(f"{question_idx=}")
+            print(f"{group=}")
+            print(options[group.from_question - 1 + question_idx] if not group.no_options else None)
+            print(f"{len(correct_options)=}")
+            raise(e)
         questions.append(question)
     return Output.Group(
         parent_question=group.parent_question,
@@ -61,7 +71,12 @@ def load_case_items(
     options: list[list[str]] = parse_options_file(
         CHAPTER_PATH_DICT[input_chapter], chr(case_idx + 1 + 96)
     )
-    correct_options: list[str] = chapter_module_dict[input_chapter][1][case_idx]
+    try:
+        correct_options: list[str] = chapter_module_dict[input_chapter][1][case_idx]
+    except IndexError as e:
+        print(case_idx)
+        print(len(chapter_module_dict[input_chapter][1]))
+        raise(e)
 
     items: list[Output.Group | Output.Question] = []
     for input_item in case.items:
@@ -69,11 +84,18 @@ def load_case_items(
             group: Output.Group = load_group(input_item, options, correct_options)
             items.append(group)
         else:
-            question: Output.Question = Output.Question(
-                question=input_item.question,
-                options=options[input_item.number - 1],
-                correct_option=correct_options[input_item.number - 1],
-            )
+            try:
+                question: Output.Question = Output.Question(
+                    question=input_item.question,
+                    options=options[input_item.number - 1],
+                    correct_option=correct_options[input_item.number - 1],
+                )
+            except IndexError as e:
+                print(case.case_name)
+                print(input_item.number)
+                print(len(options))
+                print(options[20 - 1])
+                raise(e)
             items.append(question)
     return items
 

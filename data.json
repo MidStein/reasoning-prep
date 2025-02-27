@@ -2363,5 +2363,760 @@
         ]
       }
     ]
+  },
+  {
+    "chapter_name": "Coding - Decoding",
+    "types": [
+      {
+        "type_name": "LETTER CODING",
+        "cases": [
+          {
+            "case_name": "To form the code for another word (CODING)",
+            "items": [
+              {
+                "question": "If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code ?",
+                "options": [
+                  "CPNCBX",
+                  "CPNCBZ",
+                  "CPOCBZ",
+                  "CQOCBZ",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "if in a certain code, TRIPPLE is written as sqhokd. How is DISPOSE written in that code ?",
+                "options": [
+                  "CHRONRD",
+                  "DSOESPI",
+                  "ESJTPTF",
+                  "EPOPSID",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If in a code language, COULD is written as BNTKC and MARGIN is written as LZQFHM, how will MOULDING be written in that code ?",
+                "options": [
+                  "CHMFINTK",
+                  "LNKTCHMF",
+                  "LNTKCHMF",
+                  "NITKHCMF",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code ?",
+                "options": [
+                  "QDFHS",
+                  "SDFHS",
+                  "SHFDQ",
+                  "UJHFS",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If FRAGRANCE is written as SBHSBODFG, how can IMPOSING be written ?",
+                "options": [
+                  "NQPTJHOJ",
+                  "NQPTJOHI",
+                  "NQTPJOHJ",
+                  "NQPTJOHJ",
+                  "None of these"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "In a certain code, COMPUTER is written as RFUVQNPC. How is MEDICINE written in the same code ?",
+                "options": [
+                  "EOJDJEFM",
+                  "EOJDEJFM",
+                  "MFEJDJOE",
+                  "MFEDJJOE",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If in a certain language, GAMBLE is coded as FBLCKF, how is FLOWER coded in that code ?",
+                "options": [
+                  "GKPVFQ",
+                  "EMNXDS",
+                  "GMPVDS",
+                  "HNQYGT",
+                  "EKNVDQ"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If in a certain language, NATURE is coded as MASUQE, how is FAMINE code in that code ?",
+                "options": [
+                  "FBMJND",
+                  "FZMHND",
+                  "GANIOE",
+                  "EALIME",
+                  "FZNJME"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If in a certain code, TEACHER is written as VGCEJGT, how would DULLARD be written in the same code ?",
+                "options": [
+                  "FWMNCTF",
+                  "FWNNBTE",
+                  "FWNNCSF",
+                  "FWNNCTF",
+                  "None of these"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If in a certain language FASHION is coded as FOIHSAN, how is PROBLEM coded in that code ?",
+                "options": [
+                  "ROBLEMP",
+                  "PELBORM",
+                  "PRBOELM",
+                  "RPBOELM",
+                  "PELBROM"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If in a certain language KINDLE is coded as ELDNIK, how is EXOTIC coded in that code ?",
+                "options": [
+                  "EXOTLC",
+                  "CXOTIE",
+                  "COXITE",
+                  "CITOXE",
+                  "EOXITC"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If VICTORY is coded as YLFWRUB, how can SUCCESS be coded ?",
+                "options": [
+                  "VXEEIVV",
+                  "VXFFHVV",
+                  "VYEEHVV",
+                  "VYEFIVV",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a certain code, TOGETHER is written as RQEGRJCT. In the same code, PAROLE will be written as",
+                "options": [
+                  "NCPQJG",
+                  "NCQPJG",
+                  "RCPQJK",
+                  "RCTQNG",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If BOMBAY is written as MYMYMY, how will TAMIL NADU be written in that code ?",
+                "options": [
+                  "TIATIATIA",
+                  "MNUMNUMNU",
+                  "IATIATIAT",
+                  "ALDALDALD",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If FRIEND is coded as HUMJTK, how is CANDLE written in that code ?",
+                "options": [
+                  "EDRIRL",
+                  "DCQHQK",
+                  "ESJFME",
+                  "FYOBOC",
+                  "DEQJQM"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If in a certain language, COUNSEL is coded as BITIRAK, how is GUIDANCE written in that code ?",
+                "options": [
+                  "EOHYZKBB",
+                  "FOHYZJBB",
+                  "HOHYBJBA",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If HEATER is written as KBDQHO, how will you encode COOLER ?",
+                "options": [
+                  "ALIHV",
+                  "FLRIHO",
+                  "FLIRHO",
+                  "FRLIHO",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a code, CORNER is written as GSVRIV. How can CENTRAL be written in that code ?",
+                "options": [
+                  "DFOUSBM",
+                  "GIRXVEP",
+                  "GJRYVEP",
+                  "GNFJKER",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If MADRAS can be written as ARSARS, how can ARKONAM be written in that code ?",
+                "options": [
+                  "ROAAKNM",
+                  "ROAKANM",
+                  "ROAKNNM",
+                  "ROAKNAM",
+                  "ROKANAM"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If JOSEPH is coded as FKOALD, then GEORGE will be coded as",
+                "options": [
+                  "CADMNO",
+                  "CAKNIT",
+                  "CAKNCA",
+                  "JAKINS",
+                  "DBLODB"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If POND is coded as RSTL, how is HEAR written in that code ?",
+                "options": [
+                  "GHIJ",
+                  "GHIZ",
+                  "JIGZ",
+                  "JCLZ",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If TABLE is coded as GZYOV, how is JUICE coded ?",
+                "options": [
+                  "OZLFJ",
+                  "QFRXV",
+                  "HOFAD",
+                  "QZHMT",
+                  "EPQIL"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If CERTAIN is coded as XVIGZRM, how can MUNDANCE be coded ?",
+                "options": [
+                  "MFMXZMV",
+                  "NFMWZMV",
+                  "NFMWZMX",
+                  "VMZWMFN",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If DELHI is coded as CCIDD, how would you encode BOMBAY ?",
+                "options": [
+                  "AJMTVT",
+                  "AMJXVS",
+                  "MJXVSU",
+                  "WXYZAX",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "According to a military code, SYSTEM is SYSMET and NEARER is AENRER. What is code for FRACTION ?",
+                "options": [
+                  "CARFTINO",
+                  "FRACNOIT",
+                  "CARFTION",
+                  "ARFCNOIT",
+                  "CARFNOIT"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "In a certain code, INSTITUTION is written as NOITUTITSNI. How is PERFECTION written in that code ?",
+                "options": [
+                  "NOICTEFREP",
+                  "NOITCEFERP",
+                  "NOITCEFRPE",
+                  "NOITCEFREP",
+                  "NOITCEFPER"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If BELIEF is written as afkkdi, how is SELDOM written in that code ?",
+                "options": [
+                  "tfkenp",
+                  "rfkfnp",
+                  "rfkenn",
+                  "rdkcnl",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a code language, DISTANCE is written as IDTUBECN and DOCUMENT is written as ODDVNTNE. How is THURSDAY written in that language ?",
+                "options": [
+                  "DTVSTEYA",
+                  "HTTQRYAD",
+                  "HTVSTYDA",
+                  "HTVSYADS",
+                  "HTVSTYAD"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "In a certain language, CHAMPION is coded as HCMAIPNO, how is NEGATIVE coded in that code ?",
+                "options": [
+                  "ENAGITEV",
+                  "NEAGVEIT",
+                  "MGAETVIE",
+                  "EGAITEVN",
+                  "NEGATIEV"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If PEOPLE is coded as PLPOEE, how is TREND coded ?",
+                "options": [
+                  "TREDN",
+                  "DNERT",
+                  "NDETR",
+                  "TRDNE",
+                  "TNERD"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "In a certain code, MUNICIPALITY is written as INMUAPCIYTLI. How is JUDICIAL written in that code ?",
+                "options": [
+                  "UJDILACI",
+                  "IDUJLACI",
+                  "IDJULAIC",
+                  "IDJULACI",
+                  "None of these"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If CIGARETTE is coded as GICERAETT, then DIRECTION will be coded as",
+                "options": [
+                  "RIDTCENOI",
+                  "NORTECDII",
+                  "NOIETCRID",
+                  "IRDCTIONE",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain code, PAPER is written as SCTGW. How is MOTHER written in that code ?",
+                "options": [
+                  "ORVLGW",
+                  "PQVJGT",
+                  "PQXJJT",
+                  "PQXKJV",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, SUBSTITUTION is written as ITSBUSNOITUT. How is DISTRIBUTION written in that code ?",
+                "options": [
+                  "IRTSIDNOITUB",
+                  "IRTSIDNOIBUT",
+                  "IRTDISNOITUB",
+                  "IRTDISNOIUTB",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain code ADVENTURES is written as TDRESAUVEN. How is SURPRISING wirtten in that code ?",
+                "options": [
+                  "IUIPGSRSNR",
+                  "IUINGSSRRP",
+                  "IUIPGSSRNR",
+                  "IRIPGSSNRR",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, EXPLAINING is written as PXEALNIGNI. How is PRODUCED written in that code ?",
+                "options": [
+                  "ORPBUDEC",
+                  "ROPUDECD",
+                  "ORPUDECD",
+                  "DORPDECU",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, GIGANTIC is written as GIGTANCI. How is MIRACLES written in that code ?",
+                "options": [
+                  "MIRLCAES",
+                  "MIRLACSE",
+                  "RIMCALSE",
+                  "RIMLCAES",
+                  "RIMSCASE"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If CONTRIBUTE is written as ETBUIRNTOC, which letter will be the sixth place when counted from the left if POPULARISE is written in that code ?",
+                "options": [
+                  "L",
+                  "A",
+                  "I",
+                  "R"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If DIAMOND is coded as VRYMKLV, how is FEMALE coded ?",
+                "options": [
+                  "TUMYNU",
+                  "UVNZOV",
+                  "UVNYNV",
+                  "TVNYNV",
+                  "TUMZOU"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "Which of the following words would correctly decode the word ZHOFRPH if the simple alphabet shifting code is used ?",
+                "options": [
+                  "ARISTS",
+                  "COMPUTE",
+                  "MAILING",
+                  "WELCOME",
+                  "None of these"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "parent_question": "Directions : Below, the word EXPAND has been written four different codes by applying four different rules which are given as four alternatives against it. In each of the questions which follow, a word has been written in one of these codes. Find the alternative applicable to each word and mark your answer.<br><br>EXPAND<br><br>(a) FYQBOE<br>(b) EPDTCR<br>(c) GYRBPE<br>(d) CWNZLC<br>",
+                "questions": [
+                  {
+                    "question": "CONSULATE<br>FVDPZYUWL",
+                    "options": null,
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "PERCIEVE<br>NDPBCHTD",
+                    "options": null,
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "MUSHROOM<br>KTQGPNML",
+                    "options": null,
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "MICROWAVE<br>FXDATXJQV",
+                    "options": null,
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "HARMONIOUS<br>FZPLMMGNSR",
+                    "options": null,
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "TRAVELLER<br>USBWFMMFS",
+                    "options": null,
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "TRANSLATE<br>USBOTMBUF",
+                    "options": null,
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "HURRICANE<br>JVTSKDCOG",
+                    "options": null,
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "EARTHQUAKE<br>FBSUIRVBLF",
+                    "options": null,
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "CONSULT<br>EPPTWMV",
+                    "options": null,
+                    "correct_option": "c"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "case_name": "To find the word by analysing the given code (DECODING)",
+            "items": [
+              {
+                "question": "If in a certain language, POPULAR is coded as QPQVMBS, which word would be coded as GBNPVT ?",
+                "options": [
+                  "FAMOSU",
+                  "FAMOUS",
+                  "FASOUM",
+                  "FOSAUM",
+                  "FAMSUO"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If ROBUST is coded as QNATRS in a certain langauge, which word would be coded as ZXCMP ?",
+                "options": [
+                  "YWBLO",
+                  "YYBNO",
+                  "AWDLQ",
+                  "AYDNQ",
+                  "BZEOR"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If in a certain language, UTENSIL is coded as WVGPUKN, which word would be coded as DMSFXG ?",
+                "options": [
+                  "BKQEVE",
+                  "BKQDWE",
+                  "BKQDWF",
+                  "BKQDVF",
+                  "BKQDVE"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "If in a certain code, SWITCH is written as TVJSDG, which word would be written as CQFZE ?",
+                "options": [
+                  "BARED",
+                  "BRAED",
+                  "BREAD",
+                  "BRADE",
+                  "BRDAE"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, REFRIGERATOR is coded as ROTAREGIRFER. Which word would be coded as NOITINUMMA ?",
+                "options": [
+                  "ANMOMIUTNI",
+                  "AMNTOMUIIN",
+                  "AMMUNITION",
+                  "NMMUNITIOA",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If in a certain langauge, REMOTE is coded as ROTEME, which word would ROTEME, which word would be coded as PNIICC ?",
+                "options": [
+                  "NPIICC",
+                  "PICCIN",
+                  "PINCIC",
+                  "PICNIC",
+                  "PICINC"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If FULFNHW is the code for cricket, then EULGH is the code for which word ?",
+                "options": [
+                  "PRIDE",
+                  "BRIDE",
+                  "BLADE",
+                  "BLIND",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If in a certain language, SHIFT is coded as RFFBO, which word would be coded as LKUMB ?",
+                "options": [
+                  "MMXQG",
+                  "MLVNC",
+                  "KJVLA",
+                  "MJVLC",
+                  "KJTLA"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If LBAEHC is the code for BLEACH, then which of the following is coded as NBOLZKMH ?",
+                "options": [
+                  "OBNKZLHM",
+                  "LOBNHMKZ",
+                  "OCPMALNI",
+                  "MANKYJLG",
+                  "BNLOKZHM"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "If in a certain language, GRASP is coded as BMVNCK, which word would be coded as CRANE ?",
+                "options": [
+                  "FUDQH",
+                  "HWFSJ",
+                  "GERI",
+                  "XMVIZ",
+                  "BQZMD"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If in a certain code, COVET is written as FRYHW, whihch word would be written as SHDUO ?",
+                "options": [
+                  "QUAKE",
+                  "REPAY",
+                  "STINK",
+                  "PEARL",
+                  "TIEVP"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If in a certain language, TRIANGLE is coded as SQHZMFKD, which word would be coded as DWZLOKD ?",
+                "options": [
+                  "EXPAMPLE",
+                  "FIGMENT",
+                  "DISMISS",
+                  "DISJOIN",
+                  "NONE"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If ELCSUM is the code for MUSCLE, which word has the code LATIPAC ?",
+                "options": [
+                  "CONFESS",
+                  "CONDUCE",
+                  "CAPITAL",
+                  "CAPRICE",
+                  "NONE"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If in a certain language, ITNIETAM is the code for INTIMATE, which word has the the code TREVNIETARBI ?",
+                "options": [
+                  "INVRETIBRATE",
+                  "INVERTIBARTE",
+                  "INVERTIBRETA",
+                  "INVERTIBRATE",
+                  "INVERITBARTE"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If in a certain language, DIUGNAL is the code for LANGUID, which word would be coded as ELKCAHS ?",
+                "options": [
+                  "SHINGLE",
+                  "SHERBET",
+                  "SHACKLE",
+                  "SHOCKLE",
+                  "NONE"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If EHFNRQ is the code for beckon, which word has eh code QDFWXULQ ?",
+                "options": [
+                  "NCAUTIRN",
+                  "NACUTIRN",
+                  "NATCRIUN",
+                  "NACTURIN",
+                  "NACUTRIN"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If QKKQUGQL is the code for OMISSION, which word is coded as RYVIWZB ?",
+                "options": [
+                  "PATKUBZ",
+                  "BZWIVYR",
+                  "BZWVIYR",
+                  "PTAKBZU",
+                  "BZIWYVR"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If QOSCFLBJO is the code for PORCELAIN, which word is coded as BKMOUSPP ?",
+                "options": [
+                  "ALTOLROPY",
+                  "ALLOTROPY",
+                  "ALOTROLPY",
+                  "ATLOROPLY",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If in a certain code, ALMIRAH is written as BNPMWGO, which word would be written as DNRWLUA ?",
+                "options": [
+                  "COSGOLT",
+                  "TOGSOLC",
+                  "TOGCLOS",
+                  "CLOSGOT",
+                  "COLSTOG"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If in a certain language, MACHINE is coded as LBBIHOD, which word would be coded as SLTMFNB ?",
+                "options": [
+                  "RKSLEMA",
+                  "TKULGMC",
+                  "RMSNEOA",
+                  "TMUNGOC",
+                  "TMUNGMC"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If nargrued is the code for GRANDEUR, which word is coded as SERPEVRE ?",
+                "options": [
+                  "PERSEVER",
+                  "PRESEVER",
+                  "PERSERVE",
+                  "PERVERSE",
+                  "PRESERVE"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "If in a certain language, CALCUTTA is coded as GEPGYXXE, which word would be coded as FSQFCE ?",
+                "options": [
+                  "BOMBYA",
+                  "BOMBAY",
+                  "BOMYAB",
+                  "BOBAYM",
+                  "BOBAMY"
+                ],
+                "correct_option": "a"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

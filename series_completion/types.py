@@ -147,7 +147,7 @@ TYPES: list[Input.Type] = [
                         from_question=41,
                     ),
                     Input.Group(
-                        parent_question="Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as<br>(a) if both the bracketed terms are right;<br>(b) if the first bracketed term is right and second is wrong;<br>(c) if the first bracketed term is wrong and second is right;<br>(d) if both the bracketed terms are wrong.",
+                        parent_question="Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as\n(a) if both the bracketed terms are right;\n(b) if the first bracketed term is right and second is wrong;\n(c) if the first bracketed term is wrong and second is right;\n(d) if both the bracketed terms are wrong.",
                         questions=[
                             "4, 6, 10, (12), 16, (14), 22",
                             "3, 10, 29, (66), (127), 218,",
@@ -229,7 +229,7 @@ TYPES: list[Input.Type] = [
                         from_question=42,
                     ),
                     Input.Individual_Question(
-                        question="Find the wrong term in the letter-number series given below :<br>G4T, J10R, M20P, P43N, S90L",
+                        question="Find the wrong term in the letter-number series given below :\nG4T, J10R, M20P, P43N, S90L",
                         number=50,
                     ),
                 ]
@@ -305,11 +305,11 @@ TYPES: list[Input.Type] = [
                     Input.Group(
                         parent_question="Directions : In each of the followsing number questions, three sequences of letters/numerals are given which correspond to each other other in some way. In each question, you have to find out the letters/numerals that come in the vacant places marked by (?). These are given as one of the four alternatives under the question. Mark your answer as instructed.",
                         questions=[
-                            "C B _ _ D _ B A B C C B<br>_ _ 1 2 4 3 _ _ ? ? ? ?<br>a _ a b _ c _ b _ _ _ _",
-                            "_ A C _ B D _ C D C D<br>2 _ 4 1 _ 1 4 _ _ _ _<br>c d _ b c _ a ? ? ? ?",
-                            "C _ B _ D _ A _ B B D D<br>2 _ _ 4 _ 3 4 _ ? ? ? ?<br>_ a _ c b a _ d _ _ _ _",
-                            "A _ B A C _ D _ B C D C<br>_ 3 _ 2 _ 1 _ 4 ? ? ? ?<br>d c _ _ b a c b _ _ _ _",
-                            "_ A D A C B _ _ B D C C<br>1 3 _ _ 1 2 4 2 _ _ _ _<br>a _ _ b _ _ c d ? ? ? ?",
+                            "C B _ _ D _ B A B C C B\n_ _ 1 2 4 3 _ _ ? ? ? ?\na _ a b _ c _ b _ _ _ _",
+                            "_ A C _ B D _ C D C D\n2 _ 4 1 _ 1 4 _ _ _ _\nc d _ b c _ a ? ? ? ?",
+                            "C _ B _ D _ A _ B B D D\n2 _ _ 4 _ 3 4 _ ? ? ? ?\n_ a _ c b a _ d _ _ _ _",
+                            "A _ B A C _ D _ B C D C\n_ 3 _ 2 _ 1 _ 4 ? ? ? ?\nd c _ _ b a c b _ _ _ _",
+                            "_ A D A C B _ _ B D C C\n1 3 _ _ 1 2 4 2 _ _ _ _\na _ _ b _ _ c d ? ? ? ?",
                         ],
                         from_question=56,
                     ),

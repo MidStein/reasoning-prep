@@ -1,0 +1,2287 @@
+[
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 4, 9, 16, 25, (.....)",
+    "options": [
+      "35",
+      "36",
+      "48",
+      "49"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n20, 19, 17, (.....), 10, 5",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n2, 3, 5, 7, 11, (.....), 17",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n6, 11, 21, 36, 56, (.....)",
+    "options": [
+      "42",
+      "51",
+      "81",
+      "91"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 6, 13, 22, 33, (.....)",
+    "options": [
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n3, 9, 27, 81, (.....)",
+    "options": [
+      "324",
+      "243",
+      "210",
+      "162"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 9, 17, 33, 49, 73, (.....)",
+    "options": [
+      "97",
+      "98",
+      "99",
+      "100"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n2, 5, 9, (.....), 20, 27",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "24"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n5, 9, 17, 29, 45, (.....)",
+    "options": [
+      "60",
+      "65",
+      "68",
+      "70"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n3, 7, 15, 31, 63, (.....)",
+    "options": [
+      "92",
+      "115",
+      "127",
+      "131"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 6, 15, (.....), 45, 66, 91",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 2, 3, 5, 8, (.....)",
+    "options": [
+      "9",
+      "11",
+      "13",
+      "15"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n0.5, 1.5, 4.5, 13.5, (.....)",
+    "options": [
+      "45.5",
+      "39.5",
+      "30.5",
+      "40.5"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n121, 225, 361, (.....)",
+    "options": [
+      "441",
+      "484",
+      "529",
+      "729"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n0, 2, 8, 14, (.....), 34",
+    "options": [
+      "24",
+      "22",
+      "20",
+      "18"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n19, 2, 38, 3, 114, 4, (.....)",
+    "options": [
+      "228",
+      "256",
+      "352",
+      "456"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 2, 3, 6, 9, 18, (.....), 54",
+    "options": [
+      "18",
+      "27",
+      "36",
+      "81"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n4, 5, 9, 18, 34, (.....)",
+    "options": [
+      "43",
+      "49",
+      "50",
+      "59"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n3, 6, 18, 72, (.....)",
+    "options": [
+      "144",
+      "216",
+      "288",
+      "360"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n66, 36, 18, (.....)",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "9"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n21, 25, 33, 49, 81, (.....)",
+    "options": [
+      "145",
+      "129",
+      "113",
+      "97"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n12, 32, 72, 152, (.....)",
+    "options": [
+      "312",
+      "325",
+      "515",
+      "613"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n3, 6, 5, 20, 7, 42, 9, (.....)",
+    "options": [
+      "54",
+      "60",
+      "66",
+      "72"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 3, 4, 8, 15, 27, (.....)",
+    "options": [
+      "37",
+      "44",
+      "50",
+      "55"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n2, 15, 41, 80, (.....)",
+    "options": [
+      "111",
+      "120",
+      "121",
+      "132"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n8, 10, 14, 18, (.....), 34, 50, 66",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 2, 6, 24, (.....)",
+    "options": [
+      "60",
+      "95",
+      "120",
+      "150"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n2, 3, 8, 63, (.....)",
+    "options": [
+      "1038",
+      "1998",
+      "3008",
+      "3968"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n95, 115.5, 138, (.....), 189",
+    "options": [
+      "154.5",
+      "162.5",
+      "164.5",
+      "166.5"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n4, 10, (.....), 82, 244, 730",
+    "options": [
+      "24",
+      "28",
+      "77",
+      "218"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n4, 32, 128, (.....)",
+    "options": [
+      "128",
+      "144",
+      "192",
+      "256"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n2, 5, 9, 19, 37, (.....)",
+    "options": [
+      "76",
+      "75",
+      "74",
+      "72"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n24, 60, 120, 210, (.....)",
+    "options": [
+      "300",
+      "336",
+      "420",
+      "525"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n165, 195, 255, 285, 345, (.....)",
+    "options": [
+      "375",
+      "420",
+      "435",
+      "390"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n5, 17, 37, 65, (.....), 145",
+    "options": [
+      "95",
+      "97",
+      "99",
+      "101"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n9, 11, 20, 31, (.....), 82",
+    "options": [
+      "41",
+      "51",
+      "60",
+      "71"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n5, 16, 49, 104, (.....)",
+    "options": [
+      "115",
+      "148",
+      "170",
+      "181"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n34, 18, 10, 6, 4, (.....)",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n462, 420, 380, (.....), 306",
+    "options": [
+      "322",
+      "332",
+      "342",
+      "352"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n3, 8, 22, 63, 185, (.....)",
+    "options": [
+      "550",
+      "310",
+      "295",
+      "285"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 2, 5, 12, 27, 58, 121, (.....)",
+    "options": [
+      "246",
+      "247",
+      "248",
+      "249"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n0.5, 0.55, .65, 0.8, (.....)",
+    "options": [
+      "0.9",
+      "0.82",
+      "1",
+      "0.95"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n3, 8, 13, 24, 41, (.....)",
+    "options": [
+      "70",
+      "75",
+      "80",
+      "85"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n97, 86, 73, 58, 45, (.....)",
+    "options": [
+      "34",
+      "54",
+      "55",
+      "56"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n17, 19, 23, 29, (.....), 37",
+    "options": [
+      "31",
+      "33",
+      "35",
+      "36"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n5, 6, 9, 15, (.....), 40",
+    "options": [
+      "21",
+      "25",
+      "27",
+      "33"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n3, 12, 27, 48, 75, 108, (.....)",
+    "options": [
+      "147",
+      "162",
+      "183",
+      "192"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n134, 245, 356, 467, (.....)",
+    "options": [
+      "579",
+      "578",
+      "568",
+      "478"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n6, 13, 28, (.....)",
+    "options": [
+      "56",
+      "57",
+      "58",
+      "59"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n563, 647, 479, 815, (.....)",
+    "options": [
+      "672",
+      "386",
+      "279",
+      "143"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n11, 12, 17, 18, 23, 24, (.....)",
+    "options": [
+      "12",
+      "29",
+      "30",
+      "35"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n225, 336, 447, (.....), 669, 7710",
+    "options": [
+      "114",
+      "338",
+      "558",
+      "991"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n840, 168, 42, 14, 7, (.....)",
+    "options": [
+      "1",
+      "7",
+      "9",
+      "12"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n5, 6, 7, 8, 10, 11, 14, (.....)",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n0, 2, 3, 5, 8, 10, 15, 17, 24, 26, (.....)",
+    "options": [
+      "35",
+      "32",
+      "30",
+      "28"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n0, 4, 6, 3, 7, 9, 6, (.....), 12",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "14"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 1, 3, 9, 6, 36, 10, 100, (.....), 225",
+    "options": [
+      "15",
+      "16",
+      "20",
+      "22"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n2, 1, 2, 4, 4, 5, 6, 7, 8, 8, 10, 11, (.....)",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n4, 23, 60, 121, (.....)",
+    "options": [
+      "212",
+      "221",
+      "241",
+      "242"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n1, 4, 2, 8, 6, 24, 22, 88, (.....)",
+    "options": [
+      "86",
+      "90",
+      "154",
+      "352"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n13, 32, 24, 43, 35, (.....), 46, 65, 57, 76",
+    "options": [
+      "45",
+      "52",
+      "54",
+      "55"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n3, 4, 7, 7, 13, 13, 21, 22, 31, 44, (.....)",
+    "options": [
+      "42",
+      "43",
+      "51",
+      "52"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n2, 6, 12, 20, 30, 42, 56, (.....)",
+    "options": [
+      "60",
+      "64",
+      "70",
+      "72"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n8, 9, 8, 7, 10, 9, 6, 11, 10, (.....), 12",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "11"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n90, 180, 12, 50, 100, 200, (.....), 3, 50, 4, 25, 2, 6, 30, 3",
+    "options": [
+      "150",
+      "175",
+      "225",
+      "250"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n11, 10, (.....), 100, 1001, 1000, 10001",
+    "options": [
+      "101",
+      "110",
+      "111",
+      "None of these"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n123456147, 12345614, 2345614, 234561, (.....)",
+    "options": [
+      "3456",
+      "2345",
+      "23456",
+      "34561"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n\\(\\frac{4}{9}\\), \\(\\frac{9}{20}\\), \\(\\frac{39}{86}\\)",
+    "options": [
+      "\\(\\frac{17}{40})",
+      "\\(\\frac{19}{42})",
+      "\\(\\frac{20}{45})",
+      "\\(\\frac{29}{53})"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n\\(\\frac{2}{\\sqrt{5}}\\), \\(\\frac{3}{5}\\), \\(\\frac{4}{5\\sqrt{5}}\\), \\(\\frac{5}{25}\\)",
+    "options": [
+      "\\(\\frac{6}{5\\sqrt{5}}\\)",
+      "\\(\\frac{6}{25\\sqrt{5}}\\)",
+      "\\(\\frac{6}{125}\\)",
+      "\\(\\frac{7}{25}\\)"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n11\\(\\frac{1}{9}\\), 12\\(\\frac{1}{2}\\), 14\\(\\frac{2}{7}\\), 16\\(\\frac{2}{3}\\)",
+    "options": [
+      "8\\(\\frac{1}{3})",
+      "9\\(\\frac{1}{11})",
+      "10",
+      "20"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, a number series is given with one term missing. Choose the correct alternative that will continue the same pattern and fill in the blank spaces.\n\n(2, 3), (3, 5), (5, 7), (7, 11), (11, 13), (.....)",
+    "options": [
+      "(13, 15)",
+      "(15, 16)",
+      "(13, 17)",
+      "(13, 19)"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n24, 27, 31, 33, 36",
+    "options": [
+      "24",
+      "27",
+      "31",
+      "33"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n196, 169, 144, 121, 80",
+    "options": [
+      "80",
+      "121",
+      "169",
+      "196"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n3, 5, 7, 9, 11, 13",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n121, 143, 165, 186, 209",
+    "options": [
+      "143",
+      "165",
+      "186",
+      "209"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n1, 2, 4, 8, 16, 32, 64, 96",
+    "options": [
+      "4",
+      "32",
+      "64",
+      "96"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n8, 14, 26, 48, 98, 194, 386",
+    "options": [
+      "14",
+      "48",
+      "98",
+      "194"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n8, 13, 21, 32, 47, 63, 83",
+    "options": [
+      "13",
+      "21",
+      "32",
+      "47"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n3, 10, 27, 4, 16, 64, 5, 25, 125",
+    "options": [
+      "3",
+      "4",
+      "10",
+      "27"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n380, 188, 92, 48, 20, 8, 2",
+    "options": [
+      "188",
+      "92",
+      "48",
+      "20"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n1, 3, 7, 15, 27, 63, 127",
+    "options": [
+      "7",
+      "15",
+      "27",
+      "63"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n5, 10, 17, 24, 37",
+    "options": [
+      "10",
+      "17",
+      "24",
+      "37"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n1, 3, 10, 21, 64, 129, 256, 778",
+    "options": [
+      "10",
+      "21",
+      "129",
+      "256"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n15, 16, 22, 29, 45, 70",
+    "options": [
+      "16",
+      "22",
+      "45",
+      "70"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n6, 14, 30, 64, 126",
+    "options": [
+      "6",
+      "14",
+      "64",
+      "126"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n10, 26, 74, 218, 654, 1946, 5834",
+    "options": [
+      "26",
+      "74",
+      "218",
+      "654"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n3, 7, 15, 39, 63, 127, 255, 511",
+    "options": [
+      "15",
+      "39",
+      "63",
+      "127"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n445, 221, 109, 46, 25, 11, 4",
+    "options": [
+      "25",
+      "46",
+      "109",
+      "221"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n1236, 2346, 3456, 4566, 5686",
+    "options": [
+      "1236",
+      "3456",
+      "4566",
+      "5686"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n5, 10, 40, 80, 320, 550, 2560",
+    "options": [
+      "80",
+      "320",
+      "550",
+      "2560"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n3, 2, 8, 9, 13, 22, 18, 32, 23, 42",
+    "options": [
+      "8",
+      "9",
+      "13",
+      "22"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n8, 27, 125, 343, 1331",
+    "options": [
+      "8",
+      "343",
+      "1331",
+      "None of these"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n10, 14, 28, 32, 64, 68, 132",
+    "options": [
+      "28",
+      "32",
+      "64",
+      "132"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n1, 5, 5, 9, 7, 11, 11, 15, 12, 17",
+    "options": [
+      "11",
+      "12",
+      "17",
+      "15"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n11, 2, 21, 3, 32, 4, 41, 5, 51, 6",
+    "options": [
+      "21",
+      "11",
+      "32",
+      "51"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n11, 5, 20, 12, 40, 26, 74, 54",
+    "options": [
+      "5",
+      "20",
+      "40",
+      "26"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n56, 72, 90, 110, 132, 150",
+    "options": [
+      "72",
+      "90",
+      "110",
+      "150"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n8, 13, 21, 32, 47, 63, 83",
+    "options": [
+      "13",
+      "32",
+      "47",
+      "63"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n89, 78, 86, 80, 85, 82, 83",
+    "options": [
+      "83",
+      "82",
+      "86",
+      "78"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n25, 36, 49, 81, 121, 169, 225",
+    "options": [
+      "36",
+      "49",
+      "169",
+      "225"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n2, 5, 10, 17, 26, 37, 50, 64",
+    "options": [
+      "17",
+      "26",
+      "37",
+      "64"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n1, 5, 9, 16, 25, 37, 49,",
+    "options": [
+      "9",
+      "16",
+      "25",
+      "37"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n2, 5, 10, 50, 500, 5000",
+    "options": [
+      "5",
+      "10",
+      "50",
+      "5000"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n46080, 3840, 384, 48, 24, 2, 1",
+    "options": [
+      "384",
+      "48",
+      "24",
+      "2"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n105, 85, 60, 30, 0, -45, -90,",
+    "options": [
+      "105",
+      "60",
+      "0",
+      "-45"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n325, 259, 202, 160, 127, 105, 94",
+    "options": [
+      "94",
+      "127",
+      "202",
+      "259"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n125, 126, 124, 127, 123, 129",
+    "options": [
+      "126",
+      "124",
+      "123",
+      "129"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n3, 4, 10, 32, 136, 685, 4116",
+    "options": [
+      "10",
+      "32",
+      "685",
+      "4116"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n3, 10, 27, 4, 16, 64, 5, 25, 125",
+    "options": [
+      "3",
+      "4",
+      "10",
+      "27"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n5, 27, 61, 122, 213, 340, 509",
+    "options": [
+      "27",
+      "61",
+      "122",
+      "509"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, one term in the number series is wrong. Find out the wrong term.\n\n16, 22, 30, 45, 52, 66",
+    "options": [
+      "30",
+      "45",
+      "52",
+      "66"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following number series, either one term is missing or is wrong which has been given as one of the four alternatives under it. This alternative is your answer.\n\n1, 2, 5, 10, 17, 28",
+    "options": [
+      "30",
+      "28",
+      "27",
+      "17"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following number series, either one term is missing or is wrong which has been given as one of the four alternatives under it. This alternative is your answer.\n\n1, 5, 11, 19, 29, 55",
+    "options": [
+      "55",
+      "41",
+      "29",
+      "19"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following number series, either one term is missing or is wrong which has been given as one of the four alternatives under it. This alternative is your answer.\n\n2, 3, 5, 8, 13, 34",
+    "options": [
+      "21",
+      "25",
+      "29",
+      "34"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following number series, either one term is missing or is wrong which has been given as one of the four alternatives under it. This alternative is your answer.\n\n0, 3, 8, 15, 24, 33",
+    "options": [
+      "8",
+      "15",
+      "26",
+      "33"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following number series, either one term is missing or is wrong which has been given as one of the four alternatives under it. This alternative is your answer.\n\n1, 5, 14, 30, 55, 93",
+    "options": [
+      "97",
+      "95",
+      "93",
+      "55"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as<br>(a) if both the bracketed terms are right;<br>(b) if the first bracketed term is right and second is wrong;<br>(c) if the first bracketed term is wrong and second is right;<br>(d) if both the bracketed terms are wrong.\n\n4, 6, 10, (12), 16, (14), 22",
+    "options": null,
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as<br>(a) if both the bracketed terms are right;<br>(b) if the first bracketed term is right and second is wrong;<br>(c) if the first bracketed term is wrong and second is right;<br>(d) if both the bracketed terms are wrong.\n\n3, 10, 29, (66), (127), 218,",
+    "options": null,
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as<br>(a) if both the bracketed terms are right;<br>(b) if the first bracketed term is right and second is wrong;<br>(c) if the first bracketed term is wrong and second is right;<br>(d) if both the bracketed terms are wrong.\n\n2, 3, (6), 11, 18, (30), 38",
+    "options": null,
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as<br>(a) if both the bracketed terms are right;<br>(b) if the first bracketed term is right and second is wrong;<br>(c) if the first bracketed term is wrong and second is right;<br>(d) if both the bracketed terms are wrong.\n\n(2), 5, (12), 25, 41, 61",
+    "options": null,
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, two terms have been put within brackets. Mark your answer as<br>(a) if both the bracketed terms are right;<br>(b) if the first bracketed term is right and second is wrong;<br>(c) if the first bracketed term is wrong and second is right;<br>(d) if both the bracketed terms are wrong.\n\n4, 7, (9), 10, 13, 15, (16), 19",
+    "options": null,
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nU, O, I, ?, A",
+    "options": [
+      "35",
+      "36",
+      "48",
+      "49"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nY, W, U, S, Q, ?, ?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nA, B, D, G, ?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nZ, U, Q, ?, L",
+    "options": [
+      "42",
+      "51",
+      "81",
+      "91"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nA, C, F, H, ?, M",
+    "options": [
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nA, Z, X, B, V, T, C, R, ?, ?",
+    "options": [
+      "324",
+      "243",
+      "210",
+      "162"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nR, M, ?, F, D, ?",
+    "options": [
+      "97",
+      "98",
+      "99",
+      "100"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nZ, L, X, J, V, H, T, F, ?, ?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "24"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nZ, S, W, O, T, K, Q, G, ?, ?",
+    "options": [
+      "60",
+      "65",
+      "68",
+      "70"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nW, V, T, S, Q, P, N, M, ?, ?",
+    "options": [
+      "92",
+      "115",
+      "127",
+      "131"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nZ, Y, X, U, T, S, P, O, N, K, ?, ?",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nb e d f ? h j ? l",
+    "options": [
+      "9",
+      "11",
+      "13",
+      "15"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nAZ, BY, CX, ?",
+    "options": [
+      "45.5",
+      "39.5",
+      "30.5",
+      "40.5"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nAZ, CX, FU, ?",
+    "options": [
+      "441",
+      "484",
+      "529",
+      "729"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nAZ, GT, MN, ?, YB",
+    "options": [
+      "24",
+      "22",
+      "20",
+      "18"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nBF, CH, ?, HO, LT",
+    "options": [
+      "228",
+      "256",
+      "352",
+      "456"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nCE, GI, KM, OQ, ?",
+    "options": [
+      "18",
+      "27",
+      "36",
+      "81"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nBD, GI, LN, QS, ?",
+    "options": [
+      "43",
+      "49",
+      "50",
+      "59"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nAD, EH, IL, ?, QT",
+    "options": [
+      "144",
+      "216",
+      "288",
+      "360"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nJE, LH, OL, SQ, ?",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "9"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nDF, GJ, KM, NQ, RT, ?",
+    "options": [
+      "145",
+      "129",
+      "113",
+      "97"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nCX FU, IR ? OL RI",
+    "options": [
+      "312",
+      "325",
+      "515",
+      "613"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nOTE, PUF, QVG, RWH, ?",
+    "options": [
+      "54",
+      "60",
+      "66",
+      "72"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\neac gce ieg ?",
+    "options": [
+      "37",
+      "44",
+      "50",
+      "55"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nejo tyd ins xch ?",
+    "options": [
+      "111",
+      "120",
+      "121",
+      "132"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nCAT, FDW, IGZ, ?",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nBEH, KNQ, TWZ, ?",
+    "options": [
+      "60",
+      "95",
+      "120",
+      "150"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\ndeb ijg nol ? xyv",
+    "options": [
+      "1038",
+      "1998",
+      "3008",
+      "3968"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\n? siy oeu kaq gwm cri",
+    "options": [
+      "154.5",
+      "162.5",
+      "164.5",
+      "166.5"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nQPO, SRQ, UTS, WVU, ?",
+    "options": [
+      "24",
+      "28",
+      "77",
+      "218"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\n? ayw gec mki sqo",
+    "options": [
+      "128",
+      "144",
+      "192",
+      "256"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\ndfe jih mln ? vut",
+    "options": [
+      "76",
+      "75",
+      "74",
+      "72"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nDEF, HIJ, MNO, ?",
+    "options": [
+      "300",
+      "336",
+      "420",
+      "525"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nFLP, INS, LPV, ?",
+    "options": [
+      "375",
+      "420",
+      "435",
+      "390"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nshg rif qje pkd ?",
+    "options": [
+      "95",
+      "97",
+      "99",
+      "101"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nLXF, MTJ, NPN, OLR, ?",
+    "options": [
+      "41",
+      "51",
+      "60",
+      "71"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nMHZ, NIW, OKT, PNQ, ?",
+    "options": [
+      "115",
+      "148",
+      "170",
+      "181"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nAYD, BVF, DRH, ?, KGL",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nAB, BA, ABC, CBA, ABCD, ?",
+    "options": [
+      "322",
+      "332",
+      "342",
+      "352"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nAB, DEF, HIJK, ?, STUVWX",
+    "options": [
+      "550",
+      "310",
+      "295",
+      "285"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following questions, various terms of a letter series are given with one term missing as shows by (?). Choose the missing term out of the given alternatives.\n\nA, CD, GHI, ?, UVWXY",
+    "options": [
+      "246",
+      "247",
+      "248",
+      "249"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, a sequence of groups of letters and numbers is given with one term missing as shown by (?). Choose the missing term out of the given alternatives.\n\nD-4, F-6, H-8, J-10, ?, ?",
+    "options": [
+      "0.9",
+      "0.82",
+      "1",
+      "0.95"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, a sequence of groups of letters and numbers is given with one term missing as shown by (?). Choose the missing term out of the given alternatives.\n\n3F, 6G, 11I, 18L, ?",
+    "options": [
+      "70",
+      "75",
+      "80",
+      "85"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, a sequence of groups of letters and numbers is given with one term missing as shown by (?). Choose the missing term out of the given alternatives.\n\nKM5, IP8, GS11, EV14, ?",
+    "options": [
+      "34",
+      "54",
+      "55",
+      "56"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, a sequence of groups of letters and numbers is given with one term missing as shown by (?). Choose the missing term out of the given alternatives.\n\nJ2Z, K4X, I7V, ?, H16R, M22P",
+    "options": [
+      "31",
+      "33",
+      "35",
+      "36"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, a sequence of groups of letters and numbers is given with one term missing as shown by (?). Choose the missing term out of the given alternatives.\n\n2Z5, 7Y7, 14X9, 23W11, 34V13, ?",
+    "options": [
+      "21",
+      "25",
+      "27",
+      "33"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, a sequence of groups of letters and numbers is given with one term missing as shown by (?). Choose the missing term out of the given alternatives.\n\n2A11, 4D13, 12G17, ?",
+    "options": [
+      "147",
+      "162",
+      "183",
+      "192"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, a sequence of groups of letters and numbers is given with one term missing as shown by (?). Choose the missing term out of the given alternatives.\n\nC4X, F9U, I16R, ?",
+    "options": [
+      "579",
+      "578",
+      "568",
+      "478"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the followsing number series, a sequence of groups of letters and numbers is given with one term missing as shown by (?). Choose the missing term out of the given alternatives.\n\nQ1F, S2E, U6D, W21C, ?",
+    "options": [
+      "56",
+      "57",
+      "58",
+      "59"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Find the wrong term in the letter-number series given below :<br>G4T, J10R, M20P, P43N, S90L",
+    "options": [
+      "672",
+      "386",
+      "279",
+      "143"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ _ aba _ _ ba _ ab",
+    "options": [
+      "35",
+      "36",
+      "48",
+      "49"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nab _ _ _ b _ bbaa _",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ baa _ aab _ a _ a",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ _ babbba _ a _ _",
+    "options": [
+      "42",
+      "51",
+      "81",
+      "91"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\naa _ ab _ _ aaa _ a",
+    "options": [
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ bbc _ aab _ cca _ bbcc",
+    "options": [
+      "324",
+      "243",
+      "210",
+      "162"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nab _ aa _ bbb _ aaa _ bbba",
+    "options": [
+      "97",
+      "98",
+      "99",
+      "100"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nbc _ b _ c _ b _ ccb",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "24"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nabb _ baa _ a _ bab _ aba",
+    "options": [
+      "60",
+      "65",
+      "68",
+      "70"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nabca _ bcaab _ ca _ bbc _ a",
+    "options": [
+      "92",
+      "115",
+      "127",
+      "131"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ bbca _ bcca _ ac _ a _ cb",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ bcc _ ac _ aabb _ ab _ cc",
+    "options": [
+      "9",
+      "11",
+      "13",
+      "15"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ bccb _ ca _ cca _ baab _ c",
+    "options": [
+      "45.5",
+      "39.5",
+      "30.5",
+      "40.5"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nab _ aa _ caab_ c _ abb _ c",
+    "options": [
+      "441",
+      "484",
+      "529",
+      "729"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nc _ baa _ aca _ cacab _ acac _ bca",
+    "options": [
+      "24",
+      "22",
+      "20",
+      "18"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ aba _ cabc _ dcba _ bab _ a",
+    "options": [
+      "228",
+      "256",
+      "352",
+      "456"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ cdaab _ cc _ daa _ bbb _ ccddd",
+    "options": [
+      "18",
+      "27",
+      "36",
+      "81"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ abbb _ ccccd _ ddccc _ bb _ ba",
+    "options": [
+      "43",
+      "49",
+      "50",
+      "59"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ bcdbc _ dcabd _ bcdbc _ dc _ bd",
+    "options": [
+      "144",
+      "216",
+      "288",
+      "360"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nadb _ ac _ da _ cddcb _ dbc _ cbda",
+    "options": [
+      "3",
+      "6",
+      "8",
+      "9"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nc _ bbb _ _ abbbb _ abbb _",
+    "options": [
+      "145",
+      "129",
+      "113",
+      "97"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nb _ abbc _ bbca _ bcabb _ ab",
+    "options": [
+      "312",
+      "325",
+      "515",
+      "613"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nac _ cab _ baca _ aba _ acac",
+    "options": [
+      "54",
+      "60",
+      "66",
+      "72"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ acca _ ccca _ acccc _ aaa",
+    "options": [
+      "37",
+      "44",
+      "50",
+      "55"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ bc _ _ bb _ aabc",
+    "options": [
+      "111",
+      "120",
+      "121",
+      "132"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\naa _ aaa _ aaaa _ aaaa _ b",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\naba _ baca _ ba _ bacaabac _ aca",
+    "options": [
+      "60",
+      "95",
+      "120",
+      "150"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nab _ bc _ c _ ba _ c",
+    "options": [
+      "1038",
+      "1998",
+      "3008",
+      "3968"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ ca _ bc _ bcc _ bca",
+    "options": [
+      "154.5",
+      "162.5",
+      "164.5",
+      "166.5"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nab _ bcbca _ _ c _ bab",
+    "options": [
+      "24",
+      "28",
+      "77",
+      "218"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ cacbc _ baca _ _ b",
+    "options": [
+      "128",
+      "144",
+      "192",
+      "256"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ aaba _ bba _ bba _ abaa _ b",
+    "options": [
+      "76",
+      "75",
+      "74",
+      "72"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nab _ bbc _ c _ ab _ ab _ b",
+    "options": [
+      "300",
+      "336",
+      "420",
+      "525"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ bca _ cca _ ca _ b _ c",
+    "options": [
+      "375",
+      "420",
+      "435",
+      "390"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nb _ ac _ cc _ cb _ ab _ ac",
+    "options": [
+      "95",
+      "97",
+      "99",
+      "101"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nc _ ac _ aa _ aa _ bc _ bcc",
+    "options": [
+      "41",
+      "51",
+      "60",
+      "71"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nabc _ d _ bc _ d _ b _ cda",
+    "options": [
+      "115",
+      "148",
+      "170",
+      "181"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nba _ b _ aab _ a _ b",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\ngfe _ ig _ eii _ fei _ gf _ ii",
+    "options": [
+      "322",
+      "332",
+      "342",
+      "352"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nmnonopqopqrs _ _ _ _ _",
+    "options": [
+      "550",
+      "310",
+      "295",
+      "285"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\naab _ ab _ cabcca _ bcab _ c",
+    "options": [
+      "246",
+      "247",
+      "248",
+      "249"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nccbab _ caa _ bccc _ a _",
+    "options": [
+      "0.9",
+      "0.82",
+      "1",
+      "0.95"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nba _ b _ aabb _ a _ _ a _ bb",
+    "options": [
+      "70",
+      "75",
+      "80",
+      "85"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ c _ abb _ a _ bc _ bc _ ab",
+    "options": [
+      "34",
+      "54",
+      "55",
+      "56"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\ncab _ a _ c _ bc _ bc _ b _ ab",
+    "options": [
+      "31",
+      "33",
+      "35",
+      "36"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\ncccbb _ aa _ cc _ bbbaa _ c",
+    "options": [
+      "21",
+      "25",
+      "27",
+      "33"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ abb _ _ bb _ a _ bbab _ ba",
+    "options": [
+      "147",
+      "162",
+      "183",
+      "192"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nccb _ c _ bbc _ b _ cc _ _ ccbb",
+    "options": [
+      "579",
+      "578",
+      "568",
+      "478"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nabca _ bcaab _ aa _ caa _ c",
+    "options": [
+      "56",
+      "57",
+      "58",
+      "59"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nb _ b _ bb _ _ bbb _ bb _ b",
+    "options": [
+      "672",
+      "386",
+      "279",
+      "143"
+    ],
+    "correct_option": "d"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\nc _ bba _ cab _ ac _ ab _ ac",
+    "options": [
+      "12",
+      "29",
+      "30",
+      "35"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ bc _ c _ abb _ bca _",
+    "options": [
+      "114",
+      "338",
+      "558",
+      "991"
+    ],
+    "correct_option": "c"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ c _ bd _ cbcda _ a _ db _ a",
+    "options": [
+      "1",
+      "7",
+      "9",
+      "12"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\na _ bc _ a _ bcda _ ccd _ bcd _",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the following letter series, some of the letters are missing which are given in that order as one of the alternatives below it. Choose the correct alternative.\n\n_ cb _ ca _ bacb _ ca _ bac _ d",
+    "options": [
+      "35",
+      "32",
+      "30",
+      "28"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the followsing number questions, three sequences of letters/numerals are given which correspond to each other other in some way. In each question, you have to find out the letters/numerals that come in the vacant places marked by (?). These are given as one of the four alternatives under the question. Mark your answer as instructed.\n\nC B _ _ D _ B A B C C B<br>_ _ 1 2 4 3 _ _ ? ? ? ?<br>a _ a b _ c _ b _ _ _ _",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "14"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the followsing number questions, three sequences of letters/numerals are given which correspond to each other other in some way. In each question, you have to find out the letters/numerals that come in the vacant places marked by (?). These are given as one of the four alternatives under the question. Mark your answer as instructed.\n\n_ A C _ B D _ C D C D<br>2 _ 4 1 _ 1 4 _ _ _ _<br>c d _ b c _ a ? ? ? ?",
+    "options": [
+      "15",
+      "16",
+      "20",
+      "22"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the followsing number questions, three sequences of letters/numerals are given which correspond to each other other in some way. In each question, you have to find out the letters/numerals that come in the vacant places marked by (?). These are given as one of the four alternatives under the question. Mark your answer as instructed.\n\nC _ B _ D _ A _ B B D D<br>2 _ _ 4 _ 3 4 _ ? ? ? ?<br>_ a _ c b a _ d _ _ _ _",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct_option": "b"
+  },
+  {
+    "question": "Directions : In each of the followsing number questions, three sequences of letters/numerals are given which correspond to each other other in some way. In each question, you have to find out the letters/numerals that come in the vacant places marked by (?). These are given as one of the four alternatives under the question. Mark your answer as instructed.\n\nA _ B A C _ D _ B C D C<br>_ 3 _ 2 _ 1 _ 4 ? ? ? ?<br>d c _ _ b a c b _ _ _ _",
+    "options": [
+      "212",
+      "221",
+      "241",
+      "242"
+    ],
+    "correct_option": "a"
+  },
+  {
+    "question": "Directions : In each of the followsing number questions, three sequences of letters/numerals are given which correspond to each other other in some way. In each question, you have to find out the letters/numerals that come in the vacant places marked by (?). These are given as one of the four alternatives under the question. Mark your answer as instructed.\n\n_ A D A C B _ _ B D C C<br>1 3 _ _ 1 2 4 2 _ _ _ _<br>a _ _ b _ _ c d ? ? ? ?",
+    "options": [
+      "86",
+      "90",
+      "154",
+      "352"
+    ],
+    "correct_option": "a"
+  }
+]

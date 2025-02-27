@@ -6,7 +6,9 @@ from models.Output import Chapter, Group, Question
 
 def load_data_model() -> list[Chapter]:
     with open("data.json") as data_json:
-        chapters_json = json.load(data_json)
+        data: str = data_json.read()
+        data = data.replace("\n", "<br>")
+        chapters_json = json.loads(data)
     return [Chapter(**chapter) for chapter in chapters_json]
 
 
@@ -19,7 +21,7 @@ def parse_options(options: list[str]) -> str:
         for optionIdx, option in enumerate(options):
             option_lines.append(f"({OPTION_NAMES[optionIdx]}) {option}")
     except IndexError as e:
-        print(options)
+        print(f"{options=}")
         raise (e)
     return "<br>".join(option_lines)
 

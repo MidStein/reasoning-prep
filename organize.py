@@ -31,9 +31,6 @@ def parse_options_file(chapter_dir_name: str, exercise_name: str) -> list[list[s
     ]
     assert not options[-1][-1]
     del options[-1][-1]
-    if exercise_name == "c":
-        print(len(options))
-        print("here")
     return options
 
 
@@ -50,13 +47,10 @@ def load_group(
                 else options[group.from_question - 1 + question_idx],
                 correct_option=correct_options[group.from_question - 1 + question_idx],
             )
+            questions.append(question)
         except IndexError as e:
-            print(f"{question_idx=}")
-            print(f"{group=}")
-            print(options[group.from_question - 1 + question_idx] if not group.no_options else None)
-            print(f"{len(correct_options)=}")
+            # print(group.from_question - 1 + question_idx)
             raise(e)
-        questions.append(question)
     return Output.Group(
         parent_question=group.parent_question,
         questions=questions,
@@ -66,37 +60,29 @@ def load_group(
 def load_case_items(
     input_chapter: str,
     case: Input.Case,
-    case_idx: int,
+    case_letter_idx: int,
 ) -> list[Output.Group | Output.Question]:
     options: list[list[str]] = parse_options_file(
-        CHAPTER_PATH_DICT[input_chapter], chr(case_idx + 1 + 96)
+        CHAPTER_PATH_DICT[input_chapter], chr(case_letter_idx + 97)
     )
-    try:
-        correct_options: list[str] = chapter_module_dict[input_chapter][1][case_idx]
-    except IndexError as e:
-        print(case_idx)
-        print(len(chapter_module_dict[input_chapter][1]))
-        raise(e)
+    correct_options: list[str] = chapter_module_dict[input_chapter][1][case_letter_idx]
 
     items: list[Output.Group | Output.Question] = []
     for input_item in case.items:
-        if isinstance(input_item, Input.Group):
-            group: Output.Group = load_group(input_item, options, correct_options)
-            items.append(group)
-        else:
-            try:
-                question: Output.Question = Output.Question(
-                    question=input_item.question,
-                    options=options[input_item.number - 1],
-                    correct_option=correct_options[input_item.number - 1],
-                )
-            except IndexError as e:
-                print(case.case_name)
-                print(input_item.number)
-                print(len(options))
-                print(options[20 - 1])
-                raise(e)
-            items.append(question)
+        try:
+            if isinstance(input_item, Input.Group):
+                group: Output.Group = load_group(input_item, options, correct_options)
+                items.append(group)
+            else:
+                    question: Output.Question = Output.Question(
+                        question=input_item.question,
+                        options=options[input_item.number - 1],
+                        correct_option=correct_options[input_item.number - 1],
+                    )
+                    items.append(question)
+        except IndexError as e:
+            print(case.case_name)
+            raise(e)
     return items
 
 
@@ -114,17 +100,23 @@ def main():
     for input_chapter in CHAPTER_PATH_DICT.keys():
         if input_chapter in ["Series Completion", "Coding - Decoding"]:
             types: list[Output.Type] = []
+            case_letter_idx: int = 0
             for input_problem_type in chapter_module_dict[input_chapter][0]:
                 cases: list[Output.Case] = []
                 for case_idx in range(len(input_problem_type.cases)):
                     input_case: Input.Case = input_problem_type.cases[case_idx]
-                    items: list[Output.Group | Output.Question] = load_case_items(
-                        input_chapter, input_case, case_idx
-                    )
+                    try:
+                        items: list[Output.Group | Output.Question] = load_case_items(
+                            input_chapter, input_case, case_letter_idx
+                        )
+                    except IndexError as e:
+                        print(chapter_module_dict[input_chapter][1][2])
+                        raise(e)
                     case: Output.Case = Output.Case(
                         case_name=input_case.case_name, items=items
                     )
                     cases.append(case)
+                    case_letter_idx += 1
                 problem_type: Output.Type = Output.Type(
                     type_name=input_problem_type.type_name, cases=cases
                 )

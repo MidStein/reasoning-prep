@@ -1,5 +1,6 @@
 from pydantic import BaseModel
 
+
 class Question(BaseModel):
     question: str
     options: list[str] | None
@@ -9,12 +10,6 @@ class Question(BaseModel):
 class Group(BaseModel):
     parent_question: str
     questions: list[Question]
-
-
-# class Example(BaseModel):
-#     question: str
-#     options: list[str]
-#     correct_option: str
 
 
 class Case(BaseModel):

@@ -22,13 +22,11 @@ Sky
 Air
 None of these
 
-
 Bangle
 Cassette
 Table
 Cupboard
 None of these
-
 
 Blue
 Red
@@ -50,7 +48,7 @@ None of these
 
 Swimmers
 Snakes
-Flaying
+Flying
 Hunters
 None of these
 
@@ -59,7 +57,6 @@ Sea
 Cloud
 Water
 None of these
-
 
 Water
 Food
@@ -80,7 +77,7 @@ Grass
 Cloth
 
 Fan
-Cahir
+Chair
 Roof
 Table
 Pen

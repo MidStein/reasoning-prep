@@ -1,0 +1,19 @@
+CORRECT_OPTIONS: list[list[str]] = [
+    [
+        "a",
+        "c",
+        "b",
+        "b",
+        "c",
+        "c",
+        "b",
+        "d",
+        "e",
+        "e",
+        "c",
+        "a",
+        "d",
+        "b",
+        "c",
+    ],
+]

@@ -163,7 +163,6 @@ pic nee
 Can't be determined
 None of these
 
-
 Ka
 Bi
 Le
@@ -174,7 +173,6 @@ bir le hor
 pic hor nac
 hor bir pic
 None of these
-
 
 xas & deko
 xas & kew

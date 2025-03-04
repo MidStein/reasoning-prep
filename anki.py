@@ -7,7 +7,6 @@ from models.Output import Chapter, Group, Question
 def load_data_model() -> list[Chapter]:
     with open("data.json") as data_json:
         data: str = data_json.read()
-        data = data.replace("\n", "<br>")
         chapters_json = json.loads(data)
     return [Chapter(**chapter) for chapter in chapters_json]
 

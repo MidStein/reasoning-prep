@@ -1234,412 +1234,433 @@
                   {
                     "question": "U, O, I, ?, A",
                     "options": [
-                      "35",
-                      "36",
-                      "48",
-                      "49"
-                    ],
-                    "correct_option": "b"
-                  },
-                  {
-                    "question": "Y, W, U, S, Q, ?, ?",
-                    "options": [
-                      "12",
-                      "13",
-                      "14",
-                      "15"
-                    ],
-                    "correct_option": "c"
-                  },
-                  {
-                    "question": "A, B, D, G, ?",
-                    "options": [
-                      "12",
-                      "13",
-                      "14",
-                      "15"
-                    ],
-                    "correct_option": "b"
-                  },
-                  {
-                    "question": "Z, U, Q, ?, L",
-                    "options": [
-                      "42",
-                      "51",
-                      "81",
-                      "91"
-                    ],
-                    "correct_option": "c"
-                  },
-                  {
-                    "question": "A, C, F, H, ?, M",
-                    "options": [
-                      "44",
-                      "45",
-                      "46",
-                      "47"
-                    ],
-                    "correct_option": "c"
-                  },
-                  {
-                    "question": "A, Z, X, B, V, T, C, R, ?, ?",
-                    "options": [
-                      "324",
-                      "243",
-                      "210",
-                      "162"
-                    ],
-                    "correct_option": "b"
-                  },
-                  {
-                    "question": "R, M, ?, F, D, ?",
-                    "options": [
-                      "97",
-                      "98",
-                      "99",
-                      "100"
+                      "E",
+                      "C",
+                      "S",
+                      "G"
                     ],
                     "correct_option": "a"
                   },
                   {
+                    "question": "Y, W, U, S, Q, ?, ?",
+                    "options": [
+                      "N, J",
+                      "M, L",
+                      "J, R",
+                      "L, M",
+                      "O, M"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
+                    "question": "A, B, D, G, ?",
+                    "options": [
+                      "M",
+                      "L",
+                      "K",
+                      "H"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "Z, U, Q, ?, L",
+                    "options": [
+                      "I",
+                      "K",
+                      "M",
+                      "N"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "A, C, F, H, ?, M",
+                    "options": [
+                      "L",
+                      "K",
+                      "J",
+                      "I"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "A, Z, X, B, V, T, C, R, ?, ?",
+                    "options": [
+                      "P, D",
+                      "E, O",
+                      "Q, E",
+                      "O, Q",
+                      "Q, O"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "R, M, ?, F, D, ?",
+                    "options": [
+                      "C, B",
+                      "J, H",
+                      "B, H",
+                      "H, C",
+                      "I, C"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
                     "question": "Z, L, X, J, V, H, T, F, ?, ?",
                     "options": [
-                      "14",
-                      "16",
-                      "18",
-                      "24"
+                      "R, D",
+                      "R, E",
+                      "S, E",
+                      "Q, D"
                     ],
                     "correct_option": "a"
                   },
                   {
                     "question": "Z, S, W, O, T, K, Q, G, ?, ?",
                     "options": [
-                      "60",
-                      "65",
-                      "68",
-                      "70"
+                      "N, C",
+                      "N, D",
+                      "O, C",
+                      "O, D"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "a"
                   },
                   {
                     "question": "W, V, T, S, Q, P, N, M, ?, ?",
                     "options": [
-                      "92",
-                      "115",
-                      "127",
-                      "131"
+                      "I, J",
+                      "J, I",
+                      "J, K",
+                      "K, J"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "d"
                   },
                   {
                     "question": "Z, Y, X, U, T, S, P, O, N, K, ?, ?",
                     "options": [
-                      "25",
-                      "26",
-                      "27",
-                      "28"
+                      "H, G",
+                      "H, I",
+                      "I, H",
+                      "J, I"
                     ],
                     "correct_option": "d"
                   },
                   {
                     "question": "b e d f ? h j ? l",
                     "options": [
-                      "9",
-                      "11",
-                      "13",
-                      "15"
+                      "i m",
+                      "m i",
+                      "i n",
+                      "j m"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "a"
                   },
                   {
                     "question": "AZ, BY, CX, ?",
                     "options": [
-                      "45.5",
-                      "39.5",
-                      "30.5",
-                      "40.5"
+                      "EF",
+                      "GH",
+                      "IJ",
+                      "DE",
+                      "DW"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "e"
                   },
                   {
                     "question": "AZ, CX, FU, ?",
                     "options": [
-                      "441",
-                      "484",
-                      "529",
-                      "729"
+                      "IR",
+                      "IV",
+                      "JQ",
+                      "KP"
                     ],
                     "correct_option": "c"
                   },
                   {
                     "question": "AZ, GT, MN, ?, YB",
                     "options": [
-                      "24",
-                      "22",
-                      "20",
-                      "18"
-                    ],
-                    "correct_option": "a"
-                  },
-                  {
-                    "question": "BF, CH, ?, HO, LT",
-                    "options": [
-                      "228",
-                      "256",
-                      "352",
-                      "456"
-                    ],
-                    "correct_option": "d"
-                  },
-                  {
-                    "question": "CE, GI, KM, OQ, ?",
-                    "options": [
-                      "18",
-                      "27",
-                      "36",
-                      "81"
-                    ],
-                    "correct_option": "b"
-                  },
-                  {
-                    "question": "BD, GI, LN, QS, ?",
-                    "options": [
-                      "43",
-                      "49",
-                      "50",
-                      "59"
-                    ],
-                    "correct_option": "d"
-                  },
-                  {
-                    "question": "AD, EH, IL, ?, QT",
-                    "options": [
-                      "144",
-                      "216",
-                      "288",
-                      "360"
-                    ],
-                    "correct_option": "d"
-                  },
-                  {
-                    "question": "JE, LH, OL, SQ, ?",
-                    "options": [
-                      "3",
-                      "6",
-                      "8",
-                      "9"
+                      "KF",
+                      "RX",
+                      "SH",
+                      "TS"
                     ],
                     "correct_option": "c"
                   },
                   {
+                    "question": "BF, CH, ?, HO, LT",
+                    "options": [
+                      "DN",
+                      "EL",
+                      "EK",
+                      "EM",
+                      "FJ"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "CE, GI, KM, OQ, ?",
+                    "options": [
+                      "TW",
+                      "TV",
+                      "SU",
+                      "RT",
+                      "UW"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "BD, GI, LN, QS, ?",
+                    "options": [
+                      "TV",
+                      "UW",
+                      "WX",
+                      "WY",
+                      "VX"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
+                    "question": "AD, EH, IL, ?, QT",
+                    "options": [
+                      "LM",
+                      "MN",
+                      "MP",
+                      "OM"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "JE, LH, OL, SQ, ?",
+                    "options": [
+                      "WV",
+                      "WX",
+                      "VW",
+                      "VX",
+                      "XW"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
                     "question": "DF, GJ, KM, NQ, RT, ?",
                     "options": [
-                      "145",
-                      "129",
-                      "113",
-                      "97"
+                      "UW",
+                      "YZ",
+                      "XZ",
+                      "UX",
+                      "YA"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "d"
                   },
                   {
                     "question": "CX FU, IR ? OL RI",
                     "options": [
-                      "312",
-                      "325",
-                      "515",
-                      "613"
+                      "lo",
+                      "mn",
+                      "no",
+                      "op",
+                      "or"
                     ],
                     "correct_option": "a"
                   },
                   {
                     "question": "OTE, PUF, QVG, RWH, ?",
                     "options": [
-                      "54",
-                      "60",
-                      "66",
-                      "72"
+                      "SYJ",
+                      "TXI",
+                      "SXJ",
+                      "SXI",
+                      "TYJ"
                     ],
                     "correct_option": "d"
                   },
                   {
                     "question": "eac gce ieg ?",
                     "options": [
-                      "37",
-                      "44",
-                      "50",
-                      "55"
+                      "jhi",
+                      "jgi",
+                      "kgi",
+                      "khi",
+                      "kij"
                     ],
                     "correct_option": "c"
                   },
                   {
                     "question": "ejo tyd ins xch ?",
                     "options": [
-                      "111",
-                      "120",
-                      "121",
-                      "132"
+                      "nrw",
+                      "mrw",
+                      "msx",
+                      "nsx",
+                      "nsw"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "b"
                   },
                   {
                     "question": "CAT, FDW, IGZ, ?",
                     "options": [
-                      "24",
-                      "25",
-                      "26",
-                      "27"
+                      "KJA",
+                      "KTC",
+                      "LHD",
+                      "LJC"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "d"
                   },
                   {
                     "question": "BEH, KNQ, TWZ, ?",
                     "options": [
-                      "60",
-                      "95",
-                      "120",
-                      "150"
+                      "IJL",
+                      "CFI",
+                      "BDF",
+                      "ADG"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "b"
                   },
                   {
                     "question": "deb ijg nol ? xyv",
                     "options": [
-                      "1038",
-                      "1998",
-                      "3008",
-                      "3968"
+                      "rsp",
+                      "stp",
+                      "rsq",
+                      "stq",
+                      "sto"
                     ],
                     "correct_option": "d"
                   },
                   {
                     "question": "? siy oeu kaq gwm cri",
                     "options": [
-                      "154.5",
-                      "162.5",
-                      "164.5",
-                      "166.5"
+                      "wnc",
+                      "wnb",
+                      "vnc",
+                      "vmc",
+                      "wmc"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "e"
                   },
                   {
                     "question": "QPO, SRQ, UTS, WVU, ?",
                     "options": [
-                      "24",
-                      "28",
-                      "77",
-                      "218"
+                      "XVZ",
+                      "ZYA",
+                      "YXW",
+                      "VWX",
+                      "AZY"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "c"
                   },
                   {
                     "question": "? ayw gec mki sqo",
                     "options": [
-                      "128",
-                      "144",
-                      "192",
-                      "256"
+                      "zxw",
+                      "bzw",
+                      "usq",
+                      "may",
+                      "xyv"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "c"
                   },
                   {
                     "question": "dfe jih mln ? vut",
                     "options": [
-                      "76",
-                      "75",
-                      "74",
-                      "72"
+                      "oqp",
+                      "psr",
+                      "prq",
+                      "rsp",
+                      "oqr"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "c"
                   },
                   {
                     "question": "DEF, HIJ, MNO, ?",
                     "options": [
-                      "300",
-                      "336",
-                      "420",
-                      "525"
+                      "STU",
+                      "RST",
+                      "RTV",
+                      "SRQ",
+                      "TUV"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "a"
                   },
                   {
                     "question": "FLP, INS, LPV, ?",
                     "options": [
-                      "375",
-                      "420",
-                      "435",
-                      "390"
+                      "ORY",
+                      "UXZ",
+                      "VXY",
+                      "SVW"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "a"
                   },
                   {
                     "question": "shg rif qje pkd ?",
                     "options": [
-                      "95",
-                      "97",
-                      "99",
-                      "101"
-                    ],
-                    "correct_option": "d"
-                  },
-                  {
-                    "question": "LXF, MTJ, NPN, OLR, ?",
-                    "options": [
-                      "41",
-                      "51",
-                      "60",
-                      "71"
+                      "ole",
+                      "olc",
+                      "nvc",
+                      "nlb"
                     ],
                     "correct_option": "b"
                   },
                   {
+                    "question": "LXF, MTJ, NPN, OLR, ?",
+                    "options": [
+                      "PHV",
+                      "PIU",
+                      "PJW",
+                      "PKX",
+                      "PPV"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
                     "question": "MHZ, NIW, OKT, PNQ, ?",
                     "options": [
-                      "115",
-                      "148",
-                      "170",
-                      "181"
+                      "RRN",
+                      "QRN",
+                      "QRM",
+                      "QQN"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "b"
                   },
                   {
                     "question": "AYD, BVF, DRH, ?, KGL",
                     "options": [
-                      "0",
-                      "1",
-                      "2",
-                      "3"
+                      "FMI",
+                      "GMJ",
+                      "HLK",
+                      "GLJ"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "b"
                   },
                   {
                     "question": "AB, BA, ABC, CBA, ABCD, ?",
                     "options": [
-                      "322",
-                      "332",
-                      "342",
-                      "352"
+                      "ABCD",
+                      "BACD",
+                      "CABD",
+                      "DBAC",
+                      "DCBA"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "e"
                   },
                   {
                     "question": "AB, DEF, HIJK, ?, STUVWX",
                     "options": [
-                      "550",
-                      "310",
-                      "295",
-                      "285"
+                      "MONPQ",
+                      "LMNOP",
+                      "LMNO",
+                      "QRSTU"
                     ],
                     "correct_option": "a"
                   },
                   {
                     "question": "A, CD, GHI, ?, UVWXY",
                     "options": [
-                      "246",
-                      "247",
-                      "248",
-                      "249"
+                      "LMNO",
+                      "MNO",
+                      "NOPQ",
+                      "MNOP"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "d"
                   }
                 ]
               },
@@ -1649,94 +1670,98 @@
                   {
                     "question": "D-4, F-6, H-8, J-10, ?, ?",
                     "options": [
-                      "0.9",
-                      "0.82",
-                      "1",
-                      "0.95"
+                      "K-12, M-13",
+                      "L-12, M-14",
+                      "L-12, N-14",
+                      "K-12, M-14"
                     ],
                     "correct_option": "c"
                   },
                   {
                     "question": "3F, 6G, 11I, 18L, ?",
                     "options": [
-                      "70",
-                      "75",
-                      "80",
-                      "85"
+                      "21O",
+                      "25N",
+                      "27P",
+                      "27Q",
+                      "25P"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "c"
                   },
                   {
                     "question": "KM5, IP8, GS11, EV14, ?",
                     "options": [
-                      "34",
-                      "54",
-                      "55",
-                      "56"
+                      "BX17",
+                      "BY17",
+                      "CY18",
+                      "CZ17",
+                      "CY17"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "e"
                   },
                   {
                     "question": "J2Z, K4X, I7V, ?, H16R, M22P",
                     "options": [
-                      "31",
-                      "33",
-                      "35",
-                      "36"
+                      "I11T",
+                      "L11S",
+                      "L12T",
+                      "L11T",
+                      "L12S"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "d"
                   },
                   {
                     "question": "2Z5, 7Y7, 14X9, 23W11, 34V13, ?",
                     "options": [
-                      "21",
-                      "25",
-                      "27",
-                      "33"
+                      "27U24",
+                      "47U15",
+                      "45U15",
+                      "47V14"
                     ],
                     "correct_option": "b"
                   },
                   {
                     "question": "2A11, 4D13, 12G17, ?",
                     "options": [
-                      "147",
-                      "162",
-                      "183",
-                      "192"
+                      "36I19",
+                      "48J21",
+                      "36J21",
+                      "48J23"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "d"
                   },
                   {
                     "question": "C4X, F9U, I16R, ?",
                     "options": [
-                      "579",
-                      "578",
-                      "568",
-                      "478"
+                      "K25P",
+                      "L25P",
+                      "L25O",
+                      "L27P"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "c"
                   },
                   {
                     "question": "Q1F, S2E, U6D, W21C, ?",
                     "options": [
-                      "56",
-                      "57",
-                      "58",
-                      "59"
+                      "Y66B",
+                      "Y44B",
+                      "Y88B",
+                      "Z88B"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "c"
                   }
                 ]
               },
               {
                 "question": "Find the wrong term in the letter-number series given below :<br>G4T, J10R, M20P, P43N, S90L",
                 "options": [
-                  "672",
-                  "386",
-                  "279",
-                  "143"
+                  "G4T",
+                  "J10R",
+                  "M20P",
+                  "P43N",
+                  "S90L"
                 ],
-                "correct_option": "d"
+                "correct_option": "b"
               }
             ]
           }
@@ -1754,552 +1779,549 @@
                   {
                     "question": "_ _ aba _ _ ba _ ab",
                     "options": [
-                      "35",
-                      "36",
-                      "48",
-                      "49"
+                      "abbba",
+                      "abbab",
+                      "baabb",
+                      "bbaba"
                     ],
                     "correct_option": "b"
                   },
                   {
                     "question": "ab _ _ _ b _ bbaa _",
                     "options": [
-                      "12",
-                      "13",
-                      "14",
-                      "15"
+                      "abaab",
+                      "abbab",
+                      "baaab",
+                      "babba"
                     ],
                     "correct_option": "c"
                   },
                   {
                     "question": "_ baa _ aab _ a _ a",
                     "options": [
-                      "12",
-                      "13",
-                      "14",
-                      "15"
+                      "aabb",
+                      "aaba",
+                      "abab",
+                      "baab"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "c"
                   },
                   {
                     "question": "_ _ babbba _ a _ _",
                     "options": [
-                      "42",
-                      "51",
-                      "81",
-                      "91"
+                      "ababb",
+                      "baaab",
+                      "bbaba",
+                      "babbb"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "d"
                   },
                   {
                     "question": "aa _ ab _ _ aaa _ a",
                     "options": [
-                      "44",
-                      "45",
-                      "46",
-                      "47"
+                      "aaab",
+                      "aabb",
+                      "abab",
+                      "baaa"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "a"
                   },
                   {
                     "question": "a _ bbc _ aab _ cca _ bbcc",
                     "options": [
-                      "324",
-                      "243",
-                      "210",
-                      "162"
+                      "bacb",
+                      "acba",
+                      "abba",
+                      "caba"
                     ],
                     "correct_option": "b"
                   },
                   {
                     "question": "ab _ aa _ bbb _ aaa _ bbba",
                     "options": [
-                      "97",
-                      "98",
-                      "99",
-                      "100"
+                      "abba",
+                      "baab",
+                      "aaab",
+                      "abab"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "b"
                   },
                   {
                     "question": "bc _ b _ c _ b _ ccb",
                     "options": [
-                      "14",
-                      "16",
-                      "18",
-                      "24"
+                      "cbcb",
+                      "bbcb",
+                      "cbbc",
+                      "bcbc"
                     ],
                     "correct_option": "a"
                   },
                   {
                     "question": "abb _ baa _ a _ bab _ aba",
                     "options": [
-                      "60",
-                      "65",
-                      "68",
-                      "70"
+                      "abba",
+                      "abab",
+                      "ccac",
+                      "aabb"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "a"
                   },
                   {
                     "question": "abca _ bcaab _ ca _ bbc _ a",
                     "options": [
-                      "92",
-                      "115",
-                      "127",
-                      "131"
+                      "ccaa",
+                      "bbaa",
+                      "abac",
+                      "abba"
                     ],
                     "correct_option": "c"
                   },
                   {
                     "question": "_ bbca _ bcca _ ac _ a _ cb",
                     "options": [
-                      "25",
-                      "26",
-                      "27",
-                      "28"
+                      "abcba",
+                      "acbab",
+                      "bacab",
+                      "bcaab"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "b"
                   },
                   {
                     "question": "_ bcc _ ac _ aabb _ ab _ cc",
                     "options": [
-                      "9",
-                      "11",
-                      "13",
-                      "15"
+                      "aabca",
+                      "abaca",
+                      "bacab",
+                      "bcaca"
                     ],
                     "correct_option": "c"
                   },
                   {
                     "question": "a _ bccb _ ca _ cca _ baab _ c",
                     "options": [
-                      "45.5",
-                      "39.5",
-                      "30.5",
-                      "40.5"
+                      "ababc",
+                      "abcaa",
+                      "accab",
+                      "bacaa"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "a"
                   },
                   {
                     "question": "ab _ aa _ caab_ c _ abb _ c",
                     "options": [
-                      "441",
-                      "484",
-                      "529",
-                      "729"
+                      "bbcaa",
+                      "bcbca",
+                      "cabac",
+                      "cbbac"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "d"
                   },
                   {
                     "question": "c _ baa _ aca _ cacab _ acac _ bca",
                     "options": [
-                      "24",
-                      "22",
-                      "20",
-                      "18"
+                      "acbaa",
+                      "bbcaa",
+                      "bccab",
+                      "cbaac"
                     ],
                     "correct_option": "a"
                   },
                   {
                     "question": "_ aba _ cabc _ dcba _ bab _ a",
                     "options": [
-                      "228",
-                      "256",
-                      "352",
-                      "456"
+                      "abdca",
+                      "bcadc",
+                      "abcdd",
+                      "cbdaa"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "a"
                   },
                   {
                     "question": "a _ cdaab _ cc _ daa _ bbb _ ccddd",
                     "options": [
-                      "18",
-                      "27",
-                      "36",
-                      "81"
+                      "bdbda",
+                      "bddca",
+                      "dbbca",
+                      "bbdac"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "d"
                   },
                   {
                     "question": "a _ abbb _ ccccd _ ddccc _ bb _ ba",
                     "options": [
-                      "43",
-                      "49",
-                      "50",
-                      "59"
+                      "abcda",
+                      "abdbc",
+                      "abdcb",
+                      "abcad"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "c"
                   },
                   {
                     "question": "_ bcdbc _ dcabd _ bcdbc _ dc _ bd",
                     "options": [
-                      "144",
-                      "216",
-                      "288",
-                      "360"
+                      "aaaaa",
+                      "ccccc",
+                      "bbbbb",
+                      "ddddd"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "a"
                   },
                   {
                     "question": "adb _ ac _ da _ cddcb _ dbc _ cbda",
                     "options": [
-                      "3",
-                      "6",
-                      "8",
-                      "9"
+                      "bccba",
+                      "cbbaa",
+                      "ccbba",
+                      "bbcad"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "b"
                   },
                   {
                     "question": "c _ bbb _ _ abbbb _ abbb _",
                     "options": [
-                      "145",
-                      "129",
-                      "113",
-                      "97"
+                      "aabcb",
+                      "abccb",
+                      "abacb",
+                      "bacbb"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "b"
                   },
                   {
                     "question": "b _ abbc _ bbca _ bcabb _ ab",
                     "options": [
-                      "312",
-                      "325",
-                      "515",
-                      "613"
+                      "acaa",
+                      "acba",
+                      "cabc",
+                      "cacc"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "c"
                   },
                   {
                     "question": "ac _ cab _ baca _ aba _ acac",
                     "options": [
-                      "54",
-                      "60",
-                      "66",
-                      "72"
+                      "aacb",
+                      "acbc",
+                      "babb",
+                      "bcbb"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "a"
                   },
                   {
                     "question": "_ acca _ ccca _ acccc _ aaa",
                     "options": [
-                      "37",
-                      "44",
-                      "50",
-                      "55"
+                      "acca",
+                      "caaa",
+                      "ccaa",
+                      "caac"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "b"
                   },
                   {
                     "question": "_ bc _ _ bb _ aabc",
                     "options": [
-                      "111",
-                      "120",
-                      "121",
-                      "132"
+                      "acac",
+                      "babc",
+                      "abab",
+                      "aacc"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "a"
                   },
                   {
                     "question": "aa _ aaa _ aaaa _ aaaa _ b",
                     "options": [
-                      "24",
-                      "25",
-                      "26",
-                      "27"
+                      "baaa",
+                      "bbaa",
+                      "bbbb",
+                      "bbba"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "d"
                   },
                   {
                     "question": "aba _ baca _ ba _ bacaabac _ aca",
                     "options": [
-                      "60",
-                      "95",
-                      "120",
-                      "150"
+                      "cacb",
+                      "ccab",
+                      "cabc",
+                      "abcc"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "a"
                   },
                   {
                     "question": "ab _ bc _ c _ ba _ c",
                     "options": [
-                      "1038",
-                      "1998",
-                      "3008",
-                      "3968"
-                    ],
-                    "correct_option": "d"
-                  },
-                  {
-                    "question": "a _ ca _ bc _ bcc _ bca",
-                    "options": [
-                      "154.5",
-                      "162.5",
-                      "164.5",
-                      "166.5"
-                    ],
-                    "correct_option": "b"
-                  },
-                  {
-                    "question": "ab _ bcbca _ _ c _ bab",
-                    "options": [
-                      "24",
-                      "28",
-                      "77",
-                      "218"
-                    ],
-                    "correct_option": "b"
-                  },
-                  {
-                    "question": "a _ cacbc _ baca _ _ b",
-                    "options": [
-                      "128",
-                      "144",
-                      "192",
-                      "256"
-                    ],
-                    "correct_option": "d"
-                  },
-                  {
-                    "question": "_ aaba _ bba _ bba _ abaa _ b",
-                    "options": [
-                      "76",
-                      "75",
-                      "74",
-                      "72"
-                    ],
-                    "correct_option": "b"
-                  },
-                  {
-                    "question": "ab _ bbc _ c _ ab _ ab _ b",
-                    "options": [
-                      "300",
-                      "336",
-                      "420",
-                      "525"
-                    ],
-                    "correct_option": "b"
-                  },
-                  {
-                    "question": "_ bca _ cca _ ca _ b _ c",
-                    "options": [
-                      "375",
-                      "420",
-                      "435",
-                      "390"
+                      "baac",
+                      "aabb",
+                      "caab",
+                      "aaab"
                     ],
                     "correct_option": "c"
                   },
                   {
+                    "question": "a _ ca _ bc _ bcc _ bca",
+                    "options": [
+                      "bbaa",
+                      "bbab",
+                      "aabb",
+                      "baba"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "ab _ bcbca _ _ c _ bab",
+                    "options": [
+                      "acbc",
+                      "baaa",
+                      "abcc",
+                      "ccaa"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "a _ cacbc _ baca _ _ b",
+                    "options": [
+                      "baba",
+                      "babc",
+                      "abac",
+                      "cacb"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "_ aaba _ bba _ bba _ abaa _ b",
+                    "options": [
+                      "aabab",
+                      "ababa",
+                      "baaba",
+                      "bbaba"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "ab _ bbc _ c _ ab _ ab _ b",
+                    "options": [
+                      "ccaac",
+                      "cbabc",
+                      "cacac",
+                      "bccab"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "_ bca _ cca _ ca _ b _ c",
+                    "options": [
+                      "aaaaa",
+                      "bbbab",
+                      "aabaa",
+                      "bbabb"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
                     "question": "b _ ac _ cc _ cb _ ab _ ac",
                     "options": [
-                      "95",
-                      "97",
-                      "99",
-                      "101"
+                      "cbaba",
+                      "bbaac",
+                      "abbbc",
+                      "aabba"
                     ],
                     "correct_option": "d"
                   },
                   {
                     "question": "c _ ac _ aa _ aa _ bc _ bcc",
                     "options": [
-                      "41",
-                      "51",
-                      "60",
-                      "71"
+                      "cabba",
+                      "ccbbb",
+                      "bbbbb",
+                      "cbacb"
                     ],
                     "correct_option": "b"
                   },
                   {
                     "question": "abc _ d _ bc _ d _ b _ cda",
                     "options": [
-                      "115",
-                      "148",
-                      "170",
-                      "181"
+                      "bacde",
+                      "cdabe",
+                      "dacab",
+                      "decdb"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "c"
                   },
                   {
                     "question": "ba _ b _ aab _ a _ b",
                     "options": [
-                      "0",
-                      "1",
-                      "2",
-                      "3"
+                      "abaa",
+                      "abba",
+                      "baab",
+                      "babb"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "b"
                   },
                   {
                     "question": "gfe _ ig _ eii _ fei _ gf _ ii",
                     "options": [
-                      "322",
-                      "332",
-                      "342",
-                      "352"
+                      "eifgi",
+                      "figie",
+                      "ifgie",
+                      "ifige"
                     ],
                     "correct_option": "c"
                   },
                   {
                     "question": "mnonopqopqrs _ _ _ _ _",
                     "options": [
-                      "550",
-                      "310",
-                      "295",
-                      "285"
+                      "mnopq",
+                      "oqrst",
+                      "pqrst",
+                      "qrstu"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "c"
                   },
                   {
                     "question": "aab _ ab _ cabcca _ bcab _ c",
                     "options": [
-                      "246",
-                      "247",
-                      "248",
-                      "249"
+                      "bbbc",
+                      "bbab",
+                      "cabc",
+                      "cbab"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "d"
                   },
                   {
                     "question": "ccbab _ caa _ bccc _ a _",
                     "options": [
-                      "0.9",
-                      "0.82",
-                      "1",
-                      "0.95"
+                      "babb",
+                      "bbba",
+                      "baab",
+                      "babc"
                     ],
-                    "correct_option": "c"
+                    "correct_option": "a"
                   },
                   {
                     "question": "ba _ b _ aabb _ a _ _ a _ bb",
                     "options": [
-                      "70",
-                      "75",
-                      "80",
-                      "85"
+                      "bbaabb",
+                      "ababba",
+                      "ababab",
+                      "bababa"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "b"
                   },
                   {
                     "question": "a _ c _ abb _ a _ bc _ bc _ ab",
                     "options": [
-                      "34",
-                      "54",
-                      "55",
-                      "56"
+                      "cbcaaa",
+                      "bcccab",
+                      "bccaac",
+                      "acbabc"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "c"
                   },
                   {
                     "question": "cab _ a _ c _ bc _ bc _ b _ ab",
                     "options": [
-                      "31",
-                      "33",
-                      "35",
-                      "36"
+                      "bcbbab",
+                      "bcbbbc",
+                      "acacab",
+                      "cbaaac"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "d"
                   },
                   {
                     "question": "cccbb _ aa _ cc _ bbbaa _ c",
                     "options": [
-                      "21",
-                      "25",
-                      "27",
-                      "33"
+                      "acbc",
+                      "baca",
+                      "baba",
+                      "acba"
                     ],
                     "correct_option": "b"
                   },
                   {
                     "question": "_ abb _ _ bb _ a _ bbab _ ba",
                     "options": [
-                      "147",
-                      "162",
-                      "183",
-                      "192"
-                    ],
-                    "correct_option": "a"
-                  },
-                  {
-                    "question": "ccb _ c _ bbc _ b _ cc _ _ ccbb",
-                    "options": [
-                      "579",
-                      "578",
-                      "568",
-                      "478"
+                      "bababa",
+                      "bbabbb",
+                      "ababaa",
+                      "aaaabb"
                     ],
                     "correct_option": "b"
                   },
                   {
+                    "question": "ccb _ c _ bbc _ b _ cc _ _ ccbb",
+                    "options": [
+                      "bccbbb",
+                      "bcccbb",
+                      "aaaaba",
+                      "bbbbbb"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
                     "question": "abca _ bcaab _ aa _ caa _ c",
                     "options": [
-                      "56",
-                      "57",
-                      "58",
-                      "59"
+                      "bbac",
+                      "bbaa",
+                      "acbb",
+                      "acac"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "c"
                   },
                   {
                     "question": "b _ b _ bb _ _ bbb _ bb _ b",
                     "options": [
-                      "672",
-                      "386",
-                      "279",
-                      "143"
+                      "bbbbba",
+                      "bbaaab",
+                      "ababab",
+                      "aabaab"
                     ],
-                    "correct_option": "d"
+                    "correct_option": "c"
                   },
                   {
                     "question": "c _ bba _ cab _ ac _ ab _ ac",
                     "options": [
-                      "12",
-                      "29",
-                      "30",
-                      "35"
+                      "abcbc",
+                      "acbcb",
+                      "babcc",
+                      "bcacb"
                     ],
                     "correct_option": "b"
                   },
                   {
                     "question": "a _ bc _ c _ abb _ bca _",
                     "options": [
-                      "114",
-                      "338",
-                      "558",
-                      "991"
+                      "cccbc",
+                      "cbbac",
+                      "accba",
+                      "abbba"
                     ],
                     "correct_option": "c"
                   },
                   {
                     "question": "_ c _ bd _ cbcda _ a _ db _ a",
                     "options": [
-                      "1",
-                      "7",
-                      "9",
-                      "12"
+                      "adabcd",
+                      "cdbbca",
+                      "daabbc",
+                      "bdbcba"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "a"
                   },
                   {
                     "question": "a _ bc _ a _ bcda _ ccd _ bcd _",
                     "options": [
-                      "15",
-                      "16",
-                      "17",
-                      "18"
+                      "abdcad",
+                      "adbbad",
+                      "acbdbb",
+                      "abddbd"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "b"
                   },
                   {
                     "question": "_ cb _ ca _ bacb _ ca _ bac _ d",
                     "options": [
-                      "35",
-                      "32",
-                      "30",
-                      "28"
+                      "bddddb"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "c"
                   }
                 ]
               },
@@ -2309,52 +2331,51 @@
                   {
                     "question": "C B _ _ D _ B A B C C B<br>_ _ 1 2 4 3 _ _ ? ? ? ?<br>a _ a b _ c _ b _ _ _ _",
                     "options": [
-                      "8",
-                      "10",
-                      "11",
-                      "14"
+                      "bbbddd",
+                      "addddb",
+                      "addbbb"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "c"
                   },
                   {
                     "question": "_ A C _ B D _ C D C D<br>2 _ 4 1 _ 1 4 _ _ _ _<br>c d _ b c _ a ? ? ? ?",
                     "options": [
-                      "15",
-                      "16",
-                      "20",
-                      "22"
+                      "3, 4, 4, 3",
+                      "3, 2, 2, 3",
+                      "3, 1, 1, 3",
+                      "1, 4, 4, 1"
                     ],
                     "correct_option": "a"
                   },
                   {
                     "question": "C _ B _ D _ A _ B B D D<br>2 _ _ 4 _ 3 4 _ ? ? ? ?<br>_ a _ c b a _ d _ _ _ _",
                     "options": [
-                      "9",
-                      "10",
-                      "11",
-                      "12"
+                      "a, b, a, b",
+                      "a, c, a, c",
+                      "c, b, c, b",
+                      "c, d, c, d"
                     ],
-                    "correct_option": "b"
+                    "correct_option": "d"
                   },
                   {
                     "question": "A _ B A C _ D _ B C D C<br>_ 3 _ 2 _ 1 _ 4 ? ? ? ?<br>d c _ _ b a c b _ _ _ _",
                     "options": [
-                      "212",
-                      "221",
-                      "241",
-                      "242"
+                      "2, 2, 1, 1",
+                      "2, 2, 3, 3",
+                      "3, 3, 4, 4",
+                      "3, 3, 1, 1"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "b"
                   },
                   {
                     "question": "_ A D A C B _ _ B D C C<br>1 3 _ _ 1 2 4 2 _ _ _ _<br>a _ _ b _ _ c d ? ? ? ?",
                     "options": [
-                      "86",
-                      "90",
-                      "154",
-                      "352"
+                      "1, 3, 4, 3",
+                      "1, 4, 3, 4",
+                      "2, 3, 4, 3",
+                      "3, 4, 1, 4"
                     ],
-                    "correct_option": "a"
+                    "correct_option": "d"
                   }
                 ]
               }
@@ -2927,7 +2948,7 @@
                 "correct_option": "c"
               },
               {
-                "question": "If in a certain langauge, REMOTE is coded as ROTEME, which word would ROTEME, which word would be coded as PNIICC ?",
+                "question": "If in a certain langauge, REMOTE is coded as ROTEME. which word would be coded as PNIICC ?",
                 "options": [
                   "NPIICC",
                   "PICCIN",
@@ -2938,7 +2959,7 @@
                 "correct_option": "d"
               },
               {
-                "question": "If FULFNHW is the code for cricket, then EULGH is the code for which word ?",
+                "question": "If FULFNHW is the code for CRICKET, then EULGH is the code for which word ?",
                 "options": [
                   "PRIDE",
                   "BRIDE",
@@ -2971,11 +2992,11 @@
                 "correct_option": "e"
               },
               {
-                "question": "If in a certain language, GRASP is coded as BMVNCK, which word would be coded as CRANE ?",
+                "question": "If in a certain language, GRASP is coded as BMVNK, which word would be coded as CRANE ?",
                 "options": [
                   "FUDQH",
                   "HWFSJ",
-                  "GERI",
+                  "GVERI",
                   "XMVIZ",
                   "BQZMD"
                 ],
@@ -2995,7 +3016,7 @@
               {
                 "question": "If in a certain language, TRIANGLE is coded as SQHZMFKD, which word would be coded as DWZLOKD ?",
                 "options": [
-                  "EXPAMPLE",
+                  "EXAMPLE",
                   "FIGMENT",
                   "DISMISS",
                   "DISJOIN",
@@ -3037,7 +3058,7 @@
                 "correct_option": "c"
               },
               {
-                "question": "If EHFNRQ is the code for beckon, which word has eh code QDFWXULQ ?",
+                "question": "If EHFNRQ is the code for BECKON, which word has the code QDFWXULQ ?",
                 "options": [
                   "NCAUTIRN",
                   "NACUTIRN",
@@ -3059,7 +3080,7 @@
                 "correct_option": "a"
               },
               {
-                "question": "If QOSCFLBJO is the code for PORCELAIN, which word is coded as BKMOUSPP ?",
+                "question": "If QOSCFLBJO is the code for PORCELAIN, which word is coded as BLMOURPPZ ?",
                 "options": [
                   "ALTOLROPY",
                   "ALLOTROPY",
@@ -3092,7 +3113,7 @@
                 "correct_option": "b"
               },
               {
-                "question": "If nargrued is the code for GRANDEUR, which word is coded as SERPEVRE ?",
+                "question": "If NARGRUED is the code for GRANDEUR, which word is coded as SERPEVRE ?",
                 "options": [
                   "PERSEVER",
                   "PRESEVER",
@@ -3112,6 +3133,1947 @@
                   "BOBAMY"
                 ],
                 "correct_option": "a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type_name": "NUMBER CODING",
+        "cases": [
+          {
+            "case_name": "When numerical code values are assigned to words",
+            "items": [
+              {
+                "question": "If DELHI is coded as 73541 and CALCUTTA as 82589662, how can CALICUT be coded ?",
+                "options": [
+                  "5279431",
+                  "5978213",
+                  "8251896",
+                  "8543691"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, RIPPLE is written as 613382 and LIFE is written as 8192. How is PILLER written in that code ?",
+                "options": [
+                  "318826",
+                  "318286",
+                  "618826",
+                  "338816"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If ROSE is coded as 6821, CHAIR is coded as 73456 and PREACH is coded as 961473, what will be the code for SEARCH ?",
+                "options": [
+                  "246173",
+                  "214673",
+                  "214763",
+                  "216473"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If in a certain code, TWENTY is written as 863985 and ELEVEN is written as 323039, how is TWELVE written in that code ?",
+                "options": [
+                  "863203",
+                  "863584",
+                  "863903",
+                  "863063"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If the letters in PRABA are coded as 27595, and THILAK are coded as 368451, how can BHARATHI be coded ?",
+                "options": [
+                  "37536689",
+                  "57686535",
+                  "96575368",
+                  "96855368"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If GIVE is coded as 5137 and BAT is coded as 924, how is GATE coded ?",
+                "options": [
+                  "5427",
+                  "5724",
+                  "5247",
+                  "2547"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If PALE is coded as 2134, EARTH is coded as 41590, how is PEARL coded in that code ?",
+                "options": [
+                  "29530",
+                  "24153",
+                  "25413",
+                  "25430"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "parent_question": "Directions : If in a certain language, ENTRY is coded as 12345 and STEADY is coded as 931785, then state which is the correct code for each of the given words.",
+                "questions": [
+                  {
+                    "question": "TENANT",
+                    "options": [
+                      "956169",
+                      "196247",
+                      "352213",
+                      "312723"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "NEATNESS",
+                    "options": [
+                      "25196577",
+                      "21732199",
+                      "21362199",
+                      "21823698"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "SEDATE",
+                    "options": [
+                      "918731",
+                      "954185",
+                      "814195",
+                      "614781"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "ARREST",
+                    "options": [
+                      "744589",
+                      "744193",
+                      "166479",
+                      "745194"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "ENDEAR",
+                    "options": [
+                      "524519",
+                      "174189",
+                      "128174",
+                      "124179"
+                    ],
+                    "correct_option": "c"
+                  }
+                ]
+              },
+              {
+                "question": "If ENGLAND is written as 1234526 and FRANCE is written as 785291, how is GREECE coded ?",
+                "options": [
+                  "381171",
+                  "381191",
+                  "832252",
+                  "835545"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "parent_question": "Directions : If in a certain language CHARCOAL is coded as 45164913 and MORALE is coded as 296137, how are the following words coded in that language ?",
+                "questions": [
+                  {
+                    "question": "REAL",
+                    "options": [
+                      "8519",
+                      "6713",
+                      "6513",
+                      "6719"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "ARCHER",
+                    "options": [
+                      "193859",
+                      "163546",
+                      "164576",
+                      "193476"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "HEARL",
+                    "options": [
+                      "57163",
+                      "75163",
+                      "76198",
+                      "57193"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "COACH",
+                    "options": [
+                      "38137",
+                      "49148",
+                      "48246",
+                      "49145"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "ALLOCHIRE",
+                    "options": [
+                      "19943785",
+                      "13394567",
+                      "16693895",
+                      "13396875"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "ROCHEL",
+                    "options": [
+                      "694573",
+                      "693578",
+                      "673958",
+                      "693857"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "COLLER",
+                    "options": [
+                      "397758",
+                      "497758",
+                      "483359",
+                      "493376"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "MECHRALE",
+                    "options": [
+                      "95378165",
+                      "25378195",
+                      "27456137",
+                      "27386195"
+                    ],
+                    "correct_option": "c"
+                  }
+                ]
+              },
+              {
+                "question": "If SHARP is coded as 58034 and PUSH as 4658, then RUSH is coded as",
+                "options": [
+                  "3568",
+                  "3658",
+                  "3685",
+                  "3583"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a certain code GARIMA is written as 725432 and TINA as 6482. How is MARTINA written in that code ?",
+                "options": [
+                  "3256482",
+                  "3265842",
+                  "3645862",
+                  "3658426"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain code, RIPSLE is written as 613082 and WIFE is written as 4192, how is PEWSLE written in that code ?",
+                "options": [
+                  "324082",
+                  "69824",
+                  "41632",
+                  "35612"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "parent_question": "Directions : If MISTAKE is coded as 9765412 and NAKED is coded as 84123, how are the following words coded ?",
+                "questions": [
+                  {
+                    "question": "DISTANT",
+                    "options": [
+                      "3765485",
+                      "4798165",
+                      "3697185",
+                      "4768296"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "NEMISES",
+                    "options": [
+                      "7598656",
+                      "8597656",
+                      "8297626",
+                      "7689565"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "ASSIST",
+                    "options": [
+                      "166762",
+                      "466765",
+                      "488976",
+                      "435985"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "INTIMATE",
+                    "options": [
+                      "89786145",
+                      "79438163",
+                      "78579452",
+                      "78698365"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "STAIN",
+                    "options": [
+                      "98175",
+                      "89483",
+                      "68194",
+                      "65478"
+                    ],
+                    "correct_option": "d"
+                  }
+                ]
+              },
+              {
+                "question": "In a certain language 24685 is written as 33776. How is 35791 written in that code ?",
+                "options": [
+                  "44826",
+                  "44882",
+                  "46682",
+                  "44682"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a certain language 35796 is written as 44887. How is 46823 written in that code ?",
+                "options": [
+                  "57914",
+                  "55914",
+                  "55934",
+                  "55714"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If MINJUR is coded as 312547 and TADA as 6898, how can MADURAI be coded ?",
+                "options": [
+                  "3498178",
+                  "3894871",
+                  "3849781",
+                  "3894781"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If PALAM could be given the code number 43, what code number can be given to SANTACRUZ ?",
+                "options": [
+                  "75",
+                  "85",
+                  "120",
+                  "123"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If Z = 52 and ACT = 48, then BAT will be equal to",
+                "options": [
+                  "39",
+                  "41",
+                  "44",
+                  "46"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If REASON is coded as 5 and BELIEVED as 7, what is the code number for GOVERNMENT ?",
+                "options": [
+                  "6",
+                  "8",
+                  "9",
+                  "10"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If GO = 32, SHE = 49, then SOME will be equal to",
+                "options": [
+                  "56",
+                  "58",
+                  "62",
+                  "64"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If AT = 20, BAT = 40, then CAT will be equal to",
+                "options": [
+                  "30",
+                  "50",
+                  "60",
+                  "70"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If MACHINE is coded as 19-7-9-14-15-20-11, how will you code DANGER ?",
+                "options": [
+                  "10-7-20-13-11-24",
+                  "11-7-20-16-11-24",
+                  "13-7-20-9-11-25",
+                  "13-7-20-10-11-25"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If PRATAP could be given the code number 1618120116, what code number can be given to NAVIN ?",
+                "options": [
+                  "14122914",
+                  "19274651",
+                  "24639125",
+                  "73957614"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If MOBILITY is coded as 46293927, then EXAMINATION is coded as",
+                "options": [
+                  "45038401854",
+                  "56149512965",
+                  "57159413955",
+                  "67250623076"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If MASTER is coded as 411259, then POWDER will be coded as",
+                "options": [
+                  "765439",
+                  "765439",
+                  "765459",
+                  "765549"
+                ],
+                "correct_option": "c"
+              }
+            ]
+          },
+          {
+            "case_name": "NUMBER TO LETTER CODING",
+            "items": [
+              {
+                "question": "In a certain code, 15789 is written as EGKPT and 2346 is written as ALUR. How is 23549 written in that code ?",
+                "options": [
+                  "ALEUT",
+                  "ALGTU",
+                  "ALGUT",
+                  "ALGRT",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, a number 13479 is written as AQFJL and 5268 is written as DMPN. How is 396824 written in that code ?",
+                "options": [
+                  "QLPNKJ",
+                  "QLPNMF",
+                  "QLPMNF",
+                  "QLPNDF",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "parent_question": "Directions : The number in each question below is to be codified in the following code :<br><table><tr><td>Digit</td><td>7</td><td>2</td><td>1</td><td>5</td><td>3</td><td>9</td><td>8</td><td>6</td><td>4</td></tr><tr><td>Letter</td><td>W</td><td>L</td><td>M</td><td>S</td><td>I</td><td>N</td><td>D</td><td>J</td><td>B</td></tr></table>",
+                "questions": [
+                  {
+                    "question": "184632",
+                    "options": [
+                      "MDJBSI",
+                      "MDJBIL",
+                      "MDJBWL",
+                      "MDBJIL",
+                      "None of these"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "879341",
+                    "options": [
+                      "DWNIBS",
+                      "DWNBIM",
+                      "DWNIBM",
+                      "NDWBIM",
+                      "None of these"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "64928",
+                    "options": [
+                      "JBNLD",
+                      "JBLND",
+                      "BJNLD",
+                      "DBNLS",
+                      "None of these"
+                    ],
+                    "correct_option": "a"
+                  }
+                ]
+              },
+              {
+                "question": "In a certain code, 15789 is written as AXBTC, 2346 is written as MPDU. How is 23549 written in that code ?",
+                "options": [
+                  "MPXDT",
+                  "MPADC",
+                  "MPXCD",
+                  "MPXDC",
+                  "None of these"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "In a certain code, 15789 is written as XTZAL and 2346 is written as NPSU. how is 23549 written in that code ?",
+                "options": [
+                  "NPTUL",
+                  "PNTSL",
+                  "NPTSL",
+                  "NBTSL",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, 33946 is coded as PPOAL and 1987 is coded as ROSE. How is 94678 coded in that code ?",
+                "options": [
+                  "ROSEP",
+                  "OALES",
+                  "POALE",
+                  "OSEPL",
+                  "REAPS"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If in a certain language, 943 is coded as BED and 12448 is coded as SWEET, how is 492311 coded in that language ?",
+                "options": [
+                  "EDSWBS",
+                  "TSWBDD",
+                  "DSWTEE",
+                  "EBDSWE",
+                  "EBWDSS"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "parent_question": "Directions : In a certain language, the numbers are coded as follows :<br><table><tr><td>4</td><td>3</td><td>9</td><td>2</td><td>1</td><td>6</td><td>7</td><td>8</td><td>5</td><td>2</td><td>0</td></tr><tr><td>A</td><td>W</td><td>P</td><td>Q</td><td>R</td><td>B</td><td>E</td><td>S</td><td>G</td><td>J</td><td>M</td></tr></table><br>How are the following figures coded in that code ?",
+                "questions": [
+                  {
+                    "question": "421665",
+                    "options": [
+                      "AQRBBG",
+                      "PQBRSE",
+                      "ASGRBE",
+                      "QRPSSE",
+                      "None of these"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "67825",
+                    "options": [
+                      "BESGJ",
+                      "BSEJG",
+                      "BESJG",
+                      "BSEGJ",
+                      "ESBJG"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "55218",
+                    "options": [
+                      "GJGRS",
+                      "GGJSR",
+                      "GGRJS",
+                      "GGSRJ",
+                      "GGJRS"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
+                    "question": "91352",
+                    "options": [
+                      "PRWGJ",
+                      "PRGWJ",
+                      "RPGWJ",
+                      "RGPWJ",
+                      "PRWJG"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "720435",
+                    "options": [
+                      "EJMAGW",
+                      "MAGJRW",
+                      "EJMAWG",
+                      "MGARJW",
+                      "None of these"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "6650",
+                    "options": [
+                      "BBMG",
+                      "BBGM",
+                      "BGMB",
+                      "BMGB",
+                      "None of these"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "3215",
+                    "options": [
+                      "WJRG",
+                      "WJGR",
+                      "JWRG",
+                      "JWGR",
+                      "GRJW"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "67852",
+                    "options": [
+                      "BSEJG",
+                      "BESJG",
+                      "BSEGJ",
+                      "BESGJ",
+                      "None of these"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "439216",
+                    "options": [
+                      "PQRWAB",
+                      "AQRWPB",
+                      "APWQRB",
+                      "PQRBAW",
+                      "AWPQRB"
+                    ],
+                    "correct_option": "e"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions : In a certain languaage, 36492 is written as SMILE and 058 is written as RUN. How are the following figures coded in that language ?",
+                "questions": [
+                  {
+                    "question": "33980",
+                    "options": [
+                      "SSLNR",
+                      "SSLRN",
+                      "SLSNR",
+                      "Can't be determined",
+                      "None of these"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "6458",
+                    "options": [
+                      "MUIN",
+                      "MINU",
+                      "INUM",
+                      "MIUN",
+                      "IUMN"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "92486",
+                    "options": [
+                      "LEIMN",
+                      "ELINR",
+                      "LEINM",
+                      "EILNM",
+                      "LIEMN"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "54324",
+                    "options": [
+                      "SIUEI",
+                      "UISEI",
+                      "USIIE",
+                      "UISIE",
+                      "SUEII"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "90089",
+                    "options": [
+                      "NLLRN",
+                      "LRLNN",
+                      "LLRRN",
+                      "LRRNL",
+                      "RLLNN"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "3245",
+                    "options": [
+                      "SEIU",
+                      "SIUE",
+                      "SRUI",
+                      "RUSI",
+                      "SIEU"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
+                    "question": "29463",
+                    "options": [
+                      "ELISM",
+                      "ELIMS",
+                      "LIMSE",
+                      "EILMS",
+                      "None of these"
+                    ],
+                    "correct_option": "b"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type_name": "MATRIX CODING",
+        "cases": [
+          {
+            "case_name": null,
+            "items": [
+              {
+                "question": "Directions : In each of the following questions, a word is represented by only one set of numbers as given in any of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in the two given matrices. The columns and rows of matrix I are numbered from 0 to 4 and that of matrix II from 5 to 9. A letter from these matrices can bre represented first by its row and next by column number e.g., in the matrices for question 1, A can be represented by 13, 23 etc. T can be represented by 58, 65 etc. Similary, you have to identify the set for the word given in each question.<br><br><table><caption>Matrix I</caption><tr><td></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>0</td><td>D</td><td>K</td><td>A</td><td>E</td><td>C</td></tr><tr><td>1</td><td>C</td><td>D</td><td>K</td><td>A</td><td>E</td></tr><tr><td>2</td><td>K</td><td>C</td><td>E</td><td>A</td><td>D</td></tr><tr><td>3</td><td>K</td><td>C</td><td>D</td><td>E</td><td>A</td></tr><tr><td>4</td><td>E</td><td>D</td><td>A</td><td>K</td><td>C</td></tr></table><br><table><caption>Matrix II</caption><tr><td></td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>5</td><td>P</td><td>L</td><td>O</td><td>T</td><td>N</td></tr><tr><td>6</td><td>T</td><td>P</td><td>N</td><td>L</td><td>O</td></tr><tr><td>7</td><td>P</td><td>N</td><td>T</td><td>O</td><td>L</td></tr><tr><td>8</td><td>O</td><td>N</td><td>T</td><td>P</td><td>L</td></tr><tr><td>9</td><td>L</td><td>O</td><td>P</td><td>N</td><td>T</td></tr></table><br>COLD",
+                "options": [
+                  "44, 96, 95, 22",
+                  "31, 99, 77, 22",
+                  "30, 66, 86, 43",
+                  "10, 85, 79, 24"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "Directions : In each of the following questions, a word is represented by only one set of numbers as given in any of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in the two given matrices. The columns and rows of matrix I are numbered from 0 to 4 and that of matrix II from 5 to 9. A letter from these matrices can bre represented first by its row and next by column number e.g., in the matrices for question 1, A can be represented by 13, 23 etc. T can be represented by 58, 65 etc. Similary, you have to identify the set for the word given in each question.<br><br><table><caption>Matrix I</caption><tr><td></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>0</td><td>A</td><td>C</td><td>E</td><td>D</td><td>K</td></tr><tr><td>1</td><td>D</td><td>K</td><td>A</td><td>C</td><td>E</td></tr><tr><td>2</td><td>C</td><td>E</td><td>D</td><td>K</td><td>A</td></tr><tr><td>3</td><td>K</td><td>A</td><td>C</td><td>E</td><td>D</td></tr><tr><td>4</td><td>E</td><td>D</td><td>K</td><td>A</td><td>C</td></tr></table><br><table><caption>Matrix II</caption><tr><td></td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>5</td><td>T</td><td>O</td><td>P</td><td>N</td><td>L</td></tr><tr><td>6</td><td>N</td><td>L</td><td>T</td><td>O</td><td>P</td></tr><tr><td>7</td><td>O</td><td>P</td><td>N</td><td>L</td><td>T</td></tr><tr><td>8</td><td>L</td><td>T</td><td>O</td><td>P</td><td>N</td></tr><tr><td>9</td><td>P</td><td>N</td><td>L</td><td>T</td><td>O</td></tr></table>POND",
+                "options": [
+                  "88, 99, 77, 33",
+                  "76, 87, 65, 22",
+                  "68, 99, 77, 33",
+                  "57, 68, 89, 42"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "Directions : In each of the following questions, a word is represented by only one set of numbers as given in any of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in the two given matrices. The columns and rows of matrix I are numbered from 0 to 4 and that of matrix II from 5 to 9. A letter from these matrices can bre represented first by its row and next by column number e.g., in the matrices for question 1, A can be represented by 13, 23 etc. T can be represented by 58, 65 etc. Similary, you have to identify the set for the word given in each question.<br><br><table><caption>Matrix I</caption><tr><td></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>0</td><td>E</td><td>A</td><td>T</td><td>S</td><td>H</td></tr><tr><td>1</td><td>A</td><td>H</td><td>T</td><td>E</td><td>S</td></tr><tr><td>2</td><td>E</td><td>H</td><td>A</td><td>S</td><td>T</td></tr><tr><td>3</td><td>H</td><td>E</td><td>A</td><td>T</td><td>S</td></tr><tr><td>4</td><td>S</td><td>H</td><td>T</td><td>A</td><td>E</td></tr></table><br><table><caption>Matrix II</caption><tr><td></td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>5</td><td>O</td><td>R</td><td>K</td><td>L</td><td>P</td></tr><tr><td>6</td><td>L</td><td>P</td><td>O</td><td>R</td><td>K</td></tr><tr><td>7</td><td>O</td><td>K</td><td>R</td><td>P</td><td>L</td></tr><tr><td>8</td><td>P</td><td>R</td><td>K</td><td>L</td><td>O</td></tr><tr><td>9</td><td>R</td><td>L</td><td>K</td><td>O</td><td>P</td></tr></table>REAP",
+                "options": [
+                  "96, 00, 01, 99",
+                  "86, 34, 24, 69",
+                  "68, 21, 22, 86",
+                  "56, 00, 22, 59"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "parent_question": "Directions : In each of the following questions, a word is represented by only one set of numbers as given in any of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in the two given matrices. The columns and rows of matrix I are numbered from 0 to 4 and that of matrix II from 5 to 9. A letter from these matrices can bre represented first by its row and next by column number e.g., in the matrices for question 1, A can be represented by 13, 23 etc. T can be represented by 58, 65 etc. Similary, you have to identify the set for the word given in each question.<br><br><table><caption>Matrix I</caption><tr><td></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>0</td><td>E</td><td>A</td><td>H</td><td>T</td><td>S</td></tr><tr><td>1</td><td>A</td><td>T</td><td>S</td><td>H</td><td>E</td></tr><tr><td>2</td><td>E</td><td>S</td><td>T</td><td>H</td><td>A</td></tr><tr><td>3</td><td>T</td><td>H</td><td>A</td><td>E</td><td>S</td></tr><tr><td>4</td><td>S</td><td>T</td><td>H</td><td>E</td><td>A</td></tr></table><br><table><caption>Matrix II</caption><tr><td></td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>5</td><td>I</td><td>P</td><td>L</td><td>K</td><td>R</td></tr><tr><td>6</td><td>K</td><td>R</td><td>I</td><td>L</td><td>P</td></tr><tr><td>7</td><td>I</td><td>R</td><td>K</td><td>L</td><td>P</td></tr><tr><td>8</td><td>K</td><td>R</td><td>I</td><td>P</td><td>L</td></tr><tr><td>9</td><td>R</td><td>K</td><td>L</td><td>P</td><td>I</td></tr></table>",
+                "questions": [
+                  {
+                    "question": "RISK",
+                    "options": [
+                      "96, 66, 88, 98",
+                      "95, 12, 67, 98",
+                      "76, 21, 59, 89",
+                      "59, 99, 21, 77"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "STEP",
+                    "options": [
+                      "12, 22, 14, 69",
+                      "12, 14, 96, 41",
+                      "22, 41, 21, 96",
+                      "41, 12, 14, 96"
+                    ],
+                    "correct_option": "a"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions : In each of the following questions, a word is represented by only one set of numbers as given in any of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in the two given matrices. The columns and rows of matrix I are numbered from 0 to 4 and that of matrix II from 5 to 9. A letter from these matrices can bre represented first by its row and next by column number e.g., in the matrices for question 1, A can be represented by 13, 23 etc. T can be represented by 58, 65 etc. Similary, you have to identify the set for the word given in each question.<br><br><table><caption>Matrix I</caption><tr><td></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>0</td><td>F</td><td>A</td><td>N</td><td>O</td><td>I</td></tr><tr><td>1</td><td>I</td><td>O</td><td>F</td><td>A</td><td>N</td></tr><tr><td>2</td><td>A</td><td>N</td><td>O</td><td>I</td><td>F</td></tr><tr><td>3</td><td>O</td><td>F</td><td>I</td><td>N</td><td>A</td></tr><tr><td>4</td><td>N</td><td>I</td><td>A</td><td>F</td><td>O</td></tr></table><br><table><caption>Matrix II</caption><tr><td></td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>5</td><td>S</td><td>E</td><td>H</td><td>B</td><td>T</td></tr><tr><td>6</td><td>H</td><td>S</td><td>E</td><td>T</td><td>B</td></tr><tr><td>7</td><td>B</td><td>T</td><td>S</td><td>E</td><td>H</td></tr><tr><td>8</td><td>E</td><td>H</td><td>T</td><td>B</td><td>S</td></tr><tr><td>9</td><td>T</td><td>S</td><td>E</td><td>H</td><td>B</td></tr></table>",
+                "questions": [
+                  {
+                    "question": "NEST",
+                    "options": [
+                      "33, 85, 88, 86",
+                      "21, 76, 77, 76",
+                      "14, 67, 66, 67",
+                      "02, 56, 55, 59"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "FAITH",
+                    "options": [
+                      "43, 42, 41, 78, 89",
+                      "31, 34, 23, 76, 79",
+                      "24, 31, 10, 59, 57",
+                      "12, 20, 40, 68, 65"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "FINE",
+                    "options": [
+                      "31, 32, 33, 82",
+                      "24, 19, 21, 78",
+                      "12, 10, 13, 67",
+                      "00, 04, 02, 56"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "HEAT",
+                    "options": [
+                      "79, 53, 20, 87",
+                      "65, 56, 13, 57",
+                      "57, 56, 01, 59",
+                      "29, 85, 34, 93"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "BOTH",
+                    "options": [
+                      "88, 30, 85, 86",
+                      "75, 22, 76, 79",
+                      "69, 67, 68, 59",
+                      "29, 85, 34, 93"
+                    ],
+                    "correct_option": "b"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions : In each of the following questions, a word is represented by only one set of numbers as given in any of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in the two given matrices. The columns and rows of matrix I are numbered from 0 to 4 and that of matrix II from 5 to 9. A letter from these matrices can bre represented first by its row and next by column number e.g., in the matrices for question 1, A can be represented by 13, 23 etc. T can be represented by 58, 65 etc. Similary, you have to identify the set for the word given in each question.<br><br><table><caption>Matrix I</caption><tr><td></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>0</td><td>D</td><td>O</td><td>B</td><td>A</td><td>I</td></tr><tr><td>1</td><td>O</td><td>B</td><td>A</td><td>I</td><td>D</td></tr><tr><td>2</td><td>B</td><td>A</td><td>I</td><td>D</td><td>O</td></tr><tr><td>3</td><td>A</td><td>I</td><td>D</td><td>O</td><td>B</td></tr><tr><td>4</td><td>I</td><td>D</td><td>O</td><td>B</td><td>A</td></tr></table><br><table><caption>Matrix II</caption><tr><td></td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>5</td><td>W</td><td>N</td><td>R</td><td>M</td><td>L</td></tr><tr><td>6</td><td>N</td><td>R</td><td>M</td><td>L</td><td>W</td></tr><tr><td>7</td><td>R</td><td>M</td><td>L</td><td>W</td><td>N</td></tr><tr><td>8</td><td>M</td><td>L</td><td>W</td><td>N</td><td>R</td></tr><tr><td>9</td><td>L</td><td>W</td><td>N</td><td>R</td><td>M</td></tr></table>",
+                "questions": [
+                  {
+                    "question": "DRAW",
+                    "options": [
+                      "41, 66, 23, 55",
+                      "32, 75, 44, 76",
+                      "23, 57, 30, 68",
+                      "14, 89, 12, 78"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "BAND",
+                    "options": [
+                      "43, 21, 97, 33",
+                      "11, 21, 79, 41",
+                      "34, 44, 66, 14",
+                      "20, 30, 89, 23"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "BLOW",
+                    "options": [
+                      "11, 68, 42, 69",
+                      "21, 95, 33, 97",
+                      "34, 68, 10, 88",
+                      "34, 86, 44, 78"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "RAIN",
+                    "options": [
+                      "57, 12, 31, 56",
+                      "57, 21, 23, 79",
+                      "66, 44, 42, 96",
+                      "75, 30, 31, 87"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "LAMB",
+                    "options": [
+                      "68, 21, 58, 34",
+                      "77, 44, 76, 33",
+                      "86, 21, 67, 12",
+                      "95, 30, 80, 20"
+                    ],
+                    "correct_option": "a"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions : In each of the following questions, a word is represented by only one set of numbers as given in any of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in the two given matrices. The columns and rows of matrix I are numbered from 0 to 4 and that of matrix II from 5 to 9. A letter from these matrices can bre represented first by its row and next by column number e.g., in the matrices for question 1, A can be represented by 13, 23 etc. T can be represented by 58, 65 etc. Similary, you have to identify the set for the word given in each question.<br><br><table><tr><td></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>0</td><td>I</td><td>L</td><td>B</td><td>P</td><td>K</td><td>N</td><td>H</td><td>S</td><td>A</td><td>E</td></tr><tr><td>1</td><td>M</td><td>A</td><td>Q</td><td>G</td><td>T</td><td>V</td><td>I</td><td>O</td><td>N</td><td>U</td></tr><tr><td>2</td><td>H</td><td>R</td><td>W</td><td>J</td><td>A</td><td>X</td><td>B</td><td>E</td><td>C</td><td>I</td></tr><tr><td>3</td><td>T</td><td>Y</td><td>A</td><td>I</td><td>U</td><td>U</td><td>O</td><td>N</td><td>J</td><td>F</td></tr><tr><td>4</td><td>F</td><td>O</td><td>B</td><td>M</td><td>E</td><td>G</td><td>U</td><td>K</td><td>W</td><td>R</td></tr><tr><td>5</td><td>A</td><td>C</td><td>L</td><td>J</td><td>X</td><td>R</td><td>A</td><td>A</td><td>X</td><td>T</td></tr><tr><td>6</td><td>P</td><td>S</td><td>U</td><td>E</td><td>Z</td><td>K</td><td>V</td><td>W</td><td>D</td><td>L</td></tr><tr><td>7</td><td>Z</td><td>D</td><td>Y</td><td>V</td><td>F</td><td>O</td><td>H</td><td>Y</td><td>I</td><td>O</td></tr><tr><td>8</td><td>M</td><td>I</td><td>Z</td><td>Q</td><td>E</td><td>A</td><td>U</td><td>E</td><td>I</td><td>S</td></tr><tr><td>9</td><td>P</td><td>E</td><td>O</td><td>E</td><td>E</td><td>U</td><td>Q</td><td>O</td><td>C</td><td>G</td></tr></table>",
+                "questions": [
+                  {
+                    "question": "MIND",
+                    "options": [
+                      "01, 61, 73, 36",
+                      "08, 61, 55, 44",
+                      "34, 33, 50, 17",
+                      "73, 33, 61, 17"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "JAIL",
+                    "options": [
+                      "32, 05, 25, 44",
+                      "32, 05, 87, 96",
+                      "35, 23, 26, 33",
+                      "83, 65, 25, 44"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "BLOT",
+                    "options": [
+                      "20, 10, 71, 22",
+                      "24, 10, 26, 48",
+                      "34, 35, 63, 03",
+                      "62, 25, 57, 95"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "JOKE",
+                    "options": [
+                      "32, 14, 56, 44",
+                      "35, 14, 37, 78",
+                      "83, 63, 40, 59",
+                      "83, 71, 25, 36"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "OMIT",
+                    "options": [
+                      "14, 34, 88, 95",
+                      "63, 44, 88, 03",
+                      "79, 09, 61, 41",
+                      "97, 34, 62, 95"
+                    ],
+                    "correct_option": "a"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type_name": "SUBSTITUTION",
+        "cases": [
+          {
+            "case_name": null,
+            "items": [
+              {
+                "question": "If <em>white</em> is called <em>blue</em>, <em>blue</em> is called <em>red</em>, <em>red</em> is called <em>yellow</em>, <em>yellow</em> is called <em>green</em>, <em>green</em> is called <em>black</em>, <em>black</em> is called <em>violet</em> and <em>violet</em> is called <em>orange</em>, what would be the colour of human blood ?",
+                "options": [
+                  "Red",
+                  "Green",
+                  "Yellow",
+                  "Violet",
+                  "Orange"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>room</em> is called <em>bed</em>, <em>bed</em> is called <em>window</em>, <em>window</em> is called <em>flower</em> and <em>flower</em> is called <em>cooler</em>, on what would a man sleep ?",
+                "options": [
+                  "Window",
+                  "Bed",
+                  "Flower",
+                  "Cooler",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If <em>orange</em> is called <em>butter</em>, <em>butter</em> is called <em>soap</em>, <em>soap</em> is called <em>ink</em>, <em>ink</em> is called <em>honey</em> and <em>honey</em> is called <em>orange</em>, which of the following is used for washing clothes ?",
+                "options": [
+                  "Honey",
+                  "Butter",
+                  "Orange",
+                  "Soap",
+                  "Ink"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "If <em>sand</em> is called <em>air</em>, <em>air</em> is called <em>plateu</em>, <em>plateu</em> is called <em>well</em>, <em>well</em> is called <em>island</em> and <em>island</em> is called <em>sky</em>, then from where will a woman draw water ?",
+                "options": [
+                  "Well",
+                  "Island",
+                  "Sky",
+                  "Air",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If <em>bangle</em> is called <em>cassette</em>, <em>cassette</em> is called <em>table</em>, <em>table</em> is called <em>game</em> and <em>game</em> is called <em>cupboard</em>, then which is played in the tape recorder ?",
+                "options": [
+                  "Bangle",
+                  "Cassette",
+                  "Table",
+                  "Cupboard",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>green</em> means <em>red</em>, <em>red</em> means <em>yellow</em>, <em>yellow</em> means <em>blue</em>, <em>blue</em> means <em>orange</em> and <em>orange</em> means <em>green</em>, what is the colour of clear sky ?",
+                "options": [
+                  "Blue",
+                  "Red",
+                  "Yellow",
+                  "Green",
+                  "Orange"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>cloud</em> is called <em>white</em>, <em>white</em> is called <em>rain</em>, <em>rain</em> is called <em>green</em>, <em>gren</em> is called <em>air</em>, <em>air</em> is called <em>blue</em> and <em>blue</em> is called <em>water</em>, where will the birds fly ?",
+                "options": [
+                  "Air",
+                  "Cloud",
+                  "White",
+                  "Rain",
+                  "Blue"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "If <em>book</em> is called <em>watch</em>, <em>watch</em> is called <em>bag</em>, <em>bag</em> is called <em>dictionary</em> and <em>dictionary</em> is called <em>window</em>, which is used to carry the books ?",
+                "options": [
+                  "Dictionary",
+                  "Bag",
+                  "Book",
+                  "Watch",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If the animals which can walk are called <em>swimmers</em>, animals who crawl are called <em>flying</em>, those living in water are called <em>snakes</em> and those which fly in the sky are called <em>hunters</em>, then what will a lizard be called ?",
+                "options": [
+                  "Swimmers",
+                  "Snakes",
+                  "Flying",
+                  "Hunters",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>rain</em> is <em>water</em>, <em>water</em> is <em>road</em>, <em>road</em> is <em>cloud</em>, <em>cloud</em> is <em>sky</em>, <em>sky</em> is <em>sea</em> and <em>sea</em> is <em>path</em>, where do aeroplanes fly ?",
+                "options": [
+                  "Road",
+                  "Sea",
+                  "Cloud",
+                  "Water",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If <em>water</em> is called <em>food</em>, <em>food</em> is called <em>tree</em>, <em>tree</em> is called <em>sky</em>, <em>sky</em> is called <em>wall</em>, on which of the following grows a fruit ?",
+                "options": [
+                  "Water",
+                  "Food",
+                  "Sky",
+                  "Tree",
+                  "Wall"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>water</em> is called <em>blue</em>, <em>blue</em> is called <em>red</em>, <em>red</em> is called <em>white</em>, <em>white</em> is called <em>sky</em>, <em>sky</em> is called <em>rain</em>, rain si caled green and <em>green</em> is called <em>air</em>, which of the following if the colour of milk ?",
+                "options": [
+                  "Air",
+                  "Green",
+                  "White",
+                  "Rain",
+                  "Sky"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "If <em>paper</em> is called <em>wood</em>, <em>wood</em> is called <em>straw</em>, <em>straw</em> is called <em>grass</em>, <em>grass</em> is called <em>rubber</em> and <em>rubber</em> is called <em>cloth</em>, what is the furniture made up of ?",
+                "options": [
+                  "Paper",
+                  "Wood",
+                  "Straw",
+                  "Grass",
+                  "Cloth"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>pen</em> is <em>table</em>, <em>table</em> is <em>fan</em>, <em>fan</em> is <em>chair</em> and <em>chair</em> is <em>roof</em>, on which of the following will a person sit ?",
+                "options": [
+                  "Fan",
+                  "Chair",
+                  "Roof",
+                  "Table",
+                  "Pen"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>bat</em> is called <em>racket</em>, <em>racket</em> is <em>football</em>, <em>football</em> is <em>shuttle</em>, <em>shuttle</em> is <em>ludo</em> and <em>ludo</em> is <em>carrom</em>, what is cricket played with ?",
+                "options": [
+                  "Racket",
+                  "Football",
+                  "Bat",
+                  "Shuttle",
+                  "Carrom"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If <em>banana</em> is <em>apple</em>, <em>apple</em> is <em>grapes</em>, <em>graphs</em> is <em>mango</em>, <em>mango</em> is <em>nuts</em>, <em>nuts</em> is <em>guava</em>, which of the following is a yellow fruit ?",
+                "options": [
+                  "Mango",
+                  "Guava",
+                  "Apple",
+                  "Nuts",
+                  "Grapes"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If <em>air</em> is called <em>green</em>, <em>green</em> is called <em>bule</em>, <em>blue</em> is called <em>sky</em>, <em>sky</em> is called <em>yello</em>, <em>yellow</em> is called <em>water</em> and <em>water</em> is called <em>pink</em>, then what is the colour of clear sky ?",
+                "options": [
+                  "Blue",
+                  "Sky",
+                  "Yellow",
+                  "Water",
+                  "Pink"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If <em>cushion</em> is called <em>pillow</em>, <em>pillow</em> is called <em>mat</em>, <em>mat</em> is called <em>bedsheet</em> and <em>bedsheet</em> is called <em>cover</em>, which will be spread on the floor ?",
+                "options": [
+                  "Cover",
+                  "Bedsheet",
+                  "Mat",
+                  "Pillow",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If <em>wall</em> is called <em>window</em>, <em>window</em> is called <em>door</em>, <em>door</em> is called <em>fllor</em>, <em>floor</em> is called <em>roof</em> and <em>roof</em> is called <em>ventilator</em>, what will a person stand on ?",
+                "options": [
+                  "Window",
+                  "Wall",
+                  "Floor",
+                  "Roof",
+                  "Ventilator"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If <em>eraser</em> is called <em>box</em>, <em>box</em> is called <em>pencil</em>, <em>pencil</em> is called <em>sharpener</em> and <em>sharpener</em> is called <em>bag</em>, what will a child write with ?",
+                "options": [
+                  "Eraser",
+                  "Box",
+                  "Pencil",
+                  "Sharpener",
+                  "Bag"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If <em>clock</em> is called <em>television</em>, <em>television</em> is called <em>radio</em>, <em>radio</em> is called <em>oven</em>, <em>oven</em> is called <em>grinder</em> and <em>grinder</em> is called <em>iron</em>, in what will a lady bake ?",
+                "options": [
+                  "Radio",
+                  "Oven",
+                  "Gridner",
+                  "Iron",
+                  "Clock"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>sky</em> is called <em>sea</em>, <em>sea</em> is called <em>water</em>, <em>water</em> is called <em>air</em>, <em>air</em> is called <em>cloud</em> and <em>acloud</em> is called <em>river</em>, then what do we drink when thirsty ?",
+                "options": [
+                  "Sky",
+                  "Air",
+                  "Water",
+                  "Sea",
+                  "Cloud"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If <em>man</em> is called <em>girl</em>, <em>girl</em> is called <em>woman</em>, <em>woman</em> is called <em>boy</em>, <em>boy</em> is called <em>butler</em> and <em>butler</em> is called <em>rogue</em>, who will serve in a restaurant ?",
+                "options": [
+                  "Butler",
+                  "Girl",
+                  "Man",
+                  "Woman",
+                  "Rogue"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "If <em>train</em> is called <em>bus</em>, <em>bus</em> is called <em>tractor</em>, <em>tractor</em> is called <em>car</em>, <em>cari</em> is called <em>scooter</em>, <em>scooter</em> is called <em>bicycle</em>, <em>bicycle</em> is called <em>moped</em>, which is used to plough a field ?",
+                "options": [
+                  "Train",
+                  "Bus",
+                  "Tractor",
+                  "Car",
+                  "Moped"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If <em>lead</em> is called <em>stick</em>, <em>stick</em> is called <em>nib</em>, <em>nib</em> is called <em>needle</em>, <em>needle</em> is called <em>rope</em> and <em>rope</em> is called <em>thread</em>, what will be fitted in a pen to write with it ?",
+                "options": [
+                  "Stick",
+                  "Lead",
+                  "Needle",
+                  "Nib",
+                  "Thread"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>rose</em> is called <em>popy</em>, <em>popy</em> is called <em>lily</em>, <em>lily</em> is called <em>lotus</em> and <em>lotus</em> is called <em>glandiola</em>, which is the king of flowers ?",
+                "options": [
+                  "Rose",
+                  "Lotus",
+                  "Popy",
+                  "Lily",
+                  "Glandiola"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "If <em>rat</em> is called <em>dog</em>, <em>dog</em> is called <em>mongoose</em>, <em>mongoose</em> is called <em>lion</em>, <em>lion</em> is called <em>snake</em> and <em>snake</em> is called <em>elephant</em>, which is reared as a pet ?",
+                "options": [
+                  "Rat",
+                  "Dog",
+                  "Mongoose",
+                  "Lion",
+                  "Elephant"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>finger</em> is called <em>toe</em>, <em>toe</em> is called <em>foot</em>, <em>foot</em> is called <em>thumb</em>, <em>thumb</em> is called <em>ankle</em>, <em>ankle</em> is called <em>palm</em> and <em>palm</em> is called <em>knee</em>, which one finger has a different name ?",
+                "options": [
+                  "Thumb",
+                  "Ankle",
+                  "Knee",
+                  "Palm",
+                  "Toe"
+                ],
+                "correct_option": "b"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type_name": "MIXED LETTER CODING",
+        "cases": [
+          {
+            "case_name": null,
+            "items": [
+              {
+                "question": "If <em>'ish lto inm'</em> stands for <em>'neat and tidy'</em>; <em>'qpr inm sen'</em> stands for <em>'small but neat'</em> and <em>'hsm sen rso'</em> stands for <em>'good but erratic'</em>, what would <em>'but'</em> stand for ?",
+                "options": [
+                  "inm",
+                  "qpr",
+                  "sen",
+                  "hsm"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, <em>'nee tim see'</em> means <em>'how are you'</em>; <em>'ble nee see'</em> means <em>'where are you'</em>, what is the code for <em>'where'</em> ?",
+                "options": [
+                  "nee",
+                  "tim",
+                  "see",
+                  "Can't be determined",
+                  "None of these"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "In a certain code langauge, <em>'col tip mot'</em> means <em>'singing is appreciable'</em>; <em>'mot baj min'</em> means <em>'dancing is good'</em> and <em>'tip nop baj'</em> means <em>'singing and dancing'</em>, which of the following means <em>'good'</em> in that language ?",
+                "options": [
+                  "not",
+                  "min",
+                  "baj",
+                  "Can't be determined",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "If <em>'ski rps tri'</em> stands for <em>'nice Sunday morning'</em>; <em>'teh sti rps'</em> stands for <em>'every Tuesday morning'</em> and <em>'ski ptr qlm'</em> stands for <em>'nice market place'</em>, what would <em>'Sunday'</em> stand for ?",
+                "options": [
+                  "ski",
+                  "rps",
+                  "tri",
+                  "qlm"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, <em>'bi nie pie'</em> means <em>'some good jokes'</em>; <em>'nie bat lik'</em>; means <em>'some real storeis'</em>; <em>'pie lik tol'</em> means <em>'many good stories'</em>. Whic word in that code means <em>'jokes'</em> ?",
+                "options": [
+                  "bi",
+                  "nie",
+                  "pie",
+                  "Can't be determined",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain language, <em>'pre nat bis'</em> means <em>'smoking is harmful'</em>; <em>'vog dor nat'</em> means <em>'avoid harmful habit'</em> and <em>'dor bis yel'</em> means <em>'please avoid smoking'</em>. Which of the following means <em>'habit'</em> in that language ?",
+                "options": [
+                  "vog",
+                  "nat",
+                  "dor",
+                  "bis",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If <em>'gnr tag zog qmp'</em> stands for <em>'Seoul Olympic Organising Committee'</em>; <em>'hyto gnr emf'</em> stands for <em>'summer Olympic games'</em> and <em>'esm sdr hyto'</em> stands for <em>'modern games history'</em>, what would be the docd for <em>'summer'</em> ?",
+                "options": [
+                  "hyto",
+                  "gnr",
+                  "emf",
+                  "sog"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If in a certain language, <em>'oka peru'</em> means <em>'fine cloth'</em>; <em>'meta lisa'</em> means <em>'clear water'</em> and <em>'dona lisa peru'</em> means <em>'fine clear weather'</em>, which word in that language means <em>'weather'</em> ?",
+                "options": [
+                  "peru",
+                  "oka",
+                  "meta",
+                  "dona"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "In a code language, <em>'mok dan sil'</em> means <em>'nice big house'</em>; <em>'fit kon dan'</em> means <em>'house is good'</em> and <em>'warm tir fit'</em> means <em>'cost is high'</em>. Which word stands for <em>'good'</em> in that language ?",
+                "options": [
+                  "mok",
+                  "dan",
+                  "fit",
+                  "kon"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "In a certain language, <em>'Mink Yang Pe'</em> means <em>'Fruits are ripe'</em>; <em>'Pe Lao May Mink'</em> means <em>'Oranges are not ripe'</em> and <em>'May Pe Nue Mink'</em> means <em>'Mangoes are not ripe'</em>. Which word in that language means <em>'Mangoes'</em> ?",
+                "options": [
+                  "May",
+                  "Pe",
+                  "Nue",
+                  "Mink"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code language, <em>'Tom Kun Sud'</em> means <em>'Dogs are barking'</em>; <em>'Kun Jo Mop'</em> means <em>'Dogs and horses'</em> and <em>'Mut Tom Ko'</em> means <em>'Donkeys are mad'</em>. Which word in that language means <em>'barking'</em> ?",
+                "options": [
+                  "Sud",
+                  "Kun",
+                  "Jo",
+                  "Tom",
+                  "Ko"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain code language, <em>'put tir fin'</em> means <em>'delicious juicy fruit'</em>; <em>'tie dip sig'</em> means beautiful white lily<em>' and '</em>sig lon fin<em>' means '</em>lily and fruit'. Which of the following stands for <em>'and'</em> in that language ?",
+                "options": [
+                  "lon",
+                  "sig",
+                  "fin",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "If <em>'nitco sco tingo'</em> stands for <em>'softer than flower'</em>; <em>'tingo rho mst'</em> stands for <em>'sweet flower fragrance'</em> and <em>'mst sco tmp'</em> stadns for <em>'sweet than smile'</em>, what would <em>'fragrance'</em> stand for ?",
+                "options": [
+                  "rho",
+                  "mst",
+                  "tmp",
+                  "sco"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain code language, <em>'dom pul ta'</em> means <em>'bring hot footd'</em>; <em>'pul tir sop'</em> means <em>'food is good'</em> and <em>'tak da sop'</em> means <em>'good bright boy'</em>. Which of the followsing does mean <em>'hot'</em> in that language ?",
+                "options": [
+                  "dom",
+                  "pul",
+                  "ta",
+                  "Can't be determined",
+                  "None of these"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "If <em>'sti nro kti'</em> stands for <em>'clouds pour down'</em>; <em>'nro bsi mit'</em> stands for <em>'down he goes'</em> and <em>'bsi nro zpi'</em> stands for <em>'died down he'</em>, which word would mean <em>'goes'</em> ?",
+                "options": [
+                  "nro",
+                  "mit",
+                  "kti",
+                  "bsi"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "parent_question": "Directions :<br>In a certain code language,<br>(A) <em>'pit dar na'</em> means <em>'you are good'</em>;<br>(B) <em>'dar tok pa'</em> means <em>'good and bad'</em>;<br>(C) <em>'tim na tok'</em> means <em>'they are bad'</em>.",
+                "questions": [
+                  {
+                    "question": "In that language, which word stands for <em>'they'</em> ?",
+                    "options": [
+                      "na",
+                      "tok",
+                      "tim",
+                      "pit",
+                      "None of these"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "To find the answer to the above question, which of the following statements can be dispensed with ?",
+                    "options": [
+                      "Only A",
+                      "Only B",
+                      "A or B",
+                      "B and C",
+                      "None of these"
+                    ],
+                    "correct_option": "e"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions :<br>In a certain code language,<br>(A) <em>'pic vic nic'</em> means <em>'winter is cold'</em>;<br>(B) <em>'to nic re'</em> means <em>'summer is hot'</em>;<br>(C) <em>'re pic boo'</em> means <em>'winter and summer'</em>;<br>(D) <em>'vic tho pa'</em> means <em>'nights are code'</em>.",
+                "questions": [
+                  {
+                    "question": "Which word in that language means <em>'summer'</em> ?",
+                    "options": [
+                      "nic",
+                      "re",
+                      "to",
+                      "pic",
+                      "vic"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "Which of the given statements is superfluous ?",
+                    "options": [
+                      "Only A ",
+                      "Only D",
+                      "both A and D",
+                      "Neither A nor D",
+                      "None of these"
+                    ],
+                    "correct_option": "c"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions :<br>In a certain code language,<br>(A) <em>'pit na som'</em> means <em>'bring me water'</em>;<br>(B) <em>'na jo tod'</em> means <em>'water is life'</em>;<br>(C) <em>'tub od pit'</em> means <em>'give me toy'</em>.<br>(D) <em>'jo lin kot'</em> means <em>'life and death'</em>.",
+                "questions": [
+                  {
+                    "question": "In that language, which word stands for <em>'they'</em> ?",
+                    "options": [
+                      "jo",
+                      "na",
+                      "tod",
+                      "lin",
+                      "None of these"
+                    ],
+                    "correct_option": "c"
+                  },
+                  {
+                    "question": "To find the answer to the above question, which of the following statements can be dispensed with ?",
+                    "options": [
+                      "A only",
+                      "C only",
+                      "B or C oly",
+                      "D only",
+                      "None of these"
+                    ],
+                    "correct_option": "b"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions :<br>In a certain code language,<br>(A) <em>'mxy das zci'</em> means <em>'good little frock'</em>;<br>(B) <em>'jmx cos zci'</em> means <em>'girl behaves good'</em>;<br>(C) <em>'nvg drs cos'</em> means <em>'girl makes mischief'</em><br>(D) <em>'das ajp cos'</em> means <em>'little girl fell'</em>.",
+                "questions": [
+                  {
+                    "question": "Which of the following means <em>'bright'</em> in that language ?",
+                    "options": [
+                      "zci",
+                      "das",
+                      "nvg",
+                      "ajp",
+                      "None of these"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
+                    "question": "Which of the given statements is superfluous ?",
+                    "options": [
+                      "A",
+                      "B",
+                      "C",
+                      "D",
+                      "None of these"
+                    ],
+                    "correct_option": "c"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions :<br>In a certain code language,<br>(A) <em>'pod na joc'</em> means <em>'very bright boy'</em>;<br>(B) <em>'tam nu pod'</em> means <em>'the boy comes'</em>;<br>(C) <em>'nu per ton'</em> means <em>'keep the doll'</em>;<br>(D) <em>'joc ton su'</em> means <em>'very good doll'</em>.",
+                "questions": [
+                  {
+                    "question": "Which of the following means <em>'bright'</em> in that language ?",
+                    "options": [
+                      "joc",
+                      "pod",
+                      "ton",
+                      "na",
+                      "None of these"
+                    ],
+                    "correct_option": "d"
+                  },
+                  {
+                    "question": "Which of the following statements can be dispensed with for answering the above quetsion ?",
+                    "options": [
+                      "A only",
+                      "C only",
+                      "C or D only",
+                      "D only",
+                      "None of these"
+                    ],
+                    "correct_option": "b"
+                  }
+                ]
+              },
+              {
+                "question": "In a certain code language, <em>'po ki top ma'</em> means <em>'Usha is playing cards'</em>; <em>'kop ja ki ma'</em> means <em>'Asha is playing tennis'</em>; <em>'ki top sop ho'</em> means <em>'they are playing football'</em>; and <em>'po sur kop'</em> means <em>'cards and tennis'</em>. Which word in that language means <em>'Asha'</em> ?",
+                "options": [
+                  "ja",
+                  "ma",
+                  "kop",
+                  "top",
+                  "ki"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "parent_question": "Directions :<br>In a certain code language,<br>(A) <em>'Kemp Lamp Tems'</em> means <em>'Speak the truth'</em>;<br>(B) <em>'Bis Tim Nak'</em> means <em>'Always seek knowledge'</em>;<br>(C) <em>'Tim Tems Sik'</em> means <em>'Knowledge is truth'</em>;<br>(D) <em>'Lik Bis Zap'</em> means <em>'Never seek violence'</em>.",
+                "questions": [
+                  {
+                    "question": "Which letter code stands for <em>'Always'</em> ?",
+                    "options": [
+                      "Nak",
+                      "Tim",
+                      "Bis",
+                      "Zap",
+                      "Tems"
+                    ],
+                    "correct_option": "a"
+                  },
+                  {
+                    "question": "To find the answer to the above question, which of the given statements is not necessary ?",
+                    "options": [
+                      "A",
+                      "B",
+                      "C",
+                      "D",
+                      "None of these"
+                    ],
+                    "correct_option": "a"
+                  }
+                ]
+              },
+              {
+                "question": "In a certain code language, <em>'nee muk pic'</em> means <em>'grave and concern'</em>; <em>'ill dic so'</em> means <em>'every body else'</em>; and <em>'tur muk so'</em> means <em>'body and soul'</em>. .Which of the following would mean <em>'every concern'</em> ?",
+                "options": [
+                  "dic pic",
+                  "ill nee",
+                  "pic nee",
+                  "Can't be determined",
+                  "None of these"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "In a certain code language, <em>'Ka Bi Pu Ya'</em> means <em>'You are very intelligent'</em>; <em>'Ya Lo Ka Wo'</em> means <em>'They seem very intelligent'</em>; <em>'La Pu Le'</em> means <em>'You can see'</em> and <em>'Sun Pun Yun Ya'</em> means <em>'How intelligent she is'</em>. In that language which of the following words means <em>'are'</em> ?",
+                "options": [
+                  "Ka",
+                  "Bi",
+                  "Le",
+                  "Pu",
+                  "Ya"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a certain code language, <em>'bir le nac'</em> means <em>'green and tasty'</em>; <em>'pic nac hor'</em> means <em>'tomato is green'</em> and <em>'coc bir hor'</em> means <em>'food is tasty'</em>. Which of the following means <em>'tomato is tasty'</em> in that code ?",
+                "options": [
+                  "bir le hor",
+                  "pic hor nac",
+                  "hor bir pic",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code language, <em>'kew xas huma deko'</em> means <em>'she is eating apples'</em>; <em>'kew tepo qua'</em> means <em>'she sells toys'</em> and <em>'sul lim deko'</em> means <em>'I like apples'</em>. Which word in that language means <em>'she'</em> and <em>'apples'</em> ?",
+                "options": [
+                  "xas & deko",
+                  "xas & kew",
+                  "kew & deko",
+                  "kew & xas",
+                  "deko & tepo"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "If <em>'cinto baoli tsi nzro'</em> means <em>'her village is Sarurpur'</em>; <em>'mhi cinto keepi tsi oind'</em> means <em>'her first love is literature'</em> and <em>'oind geit tsi cinto pki'</em> means <em>'literature collection is her hobby'</em>, which word would mean <em>'literature'</em> ?",
+                "options": [
+                  "cinto baoli",
+                  "oind",
+                  "geit"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "parent_question": "Questions :<br>In a certain code, <em>'il be pee'</em> means <em>'roses are blue'</em>; <em>'sik hee'</em> means <em>'red flowers'</em> and <em>'pee mit hee'</em> means <em>'flowers are vegetables'</em>.",
+                "questions": [
+                  {
+                    "question": "How is <em>'red'</em> written in that code ?",
+                    "options": [
+                      "hee sik",
+                      "Cannot be determined",
+                      "None of these"
+                    ],
+                    "correct_option": "b"
+                  },
+                  {
+                    "question": "How is <em>'roses'</em> written in that code ?How is <em>'vegetables are red flowers'</em> written in that code ?",
+                    "options": [
+                      "il",
+                      "pee be",
+                      "Cannot be determined",
+                      "None of these"
+                    ],
+                    "correct_option": "d"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type_name": "MIXED NUMBER CODING",
+        "cases": [
+          {
+            "case_name": null,
+            "items": [
+              {
+                "question": "In a certain code, '37' means 'which class' and '583' means 'caste and class'. What is the code for 'caste' ?",
+                "options": [
+                  "3",
+                  "7",
+                  "8",
+                  "Either 5 or 3",
+                  "Either 5 or 8"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "In a certain code language, '743' means 'mangoes are good'; '657' means 'eat good food' and '934' means 'mangoes are ripe'. Which digit means 'ripe' in that language ?",
+                "options": [
+                  "9",
+                  "4",
+                  "5",
+                  "7"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain code language, '743' means 'mangoes are good'; '657' means 'eat good food' and '934' means 'mangoes are ripe'. Which digit means 'ripe' in that language ?",
+                "options": [
+                  "9",
+                  "2",
+                  "1",
+                  "8"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "In a certain code, '247' means 'spread red carpet'; '256' means 'dust one carpet' and '234' means 'one red carpet'. Which digit in that code means 'dust' ?",
+                "options": [
+                  "2",
+                  "3",
+                  "5",
+                  "6",
+                  "Can't say"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code language, '123' means bright little boy', '145' means 'tall big boy' and '637' means 'beautiful little flower'. Which digit in that language means 'bright' ?",
+                "options": [
+                  "1",
+                  "3",
+                  "4",
+                  "6",
+                  "None of these"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "In a certain code, '256' means 'you are good'; '637' means 'we are bad' and '358' means 'good and bad'. Which of the following represents 'and' in that code ?",
+                "options": [
+                  "2",
+                  "5",
+                  "8",
+                  "3"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code, '467' means 'leaves are green'; '485' means 'green is good' and '639' means 'they are playing'. Which digit stands for 'leaves' in that code ?",
+                "options": [
+                  "4",
+                  "6",
+                  "7",
+                  "3",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code language, '851' means 'good sweet fruit'; '783' means 'good red rose' and '341' means 'rose and fruit'. Which of the following digit stands for 'sweet' in that language ?",
+                "options": [
+                  "8",
+                  "5",
+                  "1",
+                  "3",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a certain code language, '479' means 'fruit is sweet'; '248' means 'very sweet voice' and '637' means 'eat fruit daily'. Which digit stands for 'is' in that code ?",
+                "options": [
+                  "7",
+                  "9",
+                  "4",
+                  "Can't be determined",
+                  "None of these"
+                ],
+                "correct_option": "d"
+              },
+              {
+                "question": "In a certain code language, '123' means 'hot filtered coffee'; '356' means 'very hot day' and '589' means 'day and night'. Which digit stands for 'very' ?",
+                "options": [
+                  "9",
+                  "5",
+                  "8",
+                  "2",
+                  "6"
+                ],
+                "correct_option": "e"
+              },
+              {
+                "question": "In a certain code, '256' means 'red colour chalk'; '589' means 'green colour flower' and '245' means 'white colour chalk'. Which digit in that code means 'white' ?",
+                "options": [
+                  "2",
+                  "4",
+                  "5",
+                  "Can't be determined",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a certain code langauge, '526' means 'sky is blue'; '24' means 'blue colour' and '436' means 'colour is fun'. Which digit in that language means 'fun' ?",
+                "options": [
+                  "5",
+                  "4",
+                  "3",
+                  "2",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "question": "In a certain code language, '381' means 'Hari is honest'; '162' means 'Shashi is intelligent' and '948' means 'Hari should go'. Which digit in that language means 'honest' ?",
+                "options": [
+                  "3",
+                  "8",
+                  "1",
+                  "9",
+                  "None of these"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain code, '253' means 'books are old'; '546' means 'man is old' and '378' means 'buy good books'. What stands for 'are' in that code ?",
+                "options": [
+                  "2",
+                  "4",
+                  "5",
+                  "6",
+                  "9"
+                ],
+                "correct_option": "a"
+              },
+              {
+                "question": "In a certain code, '975' means 'Throw away garbage'; '528' means 'Give away smoking' and '213' means 'Smoking is harmful'. Which digit in that code means 'Give' ?",
+                "options": [
+                  "5",
+                  "2",
+                  "8",
+                  "3",
+                  "None of these"
+                ],
+                "correct_option": "c"
+              },
+              {
+                "parent_question": "Directions :<br>In a certain code '289' means 'read from paper'; '276' means 'tea from field' and '85 means 'wall paper'.",
+                "questions": [
+                  {
+                    "question": "Which of the following is the code for 'tea' ?",
+                    "options": [
+                      "2",
+                      "6",
+                      "Either 2 or 6",
+                      "Either 2 or 7",
+                      "Either 7 or 6"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
+                    "question": "Which of the following is the code for 'paper' ?",
+                    "options": [
+                      "2",
+                      "8",
+                      "9",
+                      "Can't be determined",
+                      "None of these"
+                    ],
+                    "correct_option": "b"
+                  }
+                ]
+              },
+              {
+                "parent_question": "Directions :<br>(A) '134' means 'you are well';<br>(B) '758' means 'they go home';<br>(C) '839' means 'we are home'.",
+                "questions": [
+                  {
+                    "question": "Which of the following represents 'they' in that code language ?",
+                    "options": [
+                      "5",
+                      "7",
+                      "3",
+                      "8",
+                      "Data Inadequate"
+                    ],
+                    "correct_option": "e"
+                  },
+                  {
+                    "question": "Which of the statements can be dispensed with while answering the above question ?",
+                    "options": [
+                      "A only",
+                      "B only",
+                      "A or C only",
+                      "B and C only",
+                      "None of these"
+                    ],
+                    "correct_option": "a"
+                  }
+                ]
+              },
+              {
+                "question": "In a certain code language, '617' means 'sweet and hot'; '735' means 'coffee is sweet' and '263' means 'tea is hot'. Which of the following would mean 'coffee is hot' ?",
+                "options": [
+                  "731",
+                  "536",
+                  "367",
+                  "753",
+                  "None of these"
+                ],
+                "correct_option": "b"
+              },
+              {
+                "question": "In a certain code language, '3a, 2b, 7c' means 'Truth is Eternal'; '7c, 9a, 8b, 3a' means 'Enmity is not Eternal' and '9a, 4d, 2b, 8b' means 'Truth does not perish'. Which of the following means 'enmity' in that language ?",
+                "options": [
+                  "3a",
+                  "7c",
+                  "8b",
+                  "9a",
+                  "None of these"
+                ],
+                "correct_option": "c"
               }
             ]
           }

@@ -77,7 +77,6 @@ She is an engineer.
 Data inadequate
 None of these
 
-
 P
 Q
 R
@@ -191,7 +190,6 @@ Green
 Black or green
 Data inadequate
 None of these
-
 
 Nanu
 Mohini

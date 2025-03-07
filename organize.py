@@ -1,5 +1,6 @@
 import importlib
 import json
+import logging
 import os
 
 import models.Input as Input
@@ -35,8 +36,11 @@ def parse_options_file(chapter_dir_name: str, exercise_name: str) -> list[list[s
 
 
 def load_group(
-    group: Input.Group, options: list[list[str]], correct_options: list[str]
-) -> Output.Group:
+    group: Input.Group,
+    options: list[list[str]],
+    correct_options: list[str],
+) -> tuple[Output.Group, int]:
+    num_of_questions: int = 0
     questions: list[Output.Question] = []
     for question_idx in range(len(group.questions)):
         try:
@@ -49,12 +53,15 @@ def load_group(
             )
             questions.append(question)
         except IndexError as e:
-            # print(group.from_question - 1 + question_idx)
-            raise(e)
+            logging.debug(f"{group.from_question=}")
+            logging.debug(f"{len(options)=}")
+            logging.debug(f"{len(correct_options)=}")
+            raise (e)
+        num_of_questions += 1
     return Output.Group(
         parent_question=group.parent_question,
         questions=questions,
-    )
+    ), num_of_questions
 
 
 def load_case_items(
@@ -66,29 +73,53 @@ def load_case_items(
         CHAPTER_PATH_DICT[input_chapter], chr(case_letter_idx + 97)
     )
     correct_options: list[str] = chapter_module_dict[input_chapter][1][case_letter_idx]
+    num_of_questions: int = 0
 
     items: list[Output.Group | Output.Question] = []
     for input_item in case.items:
         try:
             if isinstance(input_item, Input.Group):
-                group: Output.Group = load_group(input_item, options, correct_options)
+                group, group_num_of_questions = load_group(
+                    input_item, options, correct_options
+                )
                 items.append(group)
+                num_of_questions += group_num_of_questions
             else:
-                    question: Output.Question = Output.Question(
-                        question=input_item.question,
-                        options=options[input_item.number - 1],
-                        correct_option=correct_options[input_item.number - 1],
-                    )
-                    items.append(question)
+                question: Output.Question = Output.Question(
+                    question=input_item.question,
+                    options=options[input_item.number - 1],
+                    correct_option=correct_options[input_item.number - 1],
+                )
+                items.append(question)
+                num_of_questions += 1
         except IndexError as e:
-            print(case.case_name)
-            raise(e)
+            logging.debug(f"{case.case_name=}")
+            raise (e)
+
+    try:
+        assert num_of_questions == len(correct_options)
+    except AssertionError as e:
+        logging.debug(f"{num_of_questions=}")
+        logging.debug(f"{len(options)=}")
+        logging.debug(f"{len(correct_options)=}")
+        if isinstance(items[-1], Output.Question):
+            logging.debug(f"{items[-1].question=}")
+        else:
+            logging.debug(f"{items[-1].parent_question=}")
+        raise(e)
     return items
 
 
 def main():
+    logging.basicConfig(
+        filename="debug.log",
+        filemode="w",
+        level=logging.DEBUG,
+        format="%(lineno)d: %(message)s",
+    )
+
     for key, value in CHAPTER_PATH_DICT.items():
-        if key in ["Series Completion", "Coding - Decoding"]:
+        if key in ["Series Completion", "Coding - Decoding", "Blood Relations"]:
             types_module = importlib.import_module(f"{value}.types")
             correct_options_module = importlib.import_module(f"{value}.correct_options")
             chapter_module_dict[key] = (
@@ -98,7 +129,11 @@ def main():
 
     chapters: list[Output.Chapter] = []
     for input_chapter in CHAPTER_PATH_DICT.keys():
-        if input_chapter in ["Series Completion", "Coding - Decoding"]:
+        if input_chapter in [
+            "Series Completion",
+            "Coding - Decoding",
+            "Blood Relations",
+        ]:
             types: list[Output.Type] = []
             case_letter_idx: int = 0
             for input_problem_type in chapter_module_dict[input_chapter][0]:
@@ -110,7 +145,13 @@ def main():
                             input_chapter, input_case, case_letter_idx
                         )
                     except IndexError as e:
-                        print(chapter_module_dict[input_chapter][1][2])
+                        logging.debug(f"{input_chapter=}")
+                        logging.debug(f"{input_problem_type.type_name=}")
+                        logging.debug(f"{case_letter_idx=}")
+                        raise (e)
+                    except AssertionError as e:
+                        logging.debug(f"{input_case.case_name=}")
+                        logging.debug(f"{input_problem_type.type_name=}")
                         raise(e)
                     case: Output.Case = Output.Case(
                         case_name=input_case.case_name, items=items

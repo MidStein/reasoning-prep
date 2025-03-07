@@ -107,11 +107,11 @@ A is the  brother of C.
 C is the brother of A.
 A, B and C are D's children.
 
-B is the mother of z.
-X is the sister of z.
-Y is the son of a.
+B is the mother of Z.
+X is the sister of Z.
+Y is the son of A.
 B has one daughter.
-B is the wife of a.
+B is the wife of A.
 
 Rajan
 Sachin
@@ -401,4 +401,4 @@ Any girl of class B marries his mother's brother.
 Any widower marries his wife's sister.
 Any boy of class B marries his father's sister.
 Any widower born in class A marries his brother's widow.
-Any widow marries the former diveroced husband of her daughter.
+Any widow marries the former divorced husband of her daughter.

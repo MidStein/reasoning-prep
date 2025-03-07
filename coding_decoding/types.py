@@ -690,7 +690,7 @@ TYPES: list[Input.Type] = [
                         number=4
                     ),
                     Input.Individual_Question(
-                        question="In a certain code, <em>'bi nie pie'</em> means <em>'some good jokes'</em>; <em>'nie bat lik'</em>; means <em>'some real storeis'</em>; <em>'pie lik tol'</em> means <em>'many good stories'</em>. Whic word in that code means <em>'jokes'</em> ?",
+                        question="In a certain code, <em>'bi nie pie'</em> means <em>'some good jokes'</em>; <em>'nie bat lik'</em>; means <em>'some real stories'</em>; <em>'pie lik tol'</em> means <em>'many good stories'</em>. Which word in that code means <em>'jokes'</em> ?",
                         number=5
                     ),
                     Input.Individual_Question(
@@ -698,7 +698,7 @@ TYPES: list[Input.Type] = [
                         number=6
                     ),
                     Input.Individual_Question(
-                        question="If <em>'gnr tag zog qmp'</em> stands for <em>'Seoul Olympic Organising Committee'</em>; <em>'hyto gnr emf'</em> stands for <em>'summer Olympic games'</em> and <em>'esm sdr hyto'</em> stands for <em>'modern games history'</em>, what would be the docd for <em>'summer'</em> ?",
+                        question="If <em>'gnr tag zog qmp'</em> stands for <em>'Seoul Olympic Organising Committee'</em>; <em>'hyto gnr emf'</em> stands for <em>'summer Olympic games'</em> and <em>'esm sdr hyto'</em> stands for <em>'modern games history'</em>, what would be the code for <em>'summer'</em> ?",
                         number=7
                     ),
                     Input.Individual_Question(
@@ -718,7 +718,7 @@ TYPES: list[Input.Type] = [
                         number=11
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, <em>'put tir fin'</em> means <em>'delicious juicy fruit'</em>; <em>'tie dip sig'</em> means beautiful white lily<em>' and '</em>sig lon fin<em>' means '</em>lily and fruit'. Which of the following stands for <em>'and'</em> in that language ?",
+                        question="In a certain code language, <em>'put tir fin'</em> means <em>'delicious juicy fruit'</em>; <em>'tie dip sig'</em> means <em>'beautiful white lily'</em> and <em>'sig lon fin'</em> means '<em>lily and fruit'</em>. Which of the following stands for <em>'and'</em> in that language ?",
                         number=12
                     ),
                     Input.Individual_Question(
@@ -726,7 +726,7 @@ TYPES: list[Input.Type] = [
                         number=13
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, <em>'dom pul ta'</em> means <em>'bring hot footd'</em>; <em>'pul tir sop'</em> means <em>'food is good'</em> and <em>'tak da sop'</em> means <em>'good bright boy'</em>. Which of the followsing does mean <em>'hot'</em> in that language ?",
+                        question="In a certain code language, <em>'dom pul ta'</em> means <em>'bring hot foot'</em>; <em>'pul tir sop'</em> means <em>'food is good'</em> and <em>'tak da sop'</em> means <em>'good bright boy'</em>. Which of the following does mean <em>'hot'</em> in that language ?",
                         number=14
                     ),
                     Input.Individual_Question(
@@ -752,7 +752,7 @@ TYPES: list[Input.Type] = [
                     Input.Group(
                         parent_question="Directions :<br>In a certain code language,<br>(A) <em>'pit na som'</em> means <em>'bring me water'</em>;<br>(B) <em>'na jo tod'</em> means <em>'water is life'</em>;<br>(C) <em>'tub od pit'</em> means <em>'give me toy'</em>.<br>(D) <em>'jo lin kot'</em> means <em>'life and death'</em>.", 
                         questions=[
-                            "In that language, which word stands for <em>'they'</em> ?",
+                            "Which of the following represents <em>'is'</em> in that language ?",
                             "To find the answer to the above question, which of the following statements can be dispensed with ?"
                         ],
                         from_question=20
@@ -760,7 +760,7 @@ TYPES: list[Input.Type] = [
                     Input.Group(
                         parent_question="Directions :<br>In a certain code language,<br>(A) <em>'mxy das zci'</em> means <em>'good little frock'</em>;<br>(B) <em>'jmx cos zci'</em> means <em>'girl behaves good'</em>;<br>(C) <em>'nvg drs cos'</em> means <em>'girl makes mischief'</em><br>(D) <em>'das ajp cos'</em> means <em>'little girl fell'</em>.", 
                         questions=[
-                            "Which of the following means <em>'bright'</em> in that language ?",
+                            "Which word in that language stands for <em>'frock'</em> ?",
                             "Which of the given statements is superfluous ?"
                         ],
                         from_question=22
@@ -786,7 +786,7 @@ TYPES: list[Input.Type] = [
                         from_question=27
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, <em>'nee muk pic'</em> means <em>'grave and concern'</em>; <em>'ill dic so'</em> means <em>'every body else'</em>; and <em>'tur muk so'</em> means <em>'body and soul'</em>. .Which of the following would mean <em>'every concern'</em> ?",
+                        question="In a certain code language, <em>'nee muk pic'</em> means <em>'grave and concern'</em>; <em>'ill dic so'</em> means <em>'every body else'</em>; and <em>'tur muk so'</em> means <em>'body and soul'</em>. Which of the following would mean <em>'every concern'</em> ?",
                         number=29
                     ),
                     Input.Individual_Question(
@@ -809,7 +809,7 @@ TYPES: list[Input.Type] = [
                             parent_question="Questions :<br>In a certain code, <em>'il be pee'</em> means <em>'roses are blue'</em>; <em>'sik hee'</em> means <em>'red flowers'</em> and <em>'pee mit hee'</em> means <em>'flowers are vegetables'</em>.", 
                         questions=[
                             "How is <em>'red'</em> written in that code ?",
-                            "How is <em>'roses'</em> written in that code ?"
+                            "How is <em>'roses'</em> written in that code ?",
                             "How is <em>'vegetables are red flowers'</em> written in that code ?"
                         ],
                         from_question=34
@@ -824,75 +824,75 @@ TYPES: list[Input.Type] = [
             Input.Case(
                 items=[
                     Input.Individual_Question(
-                        question="In a certain code, '37' means 'which class' and '583' means 'caste and class'. What is the code for 'caste' ?",
+                        question="In a certain code, '37' means <em>'which class'</em> and '583' means <em>'caste and class'</em>. What is the code for <em>'caste'</em> ?",
                         number=1
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '743' means 'mangoes are good'; '657' means 'eat good food' and '934' means 'mangoes are ripe'. Which digit means 'ripe' in that language ?",
+                        question="In a certain code language, '743' means <em>'mangoes are good'</em>; '657' means <em>'eat good food'</em> and '934' means <em>'mangoes are ripe'</em>. Which digit means <em>'ripe'</em> in that language ?",
                         number=2
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '743' means 'mangoes are good'; '657' means 'eat good food' and '934' means 'mangoes are ripe'. Which digit means 'ripe' in that language ?",
+                        question="In a certain code language, '134' means <em>'good and tasty'</em>; '478' means <em>'see good pictures'</em> and '729' means <em>'pictures are faint'</em>. Which of the following digit stands for <em>'see'</em> ?",
                         number=3
                     ),
                     Input.Individual_Question(
-                        question="In a certain code, '247' means 'spread red carpet'; '256' means 'dust one carpet' and '234' means 'one red carpet'. Which digit in that code means 'dust' ?",
+                        question="In a certain code, '247' means <em>'spread red carpet'</em>; '256' means <em>'dust one carpet'</em> and '234' means <em>'one red carpet'</em>. Which digit in that code means <em>'dust'</em> ?",
                         number=4
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '123' means bright little boy', '145' means 'tall big boy' and '637' means 'beautiful little flower'. Which digit in that language means 'bright' ?",
+                        question="In a certain code language, '123' means <em>'bright little boy'</em>, '145' means <em>'tall big boy'</em> and '637' means <em>'beautiful little flower'</em>. Which digit in that language means <em>'bright'</em> ?",
                         number=5
                     ),
                     Input.Individual_Question(
-                        question="In a certain code, '256' means 'you are good'; '637' means 'we are bad' and '358' means 'good and bad'. Which of the following represents 'and' in that code ?",
+                        question="In a certain code, '256' means <em>'you are good'</em>; '637' means <em>'we are bad'</em> and '358' means <em>'good and bad'</em>. Which of the following represents <em>'and'</em> in that code ?",
                         number=6
                     ),
                     Input.Individual_Question(
-                        question="In a certain code, '467' means 'leaves are green'; '485' means 'green is good' and '639' means 'they are playing'. Which digit stands for 'leaves' in that code ?",
+                        question="In a certain code, '467' means <em>'leaves are green'</em>; '485' means <em>'green is good'</em> and '639' means <em>'they are playing'</em>. Which digit stands for <em>'leaves'</em> in that code ?",
                         number=7
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '851' means 'good sweet fruit'; '783' means 'good red rose' and '341' means 'rose and fruit'. Which of the following digit stands for 'sweet' in that language ?",
+                        question="In a certain code language, '851' means <em>'good sweet fruit'</em>; '783' means <em>'good red rose'</em> and '341' means <em>'rose and fruit'</em>. Which of the following digit stands for <em>'sweet'</em> in that language ?",
                         number=8
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '479' means 'fruit is sweet'; '248' means 'very sweet voice' and '637' means 'eat fruit daily'. Which digit stands for 'is' in that code ?",
+                        question="In a certain code language, '479' means <em>'fruit is sweet'</em>; '248' means <em>'very sweet voice'</em> and '637' means <em>'eat fruit daily'</em>. Which digit stands for <em>'is'</em> in that code ?",
                         number=9
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '123' means 'hot filtered coffee'; '356' means 'very hot day' and '589' means 'day and night'. Which digit stands for 'very' ?",
+                        question="In a certain code language, '123' means <em>'hot filtered coffee'</em>; '356' means <em>'very hot day'</em> and '589' means <em>'day and night'</em>. Which digit stands for <em>'very'</em> ?",
                         number=10
                     ),
                     Input.Individual_Question(
-                        question="In a certain code, '256' means 'red colour chalk'; '589' means 'green colour flower' and '245' means 'white colour chalk'. Which digit in that code means 'white' ?",
+                        question="In a certain code, '256' means <em>'red colour chalk'</em>; '589' means <em>'green colour flower'</em> and '245' means <em>'white colour chalk'</em>. Which digit in that code means <em>'white'</em> ?",
                         number=11
                     ),
                     Input.Individual_Question(
-                        question="In a certain code langauge, '526' means 'sky is blue'; '24' means 'blue colour' and '436' means 'colour is fun'. Which digit in that language means 'fun' ?",
+                        question="In a certain code langauge, '526' means <em>'sky is blue'</em>; '24' means <em>'blue colour'</em> and '436' means <em>'colour is fun'</em>. Which digit in that language means <em>'fun'</em> ?",
                         number=12
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '381' means 'Hari is honest'; '162' means 'Shashi is intelligent' and '948' means 'Hari should go'. Which digit in that language means 'honest' ?",
+                        question="In a certain code language, '381' means <em>'Hari is honest'</em>; '162' means <em>'Shashi is intelligent'</em> and '948' means <em>'Hari should go'</em>. Which digit in that language means <em>'honest'</em> ?",
                         number=13
                     ),
                     Input.Individual_Question(
-                        question="In a certain code, '253' means 'books are old'; '546' means 'man is old' and '378' means 'buy good books'. What stands for 'are' in that code ?",
+                        question="In a certain code, '253' means <em>'books are old'</em>; '546' means <em>'man is old'</em> and '378' means <em>'buy good books'</em>. What stands for <em>'are'</em> in that code ?",
                         number=14
                     ),
                     Input.Individual_Question(
-                        question="In a certain code, '975' means 'Throw away garbage'; '528' means 'Give away smoking' and '213' means 'Smoking is harmful'. Which digit in that code means 'Give' ?",
+                        question="In a certain code, '975' means <em>'Throw away garbage'</em>; '528' means <em>'Give away smoking'</em> and '213' means <em>'Smoking is harmful'</em>. Which digit in that code means <em>'Give'</em> ?",
                         number=15
                     ),
                     Input.Group(
-                        parent_question="Directions :<br>In a certain code '289' means 'read from paper'; '276' means 'tea from field' and '85 means 'wall paper'.", 
+                        parent_question="Directions :<br>In a certain code '289' means <em>'read from paper'</em>; '276' means <em>'tea from field'</em> and '85 means <em>'wall paper'</em>.", 
                         questions=[
-                            "Which of the following is the code for 'tea' ?",
-                            "Which of the following is the code for 'paper' ?"
+                            "Which of the following is the code for <em>'tea'</em> ?",
+                            "Which of the following is the code for <em>'paper'</em> ?"
                         ],
                         from_question=16
                     ),
                     Input.Group(
-                        parent_question="Directions :<br>(A) '134' means 'you are well';<br>(B) '758' means 'they go home';<br>(C) '839' means 'we are home'.", 
+                        parent_question="Directions :<br>(A) '134' means <em>'you are well'</em>;<br>(B) '758' means <em>'they go home'</em>;<br>(C) '839' means <em>'we are home'</em>.", 
                         questions=[
                             "Which of the following represents 'they' in that code language ?",
                             "Which of the statements can be dispensed with while answering the above question ?"
@@ -900,12 +900,104 @@ TYPES: list[Input.Type] = [
                         from_question=18
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '617' means 'sweet and hot'; '735' means 'coffee is sweet' and '263' means 'tea is hot'. Which of the following would mean 'coffee is hot' ?",
+                        question="In a certain code language, '617' means <em>'sweet and hot'</em>; '735' means <em>'coffee is sweet'</em> and '263' means <em>'tea is hot'</em>. Which of the following would mean 'coffee is hot' ?",
                         number=20
                     ),
                     Input.Individual_Question(
-                        question="In a certain code language, '3a, 2b, 7c' means 'Truth is Eternal'; '7c, 9a, 8b, 3a' means 'Enmity is not Eternal' and '9a, 4d, 2b, 8b' means 'Truth does not perish'. Which of the following means 'enmity' in that language ?",
+                        question="In a certain code language, <em>'3a, 2b, 7c'</em> means <em>'Truth is Eternal'</em>; <em>'7c, 9a, 8b, 3a'</em> means <em>'Enmity is not Eternal'</em> and <em>'9a, 4d, 2b, 8b'</em> means <em>'Truth does not perish'</em>. Which of the following means <em>'enmity'</em> in that language ?",
                         number=21
+                    ),
+                ],
+            ),
+        ],
+    ),
+    Input.Type(
+        type_name="DECIPHERING INDIVIDUAL LETTER CODES BY ANALYSIS",
+        cases=[
+            Input.Case(
+                skip=True,
+                items=[
+                    Input.Group(
+                        parent_question="Directions : According to a code language, words in capital letters in column I are written in small letters in column II. The letters in column II are jumbled up. Decode the language and choose the correct code for the word given in each question.<br><br><table><thead><tr><th>Column I</th><th>Column II</th></tr></thead><tbody><tr><td>(1) CURSE</td><td>(A) opkif</td></tr><tr><td>(2) INCUR</td><td>(B) fbpoc</td></tr><tr><td>(3) TALLY</td><td>(C) ughvg</td></tr><tr><td>(4) CADET</td><td>(D) rkufh</td></tr><tr><td>(5) DRIP</td><td>(E) rotc</td></tr><tr><td>(6) TOIL</td><td>(F) jugc</td></tr><tr><td>(7) RACE</td><td>(G) vwoh</td></tr></tbody></table>", 
+                        questions=[
+                            "DAIRY",
+                            "TODAY",
+                            "PIECE",
+                            "CIVIL",
+                            "SUSTAIN",
+                            "TRIED",
+                            "RACE",
+                            "ENVOY",
+                            "REVET",
+                            "SUN",
+                        ],
+                        from_question=1
+                    ),
+                    Input.Group(
+                        parent_question="Directions : According to a code language, words in capital letters in column I are written in small letters in column II. The letters in column II are jumbled up. Decode the language and choose the correct code for the word given in each question.<br><br><table><thead><tr><th>Column I</th><th>Column II</th></tr></thead><tbody><tr><td>(1) SOUND</td><td>(A) abi</td></tr><tr><td>(2) ADDRESS</td><td>(B) cjmv</td></tr><tr><td>(3) CRUX</td><td>(C) ikmop</td></tr><tr><td>(4) NET</td><td>(D) ijktv</td></tr><tr><td>(5) CRONY</td><td>(E) jkgotv</td></tr><tr><td>(6) CROWDY</td><td>(F) blooppv</td></tr></tbody></table>", 
+                        questions=[
+                            "A",
+                            "C",
+                            "D",
+                            "N",
+                            "O",
+                            "R",
+                            "S",
+                            "T",
+                        ],
+                        from_question=11
+                    ),
+                    Input.Group(
+                        parent_question="Directions : According to a code language, words in capital letters in column I are written in small letters in column II. The letters in column II are jumbled up. Decode the language and choose the correct code for the word given in each question.<br><br><table><thead><tr><th>Column I</th><th>Column II</th></tr></thead><tbody><tr><td>(1) TAPE</td><td>(A) moij</td></tr><tr><td>(2) COUP</td><td>(B) lhhpok</td></tr><tr><td>(3) TIE</td><td>(C) nls</td></tr><tr><td>(4) ROTATE</td><td>(D) nhpk</td></tr><tr><td>(5) SAY</td><td>(E) nkpl</td></tr><tr><td>(6) TREAT</td><td>(F) msr</td></tr><tr><td>(7) YEAR</td><td>(F) khlph</td></tr><tr><td>(8) SIP</td><td>(F) hrp</td></tr><tr><td>(9) TYRE</td><td>(F) pmlh</td></tr></tbody></table>", 
+                        questions=[
+                            "SOUP",
+                            "REACT",
+                            "TRACE",
+                            "POSSESS",
+                            "CREATE",
+                            "EASY",
+                            "CURE",
+                        ],
+                        from_question=19
+                    ),
+                    Input.Group(
+                        parent_question="Directions : According to a code language, words in capital letters in column I are written in small letters in column II. The letters in column II are jumbled up. Decode the language and choose the correct code for the word given in each question.<br><br><table><thead><tr><th>Column I</th><th>Column II</th></tr></thead><tbody><tr><td>(1) BID</td><td>(A) nnrw</td></tr><tr><td>(2) BAT</td><td>(B) emps</td></tr><tr><td>(3) BAD</td><td>(C) lwz</td></tr><tr><td>(4) CHEAP</td><td>(D) aejmnq</td></tr><tr><td>(5) HILL</td><td>(E) kms</td></tr><tr><td>(6) PORK</td><td>(F) emrux</td></tr><tr><td>(7) QUOTE</td><td>(G) ehqr</td></tr><tr><td>(8) ROSE</td><td>(H) iotx</td></tr><tr><td>(9) VEX</td><td>(I) aceenoww</td></tr><tr><td>(10) WAVE</td><td>(J) elu</td></tr><tr><td>(11) NAMELY</td><td>(K) befms</td></tr><tr><td>(12) FAMILIAR</td><td>(L) moty</td></tr><tr><td>(13) HAZY</td><td>(M) elz</td></tr><tr><td>(14) VAGUE</td><td>(N) dfmtu</td></tr></tbody></table>", 
+                        questions=[
+                            "B",
+                            "C",
+                            "D",
+                            "F",
+                            "G",
+                            "H",
+                            "A",
+                            "K",
+                            "M",
+                            "Z",
+                        ],
+                        from_question=26,
+                        skip=True
+                    ),
+                    Input.Group(
+                        parent_question="Directions : According to a code language, words in capital letters in column I are written in small letters in column II. The letters in column II are jumbled up. Decode the language and choose the correct code for the word given in each question.<br><br><table><thead><tr><th>Column I</th><th>Column II</th></tr></thead><tbody><tr><td>(1) CHIEF</td><td>(A) knqwy</td></tr><tr><td>(2) NIGHT</td><td>(B) akwjh</td></tr><tr><td>(3) THIRD</td><td>(C) kvhwg</td></tr><tr><td>(4) MONEY</td><td>(D) njumz</td></tr><tr><td>(5) WOMAN</td><td>(E) zcjms</td></tr><tr><td>(6) WORKS</td><td>(F) ctvzo</td></tr><tr><td>(7) BASIC</td><td>(G) dtwsq</td></tr><tr><td>(8) HENRY</td><td>(H) jvunk</td></tr><tr><td>(9) BASED</td><td>(I) gstnd</td></tr><tr><td>(10) PSYCO</td><td>(J) qutzb</td></tr><tr><td>(11) TOWEL</td><td>(K) nzche</td></tr><tr><td>(12) FALSE</td><td>(L) ynest</td></tr><tr><td>(13) DOWRY</td><td>(M) cvguz</td></tr><tr><td>(14) STOCK</td><td>(N) toqhz</td></tr><tr><td>(15) TRAIN</td><td>(O) swhvj</td></tr></tbody></table>", 
+                        questions=[
+                            "AUGUST",
+                            "BOARD",
+                            "JUNIOR",
+                            "DIGEST",
+                            "DEAF",
+                        ],
+                        from_question=36,
+                    ),
+                    Input.Group(
+                        parent_question="Directions : In each of the following questions, a word has been written in four different code languages. One of the code languages is common to all the five quetsions. The code equivalent of the word in that code language is your answer in each question.", 
+                        questions=[
+                            "CLUSTER",
+                            "LIGHT",
+                            "TRIVIAL",
+                            "NUMBER",
+                            "BRAVE",
+                        ],
+                        from_question=41,
                     ),
                 ],
             ),

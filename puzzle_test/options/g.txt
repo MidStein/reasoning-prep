@@ -95,7 +95,6 @@ C and D
 Cannot be determined
 None of these
 
-
 Two lady members are Ph.D.
 Three male members are Ph.D.
 The person who teaches zoology is not Ph.D.

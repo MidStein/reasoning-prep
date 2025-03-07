@@ -40,9 +40,10 @@ His uncle
 His nephew
 None of these
 
-Daugher
+Daughter
 Grand daughter
-Mother sister
+Mother
+Sister
 Aunt
 
 Niece
@@ -114,7 +115,6 @@ Nephew
 Sister-in-law
 Wife
 Either (a) or (b)
-
 Neither (a) nor (b)
 
 Mother

@@ -180,16 +180,19 @@ kew & deko
 kew & xas
 deko & tepo
 
-cinto baoli
+cinto
+baoli
 oind
 geit
 
-hee sik
+hee
+sik
 Cannot be determined
 None of these
 
 il
-pee be
+pee
+be
 Cannot be determined
 None of these
 

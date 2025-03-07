@@ -104,7 +104,6 @@ IBJA
 ICHDF
 None of these
 
-
 There are three students sitting between D and G.
 K is between A and J.
 B is sitting between J and I.

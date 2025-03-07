@@ -13,7 +13,9 @@ def load_chapters() -> list[Chapter]:
     return [Chapter(**chapter) for chapter in chapters_json]
 
 
-def create_options(question_element: ET.Element, options: list[str] | None, correct_option: str) -> None:
+def create_options(
+    question_element: ET.Element, options: list[str] | None, correct_option: str
+) -> None:
     if options is not None:
         for option_idx in range(len(options)):
             answer_element: ET.Element = ET.SubElement(question_element, "answer")
@@ -27,17 +29,22 @@ def create_options(question_element: ET.Element, options: list[str] | None, corr
             answer_element.attrib["fraction"] = (
                 "100" if ord(correct_option) - 97 == option_idx else "0"
             )
-            ET.SubElement(answer_element, "text").text = " "
+            ET.SubElement(answer_element, "text").text = chr(option_idx + 97)
 
 
 def create_question(
-    root: ET.Element, question: str, options: list[str] | None, correct_option: str
+    root: ET.Element,
+    question: str,
+    options: list[str] | None,
+    correct_option: str,
+    question_name: str,
+    question_number: int,
 ) -> None:
     question_element: ET.Element = ET.SubElement(root, "question")
     question_element.attrib["type"] = "multichoice"
 
     name_element: ET.Element = ET.SubElement(question_element, "name")
-    ET.SubElement(name_element, "text").text = question
+    ET.SubElement(name_element, "text").text = question_name + f"::{question_number}"
 
     questiontext_element: ET.Element = ET.SubElement(question_element, "questiontext")
     questiontext_element.attrib["format"] = "html"
@@ -49,7 +56,12 @@ def create_question(
     ET.SubElement(question_element, "answernumbering").text = "abc"
 
 
-def parse_item(root: ET.Element, item: Group | Question):
+def parse_item(
+    root: ET.Element,
+    item: Group | Question,
+    question_name: str,
+    question_number: int = 1,
+):
     if isinstance(item, Group):
         for question in item.questions:
             create_question(
@@ -57,19 +69,44 @@ def parse_item(root: ET.Element, item: Group | Question):
                 item.parent_question + "<br><br>" + question.question,
                 question.options,
                 question.correct_option,
+                question_name,
+                question_number,
             )
+            question_number += 1
     else:
         assert isinstance(item, Question)
-        create_question(root, item.question, item.options, item.correct_option)
+        create_question(
+            root,
+            item.question,
+            item.options,
+            item.correct_option,
+            question_name,
+            question_number,
+        )
+        question_number += 1
 
 
 def create_xml_tree(chapters: list[Chapter]) -> ET.ElementTree:
     root: ET.Element = ET.Element("quiz")
     for chapter in chapters:
+        category_question_element: ET.Element = ET.SubElement(root, "question")
+        category_question_element.attrib["type"] = "category"
+        category_element: ET.Element = ET.SubElement(
+            category_question_element, "category"
+        )
+        ET.SubElement(category_element, "text").text = (
+            "Reasoning/" + chapter.chapter_name
+        )
         for problem_type in chapter.types:
+            question_name: str = (
+                f"Reasoning::{chapter.chapter_name}::{problem_type.type_name}"
+            )
             for case in problem_type.cases:
+                if case.case_name:
+                    question_name = f"Reasoning::{chapter.chapter_name}::{problem_type.type_name}::{case.case_name}"
                 for item in case.items:
-                    parse_item(root, item)
+                    question_number: int = 1
+                    parse_item(root, item, question_name, question_number)
     return ET.ElementTree(root)
 
 

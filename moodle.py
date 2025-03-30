@@ -8,7 +8,6 @@ from models.Output import Chapter, Group, Question
 def load_chapters() -> list[Chapter]:
     with open("data.json") as data_json:
         data: str = data_json.read()
-        data = data.replace("\\n", "<br>")
         chapters_json = json.loads(data)
     return [Chapter(**chapter) for chapter in chapters_json]
 
@@ -20,7 +19,9 @@ def create_options(
         for option_idx in range(len(options)):
             answer_element: ET.Element = ET.SubElement(question_element, "answer")
             answer_element.attrib["fraction"] = (
-                "100" if ord(correct_option) - 97 == option_idx else "0"
+                "100"
+                if len(correct_option) != 0 and ord(correct_option) - 97 == option_idx
+                else "0"
             )
             ET.SubElement(answer_element, "text").text = options[option_idx]
     else:
@@ -50,7 +51,12 @@ def create_question(
     questiontext_element.attrib["format"] = "html"
     ET.SubElement(questiontext_element, "text").text = question
 
-    create_options(question_element, options, correct_option)
+    try:
+        create_options(question_element, options, correct_option)
+    except TypeError:
+        print(f"{question=}")
+        print(f"{question_number=}")
+        raise
 
     ET.SubElement(question_element, "single").text = "true"
     ET.SubElement(question_element, "answernumbering").text = "abc"

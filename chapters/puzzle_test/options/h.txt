@@ -1,0 +1,163 @@
+A
+B
+C
+D
+
+Rs 5000
+Rs 3000
+Rs 2100
+Rs 1700
+
+Chessboard
+Cycle
+Record player
+Walkman
+
+A
+B
+C
+D
+
+A
+C
+D
+None of these
+
+one record player
+one cricket bat
+one record player and one cricket bat
+one record player and one camera
+
+A
+B
+C
+D
+
+D
+A
+C
+B
+
+A and B
+A and D
+B and C
+C and D
+
+one cricket bat and one camera
+one camera, one walkman and one cricket bat
+one cricket bat and one walkman
+one camera and one walkman
+
+A
+B
+C
+D
+
+A earns more than B.
+B earns more than D.
+C earns more than D.
+B earns more than C.
+
+Rs 40,000
+Rs 60,000
+Rs 80,000
+Rs 1,20,000
+
+D is 20 years old.
+F is 18 years old.
+F is 19 years old.
+F is 20 years old.
+
+18 and 19
+19 and 21
+18 and 20
+18 and 21
+
+A is between F and D in age.
+B is 17 years old.
+B is younger than D.
+F is 18 years old.
+
+2
+3
+4
+5
+
+A is 19 years old and D is 21.
+B is 19 years old and A is 20.
+B is 20 years old and A is 21.
+D is 17 years old and B is 21.
+
+Other three items will not contain two Balls.
+Other three items will not contain any Clip.
+Other three items will contain atleast one Clip.
+Other three items will not contain two Pins.
+None of these
+
+The other item may either be a Ball or a Clip.
+The other box with BB label will contain a Ball and a Clip.
+The other item will not be a Ball.
+The other item will also be a Ball.
+None of these
+
+It will have one Pin and one Clip.
+It will have atleast one Clip.
+It will have two Pins.
+It will have atleast one Pin.
+None of these
+
+The box BC contains one Pin and one Clip.
+The box BB contains one Ball and one Clip.
+The box BC contains two Balls.
+The box PC contains two Balls.
+The box BB contains one Clip.
+
+0
+1
+2
+3
+
+Aamir Sohail and Shahid Afridi
+Mark Greatbatch and Adam Parore
+Moin Khan and Azam Khan
+Salim Malik and Azam Khan
+
+Astle
+Younis
+Afridi
+Akram
+
+Patel
+Larsen
+Afridi
+Akram
+
+Both I and II are true
+i is true but II is false
+Both I and II are false
+II is true but I is false
+
+Afridi
+Younis
+Mushtaq
+Saqlain
+
+6
+7
+8
+9
+
+Waqar Younis
+Justin Vaughan
+Azam Khan and Waqar Younis
+None of these
+
+I and II are true but III is false
+Only II is true
+II and III are true but I is false
+All are true
+
+Last wicket partnership of Pakistan added 15 runs.
+Only two were given stumped out in the match.
+Last wicket partnership of New Zealand could not add any run.
+Runs scored by the seventh wicket partnersihp of New Zealand were same as the runs scored by the eighth wicket partnership of New Zealand.

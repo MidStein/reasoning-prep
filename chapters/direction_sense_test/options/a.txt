@@ -1,0 +1,151 @@
+North-east
+North-west
+South-east
+South-west
+
+East
+West
+North
+South
+
+South
+South-west
+West
+South-east
+
+East
+North-east
+North
+South-west
+
+25 metres
+50 metres
+115 metres
+140 metres
+None of these
+
+5 kilometres west
+5 kilometres north-east
+7 kilometres east
+7 kilometres west
+
+0
+5
+10
+Cannot be determined
+None of these
+
+20 metres
+30 metres
+50 metres
+60 metres
+None of these
+
+3 m
+4 m
+10 m
+11 m
+
+North
+South
+East
+South-west
+West
+
+East
+West
+North
+South
+
+North-east
+North-west
+South-east
+South-west
+None of these
+
+10 metres North
+20 metres South
+20 metres North
+10 metres South
+None of these
+
+0
+10
+20
+40
+None of these
+
+North
+North-west
+East
+North-east
+
+20 metres
+30 metres
+60 metres
+80 metres
+None of these
+
+35 metres East
+35 metres North
+40 metres East
+60 metres East
+None of these
+
+20 metres West
+10 metres East
+10 metres West
+10 metres North
+None of these
+
+North
+South
+East
+West
+
+3 km
+4 km
+5 km
+7 km
+
+10 metres
+20 metres
+50 metres
+70 metres
+None of these
+
+5 kmks
+10 kms
+40 kms
+80 kms
+
+East
+West
+North
+South
+
+North-west
+North
+South-est
+East
+
+5 metres
+10 metres
+15 metres
+20 metres
+23 metres
+
+15 metres West
+30 metres East
+30 metres West
+45 metres East
+
+80 metres
+100 metres
+140 metres
+260 metres
+
+South-east
+North-east
+South-west
+North-west

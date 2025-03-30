@@ -17,10 +17,10 @@ def parse_options(options: list[str]) -> str:
     option_lines: list[str] = []
     OPTION_NAMES: list[str] = ["a", "b", "c", "d", "e"]
     try:
-        for optionIdx, option in enumerate(options):
+        for option_idx, option in enumerate(options):
             option_lines.append(
                 "<input type='radio' name='selected_option' />"
-                + f"({OPTION_NAMES[optionIdx]}) {option}"
+                + f"({OPTION_NAMES[option_idx]}) {option}"
             )
     except IndexError as e:
         print(f"{options=}")

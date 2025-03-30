@@ -6,16 +6,21 @@ class Group(BaseModel):
     questions: list[str]
     from_question: int
     no_options: bool = False
+    skip: bool = False
+    modified: bool = False
 
 
-class Individual_Question(BaseModel):
+class IndividualQuestion(BaseModel):
     question: str
     number: int
+    modified: bool = False
+    skip: bool = False
 
 
 class Case(BaseModel):
     case_name: str | None = None
-    items: list[Group | Individual_Question]
+    items: list[Group | IndividualQuestion]
+    skip: bool = False
 
 
 class Type(BaseModel):

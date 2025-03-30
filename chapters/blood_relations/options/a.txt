@@ -1,0 +1,189 @@
+Son
+Husband
+Cousin
+Nephew
+Brother-in-law
+
+Son
+Brother-in-law
+Nephew
+Uncle
+Cousin
+
+Mother
+daughter
+sister
+grandmother
+None of these
+
+Niece
+Sister
+Aunt
+Sister-in-law
+Maternal aunt
+
+Father
+Brother
+Cousin
+Data Inadequate
+None of these
+
+Nephew
+Son
+Cousin
+Uncle
+Grandson
+
+His son
+His cousin
+His uncle
+His nephew
+None of these
+
+Daughter
+Grand daughter
+Mother
+Sister
+Aunt
+
+Niece
+Daughter
+Wife
+Daughter-in-law
+None of these
+
+Mother
+Sister
+Aunt
+Grandmother
+None of these
+
+Brother
+Son
+Uncle
+Son-in-law
+Nephew
+
+Son
+Brother
+Cousin
+Grandson
+Uncle
+
+Grandfather
+Father
+Brother-in-law
+Uncle
+None of these
+
+Mother
+Aunt
+Sister
+Daughter
+Grandmother
+
+Sister-in-law
+Mother
+Aunt
+Mother-in-law
+Cousin
+
+Cousin
+Daughter
+Niece
+Friend
+Aunt
+
+Grandfather
+Father
+Brother
+Can't be determined
+None of these
+
+Son
+Father
+Brother
+Father-in-law
+Cousin
+
+Brother-in-law
+Brother
+Cousin
+Uncle
+Nephew
+
+Sister-in-law
+Wife
+Either (a) or (b)
+Neither (a) nor (b)
+
+Mother
+Aunt
+Sister
+Niece
+None of these
+
+Nephew
+Sister
+Wife
+Niece
+Grand daughter
+
+Grandson
+Son
+Son-in-law
+Nephew
+None of these
+
+Brother
+Father-in-law
+Maternal uncle
+Husband
+None of these
+
+Son
+Brother
+Cousin
+Nephew
+Brother-in-law
+
+Mother
+Sister
+Aunt
+Niece
+None of these
+
+Father
+Grandfather
+Husband
+Father-in-law
+None of these
+
+Mother
+Aunt
+Sister
+Daughter
+Grandmother
+
+Aunt
+Mother
+Wife
+Daughter
+None of these
+
+Cousin
+Sister-in-law
+Mother
+Mother-in-law
+
+Mother's sister
+Grandmother
+Mother-in-law
+Sister of father-in-law
+Maternal aunt
+
+Brother
+Uncle
+Father
+Grandfather
+None of these

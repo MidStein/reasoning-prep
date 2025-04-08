@@ -1,7 +1,7 @@
 __pycache__/
-.venv/
 
 data.json
 anki.csv
 moodle.xml
 debug.log
+images/

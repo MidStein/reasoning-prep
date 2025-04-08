@@ -103,7 +103,7 @@ None of these
 
 Commerce-Male-Ph.D.
 Economics-Lady-non-Ph.D.
-Physic-Lady-Ph.D.
+Physics-Lady-Ph.D.
 Zoology-Male-Ph.D.
 Chemistry-Male-non-Ph.D.
 

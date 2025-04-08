@@ -98,7 +98,7 @@ def load_case_items(
         try:
             if isinstance(input_item, Input.Group):
                 if not input_item.skip:
-                    group = load_group(input_item, options, correct_options)
+                    group: Output.Group = load_group(input_item, options, correct_options)
                     items.append(group)
                 num_of_questions += len(input_item.questions)
             else:

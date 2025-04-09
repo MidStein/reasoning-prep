@@ -2,6 +2,7 @@ import importlib
 import json
 import logging
 import os
+import sys
 from typing import TypedDict
 
 import models.Input as Input
@@ -129,12 +130,21 @@ def load_case_items(
 
 
 def main():
-    logging.basicConfig(
-        filename=os.path.expanduser("~/tbd/debug.log"),
-        filemode="w",
-        level=logging.DEBUG,
-        format="%(lineno)d: %(message)s",
-    )
+    if os.path.exists(os.path.expanduser("~/tbd/debug.log")):
+        logging.basicConfig(
+            filename=os.path.expanduser("~/tbd/debug.log"),
+            filemode="w",
+            level=logging.DEBUG,
+            format="%(lineno)d: %(message)s",
+        )
+    else:
+        logging.basicConfig(
+            filename="debug.log",
+            filemode="w",
+            level=logging.DEBUG,
+            format="%(lineno)d: %(message)s",
+        )
+
 
     chapter_module_dict: dict[str, TypesAndCorrectOptions] = get_chapter_attributes()
 

@@ -72,6 +72,23 @@ about to revise one he marked as unsolved.
             can also increase the maximum time if you think there should be
             more time per question to practice.
 
+### Screenshots
+**Creating a Custom Study Session**
+
+![creating-a-custom-study-session](https://github.com/user-attachments/assets/a708b517-eeb8-4dc9-a96f-e68de860d02a)
+
+**Timer Options**
+
+![timer-options](https://github.com/user-attachments/assets/25be7753-ebe5-4115-81d5-44a62292574a)
+
+**Solve**
+
+![solve](https://github.com/user-attachments/assets/c1008400-141e-48c8-b93b-885da5405431)
+
+**Evaluate**
+
+![evaluate](https://github.com/user-attachments/assets/1a24845c-b25d-48b8-bf04-8438545e6447)
+
 ## Moodle
 
 ### Why use Moodle over the book
@@ -108,3 +125,21 @@ Moodle quizzes simulate online exams.
     the quiz in the Number of random questions select menu
   - Click on Add random question
 5. Take the quiz
+
+### Screenshots
+
+**Creating Question bank**
+
+![import-questions-from-file](https://github.com/user-attachments/assets/b7a46475-56e9-4f48-a96c-6b7fdc2d2d5f)
+
+**New Quiz**
+
+![new-quiz](https://github.com/user-attachments/assets/c4750c7d-eebe-4ffd-9d6f-1068e83484de)
+
+**Add Questions to Quiz**
+
+![add-random-questions](https://github.com/user-attachments/assets/73f232b3-66cb-49f1-8032-5c9b8413a6c7)
+
+**Taking the Quiz**
+
+![taking-the-quiz](https://github.com/user-attachments/assets/e6b6ced2-71fa-4e23-adef-0c2357ce58fd)
